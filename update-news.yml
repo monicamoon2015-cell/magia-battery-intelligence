@@ -1,4 +1,4 @@
-name: Update battery news
+name: .github/workflows/update-news.yml
 
 on:
   workflow_dispatch:
