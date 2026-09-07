@@ -1,4 +1,3198 @@
 {
-  "updated_at": "첫 GitHub Action 실행 전",
-  "articles": []
+  "updated_at": "2026-09-07 00:48 UTC",
+  "articles": [
+    {
+      "title": "TECHNOLOGY: China’s CATL Debuts EV Battery With Speedy Six-Minute Recharge and a 1,000-km Range - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWhndEFibVRaQUZrRmVvb21lUkZBUEJCc2puaXMwajZ3VV9lSVMtWENtNUV6bjNFZUNVaUY1VlVDZTVDSTRSTGFxQlNieEFjQkZRTVNUWVM2N3VKUEtQdk1HTGhlaXFjLTBLN2Q2ZFY5em8yamwyeDRndVVlMTF0SDVJTHZyN0hIbzV6VGZ3dnBLSk1DV212MktST0xXZ1FkdlQ1OUpqbDZ0bHVZZ1Bna1ln?oc=5",
+      "source": "EnergyNow.com",
+      "published": "Sat, 05 Sep 2026 14:37:53 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "CATL"
+      ]
+    },
+    {
+      "title": "China is launching nearly 3 new EVs a day, CATL warns of batch battery failures - CarNewsChina.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSkFfODhmR29hWjF0VGEtZHdod05NcUVHbzB5bmdJWHlCTFBlNmxwWUlDZ015WlhMN0U3MEtVVUxVMUFleUFkZS1yeFBYckxQcWljS2VuU0tSbGJiaG1aV3JxekZZT2ViVkl5SEJZRUpIRWp6X1JBbzlhUU5qOUxsWnl1d1dqYzdla2Q3Wk8xejBzbHR4dXJVeTVsS3dmc2t5SmV0Z0pTY2NLaGJhWndnTmNVQk92dw?oc=5",
+      "source": "CarNewsChina.com",
+      "published": "Fri, 04 Sep 2026 05:20:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "CATL"
+      ]
+    },
+    {
+      "title": "CATL Announces Local Partnership, Showcases Full-Chain Storage at The Smarter E South America 2026 - CATL",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Kak1xY01ZbHg4ZC1QZno5LWdUTlJ1MlZZN3FWRHI0bHZXVDFhMHFmVEdiU2hGVE9DVlhtUS0zNGZ5czQxQmNidnJhdkFzNUU?oc=5",
+      "source": "CATL",
+      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "CATL"
+      ]
+    },
+    {
+      "title": "CATL consolidating Chile presence, eying mid-2027 dispatch for first sodium-ion batteries - bnamericas.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb3NCV3diSmdNalBqNExWNFhKQUdtdHAwQnZOU0hCWlJhUGVUb19NcnljUS14MEdyTzB4OTRVVDhRb3Nhc0xZNkVPcjVKOGk3WHJOQ3ZnSjk0NlI5NDhsM0JwUEhFVFc3dndSQnVfb3QtQ0ZoRWgwbDhFc2dDQmxTRE9ZdkxhVkpOeGNzY2p2VjBPNVlLejY4X3JZNHktNDJWRXhfbk90RzNlOWN3Ukl4RU01RGtyX0lIR05GdGxGVlVUUFJ1Wnc?oc=5",
+      "source": "bnamericas.com",
+      "published": "Thu, 03 Sep 2026 17:08:29 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "CATL"
+      ]
+    },
+    {
+      "title": "As Chinese Batteries Capture 70% of the Market, Why Does Robin Zeng Focus on \"Quality\"? - Gasgoo",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQklCU0YzZERNUHRWd2xEcWlXR1R4UWc0eE9ULWVPek9GcmJ6b2xVNzFoQWtTLURXNW40YVJZOHJxdTA1LWI3SDY4aHI3aElqMnd6REJTZmw3cGctZGZqdXd1d2QyM2VlS284YVdUR2dRSUdZUVdyX1BzLUVmQWE4cF8xRGpSSWVhdkhGQ09QOVlXb3lEeG5WM3dfM1hucjVwcTFJbkJXSzBWM2NRUDFLd2NnVWU4TG1iWHFiUlpkUFZWMUxTTUZtY1BWajlsRkxFN0NLMHhYazkxZnU0?oc=5",
+      "source": "Gasgoo",
+      "published": "Sat, 05 Sep 2026 02:00:33 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "quality"
+      ],
+      "tags": [
+        "Quality"
+      ]
+    },
+    {
+      "title": "CATL debuts e-commerce hub for direct sales to small buyers as rivalry sharpens - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdGp3LWdTMU1Tai1udVN1NTlmNF90Z2FJRXAtamZuN29pSDhvT1BGQUZjUm5WbllteGxoVGFhczJxNVJBSzhvMEF3WWJpYTh4bDFMVTRJbWRKaExNdm5UWlFQOVlLQTFJblhmOTZVeTl0RUo1S0ZVb2RweVhsWGo4VUVhYnlpdXg2MFlZSXk4QUh5VTdVZWVFSlBMNDVWY2pGbkEwZ21PNFNfRkUzNkhLdTZPVDBWbzdsUGhyREY1MzBESllkeHVMeXdTcWthdkl4d05hTFBJN2VZWGvSAdsBQVVfeXFMTmNXZTNHVERhajBRWmx1REYwX2dTeUVFczN0alZtMkhjYWgzUUJ6cXlxTVVYaGVvdGE5dGFLS3ZxV3ZuZmFBR0lXZ3RTVE1fUlNtTHY3eGlhWjNhUW5pd1VKQmJjUlhVVHdOcHZrSnBMb3R3U08yM3o4MktXUVU3Wkl5LTFMYWRURjZwNG56d0lUNzNHVnJiWWdjT0lnVzFxSWZEZGx1WW8wMHVPTmdsOS01SklpYTZmUVJsM2tkd3lQQS0zX0JoMHNPV2xBQXRnM3R2SzlGb0FQclY0?oc=5",
+      "source": "South China Morning Post",
+      "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "CATL"
+      ]
+    },
+    {
+      "title": "Nickel exposure at CATL plant in Hungary - electrive.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVWNUSDAzaC1KRk16LTlORmJlM2wyWGtOYnRDSGx3RUNpQWhfcUZ4eUJkREdWMFdnbTdiMmw2a2FXR3dXd2R0cWZiQlFLUWJRUVVSLUxaSDFXSXdDMzBhVGxaYk1ZV09MV05PYjluN08xcnNUWmlnRlR1UXh1cW5XSnlOZFU?oc=5",
+      "source": "electrive.com",
+      "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "CATL"
+      ]
+    },
+    {
+      "title": "CATL's Jianxiawo lithium mine has EIA revoked - Benchmark Mineral Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHJDZDhZNlV2XzBZM2FMbDF4N3FuMFMzSDNrb19Zb2FjdUN4cnFWaUtMRFl0Y2p4OEVUOEhsZGJiRHVEc0xZRU5icW1wUEYxdC1qcVA5Mkx4WFZOYzZ3emVYRElzYXd6NG9iQU5tWnF2Z0lobDRCb01yLWE5M3NaWXNnR0VsTnk3dUtLN1BrSGhYbFht?oc=5",
+      "source": "Benchmark Mineral Intelligence",
+      "published": "Tue, 01 Sep 2026 09:51:47 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "CATL",
+        "Lithium"
+      ]
+    },
+    {
+      "title": "Top battery makers' share in China in July 2026: CATL 42.33%, BYD 19.23% - CnEVPost",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RSmRLdWF0OUJKTG1tMTlneENuZmNqNlEyMDA5N2tTaHVJYS1qNXpxTGl5UkRDY1lTa2xkcG9fZE9nSy03cVhUVk1ZRnZJRjZjcXNac1NRVy15NlBuWkZxSmQ2ZVVJaW1JWGhVbDV1aTNXaWZSbEtNLXZBUWI?oc=5",
+      "source": "CnEVPost",
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "CATL",
+        "BYD"
+      ]
+    },
+    {
+      "title": "CATL falls to 6-month low after Hungary plant halted over worker nickel exposure - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY2toQTA4X1ZVVGdtVDNPOXZheXpqa2tERnNERUdwdEJ0TUd2N0pjbzdFU082YWRhdlBUdWNfTlpGYWJaY3ltLXRuWVlvR2lrWUZZODRIc0JBRGZyNTV4bXg0ejByNXZSUThwemU5M3RGZ3BvRktTdEo3RktOc1czOWhpWkZUS0ROcDVfNWRkM2Q3VTFtTDNjNDVEWk1pdzdyc3JwRmpoLS0wU2pSZDFSbmFQOXJSaUFTVGs4Z0VTcnVxR3hITGZ4ZjZwUXNINGVGcUE?oc=5",
+      "source": "Investing.com",
+      "published": "Wed, 02 Sep 2026 05:19:13 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "CATL"
+      ]
+    },
+    {
+      "title": "CATL Chairman Zeng Yuqun, in a video address to the 2026 World Power B - SMM Metal",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQUZlNmY2cGhlQmExSlU5emV5WTlaX0Zfb3dnb3MtZFA3S2lLZlcyWFRNQmVfVmNvSVZaUndsVkJkUHlteVA1VndNNFY3SGtNb0tDU3pQTFlWRHFGV2lsUU5fbFRXTVFGSHFLZjdJZ2hCazMxSFd1dDdxUzNUd2JwT3ItTl9XQ1BLOG1CenA1T2IwM3VLZ2YtcHpwalcyUzYtaTZtcGg1akY2S3pNaklyY2UtRm5WaGVkdHlYcGFDVzJxWDl6VFF3bkk1UElULUpNaVJZeEpR?oc=5",
+      "source": "SMM Metal",
+      "published": "Thu, 03 Sep 2026 11:06:38 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "CATL"
+      ]
+    },
+    {
+      "title": "The world’s biggest EV battery maker says all 20 plants are carbon neutral - electrek.co",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFFUR2pHNVZjR3BTQ1Uyc2JPTVlvN1Y4OXlNSUREeWx3UjJlTXVDUlZCSmJUVDhZR1Nvc0NsWkh5Q1YtVThwV1VKZ1AtOUMwZ2MzSlpIT2lfMmh1YmdMZnAwcFhtYjhyU1dfZWdDNlg5U25NQ3JtUzUwRmpzNk5vdUp1Y0E2WnpLbGtBRTZ0N2dWbjBNbWtpdlg4b2VGT1JBdkhleWNxZlE?oc=5",
+      "source": "electrek.co",
+      "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": []
+    },
+    {
+      "title": "CATL Achieves 2025 Core Operation Carbon Neutrality Target, Sets Path to 2035 Value-Chain Goal - CATL",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tSndJelZmUEthZkRsN01RbkRCclRpZWxMVXRaZkpJWGxfbVdsM2FDUDA0TXM3c0dsTDdnX3BNV0FxWTBQUzZlZVJ0MWZFbnM?oc=5",
+      "source": "CATL",
+      "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "CATL"
+      ]
+    },
+    {
+      "title": "CATL cuts out distributors with 63 USD/kWh direct LFP cell sales as 1,800 companies sign on - CarNewsChina.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeE4tU2czcFBYZGFNN29CQ1VrZGZMbUpoTXVXMzd1VFRLRk5jbmlWN1ZONDZJWk5LYmpZbDhaYnRiaVkzQWRPdno2YlM2RlR5a1loLVA3Vl8yNG9DdzhuM0tET0ZrVDhaVDZmRjlGM1FXOHhiV1B1UVdQRGRTRXRfcFVvYkJmb1p2MjhQQlpjdHZGZFZCUFVEYktJRGFZeVdzekRuTklLZDA1WXROVURwSmVDN0NiTUgxSm1pN2pLNDVDVThUOVE?oc=5",
+      "source": "CarNewsChina.com",
+      "published": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "CATL",
+        "LFP"
+      ]
+    },
+    {
+      "title": "Alfen and CATL Reach 5 GWh Sodium-Ion Battery Storage Partnership in Europe - CATL",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xMVQ2azd5MTdlVW5iVTZ1VkFXM1pubzlOV1RqVWVHcEVrdEJ3clpjeGhOZ21VbVNsTVJvdHRNblVHZ2l6SFBIT192WnRFZVE?oc=5",
+      "source": "CATL",
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "CATL"
+      ]
+    },
+    {
+      "title": "CATL Launches World’s Largest Energy Storage Testbed, Advancing Industry into Era of Real-World Validation - CATL",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlZ19zbm4wdDR1RFA0OE9jd2NrcVR6cHNFbUZxbDdTU3N2Y3V4UHp2R01UM1VhbHlLczlrS2E2MHhqbVF4OVpmS2tlVDVva3M?oc=5",
+      "source": "CATL",
+      "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "CATL"
+      ]
+    },
+    {
+      "title": "CATL Debuts World's First Field-Validated Sodium-Ion BESS, Bringing Sodium Storage to Commercial Reality - CATL",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZVXF2YWxxM1pBWUpMeEltQ1N0V0xTeFFQUDJJcTVIclpJbmNsdU5FX0YyN2NpVGt5RDFmM0U1QmhhODk4ajV1Q3hWR3hlNWs?oc=5",
+      "source": "CATL",
+      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "CATL"
+      ]
+    },
+    {
+      "title": "CATL and Solarpro Sign 2 GWh Sodium-ion Battery Storage Agreement for Eastern Europe - CATL",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14cUdEQW1jUUZkcDctQjBsVE1ON09QRDhmTmJ0d1FoZTVXVW9tNThHQXJoR2ZaZkxudml6UE1WX3MxN3JTdEdQY1dvTTdNa0k?oc=5",
+      "source": "CATL",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "CATL"
+      ]
+    },
+    {
+      "title": "First Heavy-Duty Humanoid Robot Powered by CATL Batteries Goes Live in CATL Factory - CATL",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoNVJVLWtSTG04cm1CejhValVfaHJmZkx2b2YzcmYtNExEWHJadDVDRjE2OWJqdkJ2YkJUU09NUFNrQmdlSzhDUklDNEJLOUk?oc=5",
+      "source": "CATL",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "CATL"
+      ]
+    },
+    {
+      "title": "CATL Signs Memorandum of Understanding with Schaeffler - CATL",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkTXhvM2g2ckk2Ti0yVE5SWlhheDEybTNHYlU2WEVxdVpxUTFwSFdkQnJyQkNhS2FrTnIwM3J2RFdQeU45T1I5MXc4V2xOVlE?oc=5",
+      "source": "CATL",
+      "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "CATL"
+      ]
+    },
+    {
+      "title": "What is the Blade Battery, and why does it matter for electric cars? - The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVEtajFuV3BMTW1kOXdiMUc5eGpEdHBBSDdvbDJyLTZpQmtIY0hBX1VNeHdVOVVpM09xTUN3NUtfMDAyYzhLX1l6YzVBVTVieWdINm9KMWNyRVdsSFBub20zdDZ1b0FJNGpRT1JuaHFsVzBQajg1bEtnd2pRUnRfZkJoVGtZTUh6Q2diNUQxUEs0aWRKYUcxTnREakl3SVdsY01IbTY1LTdfTVk?oc=5",
+      "source": "The Daily Star",
+      "published": "Sun, 06 Sep 2026 17:07:16 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Does Ultra-Fast Charging Ruin An EV Battery? BYD Did It 350 Times In 9 Days To Find Out - InsideEVs",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2dWZwRUlfM0NLQ1E0elpmMTZZVFhaaGsyNTVFemN3a2NJMlM5MFdJNDk2OVFNUXpabnlOMksxNUU3SFJrYTlOaXoxMzBnMW4xZ0ViX2RjYUtjVlplRjJEcVdzaU5LS08zd2hER01GbTVueFEwMWlvN1FTRQ?oc=5",
+      "source": "InsideEVs",
+      "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "BYD"
+      ]
+    },
+    {
+      "title": "Corvus Energy and BYD introduce Blue Whale NxtGen Power marine LFP battery - Charged EVs",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRS1sU1hzNkc3RU9Od1VIS01JNVhoRVZIR2JmaXN1VWdqcnVQekVFWHNUc1FVSTk2cWREREFQMmlaRXZ0XzlnX05iSS1FTFBadTZrZXVacUtKa0lQMndvTENYbFhvT2hUanZ3eHladnFjQ3VHRm5ZRE5CdjREbVRkcGFlM0tkZ1RCTU9jS0Q3dWJUa3doa2hxOVFTeDRJcUxCTTJ6dEV4WV9oVHM?oc=5",
+      "source": "Charged EVs",
+      "published": "Wed, 02 Sep 2026 15:02:43 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "BYD",
+        "LFP"
+      ]
+    },
+    {
+      "title": "BYD’s Denza N8L EV to launch September 14 with 130 kWh battery, 960 km range and 208L frunk - CarNewsChina.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd0E5cUt1TVRqWmFFa3dWWVVNNncwMjVCUWNYc3l1MmlFU1RoQ29zdTIzeFN1OEJCLUJuQUxQRjVHcVBYbGx1NmRTU0htQ2hWZkNzZlplUHk1M3JaaENnNm9WMnVDMmtNNDBHTDVEUnN2MUZiRHlVYmZZX0g5YmFyUE5Nb3p1bVpRMnBNUUF2OWZXdWtWdGRTQTMwVFFWN21GNjZjSUZVX243VGF3ZXpOTVgtMF9xMWsxUG5hMHpucnVzeDhZ?oc=5",
+      "source": "CarNewsChina.com",
+      "published": "Sat, 05 Sep 2026 13:46:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "BYD"
+      ]
+    },
+    {
+      "title": "BYD’s most affordable EV is about to get a ‘big’ sibling - electrek.co",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oZVpFWUQzbTJDLTJqeE80U3RGQlRjeTBuUDhXenJ3c3lwRWdXdWVyS1YybmNBeEs4elkxcmZONHRFa1hnbXg5YXlHcXhSWHhBNGtTN3l3OVRFd29JdU9xeWgxNk5QaWtOdkszQWNGZy1qb2Ywb2c?oc=5",
+      "source": "electrek.co",
+      "published": "Fri, 04 Sep 2026 20:59:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "BYD"
+      ]
+    },
+    {
+      "title": "BYD launches Sealion 08 SUV, bolstering Ocean lineup's flagship push - CnEVPost",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zd0FqcFg3QXNIYzBqSDRoTEc5WlFxR0pPVXpSTFYxTFlObjdyWF96R2c3LW9rc1JVWmhYbEktcVZ5VV9ZWmEtcHVhZkVia0k1eTRCbEY3cVZUczJ1Z1d3ZWh3eklhQzBLb2t4Rg?oc=5",
+      "source": "CnEVPost",
+      "published": "Wed, 02 Sep 2026 09:58:38 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "BYD"
+      ]
+    },
+    {
+      "title": "BYD Battery, Ulaanbaatar plan cooperation on green urban development - Gasgoo",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM1AxbG8xSDZ3TEVPS001ZUlleExnR2JWMnMteDFaeEZYVVctMWtJWlRXV2NxanZrRWY1NnViWW9ncWh5cDlpOFhCTkxxY0JrVVlISDBhcGVvNGJDU25XdmhWV0RzT19NWGNORS0xdkJldVFfejJqSjlJRnRzUWdMcF9rV1p3aF9fbmlaS3NWUlc2Zmo5eWFGVzdFM2lidFNsbnlHNnZQeC0wd2dxSkJ6RDF2bC12SzE0dGJYV2p3YVFoeFJHenVGQg?oc=5",
+      "source": "Gasgoo",
+      "published": "Tue, 25 Aug 2026 08:56:20 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "BYD"
+      ]
+    },
+    {
+      "title": "BYD to bring its kei car technology to Europe - electrive.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd1pUbnUyZFhmdndsTEVlRFpFM0pRNldmTTlnb1gtdi0zR1J0SE9aTWh6enA0Q3hpTTY3Qnh0T28xdEEzdXZwWE83bmd4aEE3QnN6YnpkdjNlOVMtT00yY0RaYUppeXJKREpDcm1LdWFEbmktTEsyQURobzh0aVRFY1ozSmxlQTJZbnFz?oc=5",
+      "source": "electrive.com",
+      "published": "Tue, 01 Sep 2026 09:30:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "BYD"
+      ]
+    },
+    {
+      "title": "The New Era Of EV Engineering: Inside BYD’s Breakthrough Battery Technology - The Daily Scrum News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRkYzUm1NZWpFcEZRTUFxUUN3aGRjZEN6TlFMZ0dVb3U3QjJpYXNNUEpRWEJNcDgyMVVKZWdvVGpMMkVUSzdOcHQ4ZktXeXY4S2hPQ05wd3VZWXotVVI1Vjh3SG1RQXd6Wkp6Zmx6R05JcGEyVVFZajYtWGRCek96ZDlWbW1oR25TU1RZa09VQlVBOFdzOFlGNDMzSEM0MFdiR1BuS29aQlphQ1lk?oc=5",
+      "source": "The Daily Scrum News",
+      "published": "Fri, 04 Sep 2026 15:53:14 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "BYD"
+      ]
+    },
+    {
+      "title": "China's BYD ramps up battery production in Brazil - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeEdvckU1UTVudklQNVdMQVFtclZ2WmhwaWlrZmFnZkxHczFMeGxsWi1iZ18zeFZQcnhOR3FUd2FteGhZaDl1LVJpRnRvN3NNMjN3QWFhLXRaQkxCUXE1QVpyM01OcTV0UzlMQ0VwRUJ2V2g2NFo0NmFWQUhsVkpQX0ZtUFVITGtYX3lrdjFPUnVJNl8zQWhwMDI5MWNIbEd2ZUE?oc=5",
+      "source": "Reuters",
+      "published": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "BYD"
+      ]
+    },
+    {
+      "title": "BYD doubled its 1,500kW charging network in five months and wants to double it again by December - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYWdrbDAzbkl6MmE1UTMxc2dEQVFOS1czYWJBeHd3b1FHVGNJeXdDNHlBcjZyenNqX21hczRHelNKLWFnS2g3MkpjbHAyUGg3TUhtQXpYUHRaVGxPbXVDSzFWRTNoNFRPUHFsNlhMdE1rTzAzMXpjSlR1T2JjWktIajNlWkRVd1lZSlE?oc=5",
+      "source": "The Next Web",
+      "published": "Sat, 29 Aug 2026 15:35:15 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "BYD"
+      ]
+    },
+    {
+      "title": "BYD showcases China's EV strength and its global market appeal - China.org.cn",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YeDBXbDdtQUVDQVZJckdqanlmV2kxRklwYkljWDV4WGJHVVJFamhEUkVoUHZIdmQ1cmNadjZpY1VCbTl3QURVYjFxMVlNbzlmLXBqOHVGbi0tNHBrQkZVblhDV3FzeGFJRUE?oc=5",
+      "source": "China.org.cn",
+      "published": "Fri, 04 Sep 2026 10:16:14 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "BYD"
+      ]
+    },
+    {
+      "title": "BYD’s latest flagship SUV received over 12,000 orders within 1 day after its launch - electrek.co",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2ZtdDRTX05wMjF0NzZnczdGdVUtOUNQR1R3dk1idFJYVWY0cjJob2xXN1U2UDJldHM4OE5vUHFSMmdqRDU0Uk1YM0NqRzFVWWpCZDFPUVpRYlZQdGMwVUZkdEdzY1BBb0lqYm1LMmNZR0EwUkhXVXJzT0h5ZXR5R2xwQ0liMVlhNDJFOUlldFQzRzdlczRRdVh6bjI?oc=5",
+      "source": "electrek.co",
+      "published": "Thu, 03 Sep 2026 16:30:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "BYD"
+      ]
+    },
+    {
+      "title": "BYD Sealion 08 launches in China: second-gen Blade Battery on both PHEV and EV models - CarNewsChina.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRU5yeU5FcnRiVEVHUnZJaExCUC05eHhPUDlkSWFYcThXX3dKeXBJYlItZmhncUN0WW82M1dIZy1xZnlwS3NWbEZLbmZGaFlSd1pvOEdYNW5iU19qMGlEdklDS0F1b01iRU01RjlzQUNuMkZVZFpDWlJZU250WXkyVXVnc2VXR0c3ODh0RENQaUttV3JUaFpDQWNuZTNWOTNKNnFXZ1VNWHNhMktLdkxMcUltNngtQkVZX3ZfYW93?oc=5",
+      "source": "CarNewsChina.com",
+      "published": "Wed, 02 Sep 2026 09:56:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "BYD"
+      ]
+    },
+    {
+      "title": "Signed! BYD Battery and Ulaanbaatar, Mongolia Reach Strategic Cooperation - Gasgoo",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObkJOUEhpbWxFdG54Zi1UWXZlaklVRG9TSWdHdlR1WF9kaDRMUnptWmlCMVhoeDY4VmphQ0lQQkFMU2lKeHRGT0lXNklUZWxtMGcxcmI3SURvaWtsQVppbjg0dzhSUEM5cUNyQmJHZzNUUTQxT1FjdS1rZm1RS3VxRFlNUnBFQk9jcFNnclNWSGp0aVBnbWsxbkNxTUs0S0dRSmdDSmZQdzIwblJ1YjF3VzYwLXNCZFQxV280eHpjVmRCaGlsVGowbXpVR3ZCQQ?oc=5",
+      "source": "Gasgoo",
+      "published": "Wed, 26 Aug 2026 11:44:29 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "BYD"
+      ]
+    },
+    {
+      "title": "BYD reportedly to take Racco electric K-Car tech global for small EVs - CnEVPost",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mWEZzYVF1SnBMVFBDSlR0UEdZbXdJNWhEb09NTGk0eTdDU0lIeTNsTEV2MTJZZEZicElTVnZ6TjloYzdKXzVUcEEtWGFobEo5UmZCa3FTU0t1WWZBRFRzcmF6aXYyYzU2RS1VRHN2cko5STFYZGk0?oc=5",
+      "source": "CnEVPost",
+      "published": "Mon, 31 Aug 2026 03:11:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "BYD"
+      ]
+    },
+    {
+      "title": "BYD’s new luxury electric SUV has a range of over 1,000 km and huge screens - electrek.co",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnZWVzZ2b2JUOW9YdXNtdVZ4LUlIOHIwNjNnVmRhYjZ3U1BXTmwzRnEtZFFmZlR2ODRpVmx2TGlwcFRZdnBKV1ZDTFRjYXd6SXRXbGQ1UTFoZmVwck43ZWl5Wm5Nb180czItZThTNTJTel9XMC1tb0FfVXBEY1poZ2ppMDgyTTZ4?oc=5",
+      "source": "electrek.co",
+      "published": "Mon, 31 Aug 2026 17:17:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "BYD"
+      ]
+    },
+    {
+      "title": "BYD Sealion 08 secures more than 12,000 firm orders in first 24 hours in China - CarNewsChina.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdDJ0RGdGSm9lNzBSdWFfQ0VLQnVuMzFIcWxiVDhpOUpnZi15ZjlUQlI5OTFlU0JkWjVyTWZuazNsX3RVdUpQdzdEejZvaWwtWUQwRnNCazNtZHE5SXpRbHN2M3M0UGNWYnRCWm5mUVRoZnRQamtsMm5vUTViUmJsTE4wYWlnOWxvLVM0TFBBOWVUVlpNYTJTWTVTajB2Q2pYYTJ4bVFuRnQ?oc=5",
+      "source": "CarNewsChina.com",
+      "published": "Thu, 03 Sep 2026 11:07:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "BYD"
+      ]
+    },
+    {
+      "title": "BYD (SEHK:1211) Tops China NEV Exports As New Battery Models Arrive - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUVdxSnNkWktBQkRJUmhzQzBHZ204djZ6SUU5UjR4TmFPeUZPSDJFblpEaGVuc3BGWVBfUVRjSEZQbVB6ZS0zN0JTX3pPTTJ5NXNOUDJRbzNJcEhpZTd1MFJKNkxQdGJWYXhnQUl5ZXJtRE5QMVkzdDdJQVVVd3dIV3hDQlpGd205dnFYbFBnWlJWSU0?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Thu, 13 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "BYD"
+      ]
+    },
+    {
+      "title": "LG Energy Solution Secures Multi-Year Supply of U.S.-Produced Lithium Carbonate from Smackover Lithium - LG에너지솔루션",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ld1FSSFh2ckNBTVUyOGFRTlV4OVNNV3dvNnlWM1dKaVRndl9HMEYzeWt3dmV6YWFnUTFxV2p1ckhPZHJMbDNPRG9PVXljZkZWdjFCaHFsejZTZl94NE9hcnU4al9fY2hZSGc?oc=5",
+      "source": "LG에너지솔루션",
+      "published": "Mon, 31 Aug 2026 12:30:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "LG",
+        "Lithium"
+      ]
+    },
+    {
+      "title": "LG to Supply Tesla With US$4.3 Billion of Batteries - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV1BjNER0TEE5c2kzcGZHUXc5VzNYaVNMX1hmVTJScGdHWnN3Z0p5a3QxckhjVkJLQWZSXzZQc2UyYlZ2dnFLX2tsSE5jTlp0NkhuR0pzYlRjcmhVTjVKdTJvNlNjNHp0OEVheHBidUhBaDlWb2VHd0I5VmcyZmxMaFV5cFR1U0gy?oc=5",
+      "source": "EnergyNow.com",
+      "published": "Sat, 05 Sep 2026 11:28:34 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": []
+    },
+    {
+      "title": "LG Energy, once fixed on EV batteries, jumps to Plan B - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd2g2Z29YS3NaVm1zV1FrZnVKQmZzT0tzQlY2YmdsREhKaW5oYmRQd0lqbWlqcWFMMkpYNVIxenZJTkVQclFiaXF6bGtOTkc4RkhXLU1PUFV1Nnh3TGlIRU9mTXNlRGUtZ1BSYktOZjlrOWlHLUd2anVjcEZjV1pidW8tVXRkVHR3VlRfbnVQemN2N2hvSlhYOWt6Q3lYVGc?oc=5",
+      "source": "Reuters",
+      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "LG Energy Solution–Seoul National University Collaboration Opens the Way for Commercialization of Next-Generation LMR Batteries - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UTTNTb3oxVENkMVR2anZ2WWxCQWRnWWRPTk1BdEZOUDZSbkhFYUwxbUR6SFVnT0h5bE83cEdsbXcxVjhUUC1VRE1oenJoSGdDOTc4?oc=5",
+      "source": "매일경제",
+      "published": "Sun, 06 Sep 2026 23:33:12 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "LG Energy Solution secures supply of US-produced lithium carbonate from Smackover Lithium - renewableenergymagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd3lpLUpFbC1KRGtPcnY2dFFVSnpnMEhJbHlRUDJVN2VRSjhKc0RBYkxYczRqQnNhNmpqYWVMck85bjFYRzF1blV1VDk5V3JJSzd5elJKaWo4aTAtQ0d3SFhQR0prRWtoNEhzZkVjVXBWWVRBV1VselpyNUF6UmUyRXh5QmJPUEdBaUs2U2gwR2xOVjN4VFlwdURpbEtSb1BkQmdwWG9zdw?oc=5",
+      "source": "renewableenergymagazine.com",
+      "published": "Wed, 02 Sep 2026 11:05:24 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "LG",
+        "Lithium"
+      ]
+    },
+    {
+      "title": "LG Energy Solution battery plant opens with customers other than GM - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaFBjSW0zQVBBekdDUi1OYU5aU0t2MjFVSGpVU2FIVDE1NDhsa0NXcEs5djRhaGtPS1hzdXkxWDh3bGttLU1OSnNwc0FZU2E2eTJqRVVBOUxjX0gxQU0zYS0tanZFM2VlVVhWOUVzdG1uQnJuMnZ4by1KZUJ0cjNleEdLLUMyS3ZlQVlmM2w0Tm1tb25RTzFJeUdqRkRqVUdWV0FBVkpmQkhnWlp5TmVMVURucy1Gc1U1dWc?oc=5",
+      "source": "Detroit Free Press",
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "New battery plant powers up: LG Energy Solution celebrates grand opening of Delta Twp. battery plant - wilx.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObG9yN0ROWVROcmRSWm12TjkwWGJfODR4NVIxX092TGY3WE9VSVdZMEE3dHF1LVJxVUIyYldFeDRhOC1VZmhrcHdIcWpRV1J1N0pJUC10ZlFWMFZzS0kxc1V1WXZ4ckRqXzVBWGt1VnNtNFVYZWNSbndmd0xFd3BjWXdVeFg0MU5femMxOUFRbHREX0VldGxJ0gGrAUFVX3lxTE1oUldMLTVNdUlzZVYtY3pXc0N5Rk1McURYZDl3dll0QTVkVVRoNEI1cU5RQVV4LVJjZnVzVFZwLVMzLVRGZEJmcDZjeEZCSjRyUzBsUGVNbVlKaXlKd3BnbWRMVjlzS1ZielZmVG9iWlRSWk9NdGV2ZFRHeTdpOThRWEpSNElmUHUxT01ONjlHUDdnQTljY2JKaktRNEJFRTEzMHJzTUF0djRpcw?oc=5",
+      "source": "wilx.com",
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "LG Energy Solution starts production at new Michigan battery factory - Wards Auto",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZllaeGZqRGg4a0NiMUJEWGJNQ3dnNGdPcVBfR091Z1JlMTFRaUhLZDR5LWkzWVVaTzFrVm8tV3g3djBOMGhkVjNXLTEwem5zT2d4OE5SLU1WOW5VenhXbEoyRWxWUzVWTXlXVlh1U1RpZzhQWmtKVFY2Z0lFbWtuaFVsT3VBSzJQNjJDdGZoalhzWXpldVdVS0dhMXA1LXc0N01PVm1GdUpoQ2c?oc=5",
+      "source": "Wards Auto",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "LG Energy Solution Secures 80,000 Tons of U.S. Lithium - Businesskorea",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pei1wYWIzRE9OMElTdklYc2V4NVFJMVlRT1VORmx1YnViUHV5R3FCOWtQWlNER3BsR3dOVC1VU0pYVWkxeEJmQlg2ajd4RDZoamZDa2dsUkRCeXptc3MtM1NVT3RBU2xTTGc3R29ZV0Y4UTMt?oc=5",
+      "source": "Businesskorea",
+      "published": "Tue, 01 Sep 2026 00:36:19 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "LG",
+        "Lithium"
+      ]
+    },
+    {
+      "title": "Lithium company signs agreement with LG Energy Solution for South West Arkansas Project - K8 News | Jonesboro, Arkansas",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaXpvTzdHdTd6Mllvd3ZHbkRwRVh2YXlIcnBfTlp0VjBZV3RQMWQwSU1wUV96OVdCT3FYaGlDMzJZeG00VzVjQnRjQzc1T3k1RzN4QW1GdmNxMGVodkpmSEU0OGdBekU0TmJCa08wTXFUXzFQdDREak1XOXVhM09oMHltak9NTWM3MklRbzZQT1ZSeTNydkZZZjdObzZFaTVvZUd1UmRULUdzdlNteWUweWRxOWlFRHVQ0gHMAUFVX3lxTE8yYl9QVWpDTVJsZS00cWVRdmw0MW9ENkNySm1QRjBaZVYwMmU2ekdWTm1pazJiNUZsazNBVG5WMXZQOER0M2VrX1UtMFo3d25hckRrOXNvWnBYT0xGTDRac2ZUeWhNU05XcmF0M3YwMmt2dWd2T3Z0eDQ1MGM3SHdLT1N2R01FYjlxSS1iZElIdTREN1BFalZwN1F6aXlIb0Q4MVpPcGdrWl85WU5hQkZIVlpvalY4SzhUWFFoU0pVUFd0YlN2cHdSWjh4Vg?oc=5",
+      "source": "K8 News | Jonesboro, Arkansas",
+      "published": "Tue, 01 Sep 2026 03:50:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "LG",
+        "Lithium"
+      ]
+    },
+    {
+      "title": "LG Energy Solution secures US lithium supply for ten years - electrive.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMFFkYkQ0aFVkM0wxMWF4d24wRTNVdE92Qlp2aURNZXlNMm5hUUtWelRpSHk5MmZmazNSRlAtT0UwSVVLRWozLUhqZmJXalhCdU5fTjgtU1ozUVV5bzVsRUN1YWxVXzl4M2liUmR1bks3Y1IwcVFQNkRteWowRG5NLXBPSGw5aS1kR0oyazIwNDkxMThlLTlDejlZejM?oc=5",
+      "source": "electrive.com",
+      "published": "Tue, 01 Sep 2026 11:02:41 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "LG",
+        "Lithium"
+      ]
+    },
+    {
+      "title": "LG Energy Solution Secures 10-Year U.S. Lithium Supply Deal - Electric Cars Report",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1dqUWF0YWVib1NXbHRvTC1nbXZHbzM2d00yZzJpUWlHRzEwa192eV9nM3gzRjk2WFJ4RzRpWGpVZDhhQldZb21pLUxnMWJ5RzV3bGhIdzVEY21TR21zeTRCRzJSN0dtZFQ5WkFsTllBNDNmUmJEbG5JZjRRXzdRSDNyQ3o5TTEyNEpxZ1BGYlRRcDVKSERSVUVuVWx2Q1U?oc=5",
+      "source": "Electric Cars Report",
+      "published": "Fri, 04 Sep 2026 19:30:36 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "LG",
+        "Lithium"
+      ]
+    },
+    {
+      "title": "Michigan's new $2 billion battery plant will supply the grid and Toyota's EV pipeline - The Cool Down",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM1N5NnVTUlBJYXUzR19BN1ZVQlFGTXdOOGliNzZ2aUN3M1Z6NnhOMFJQM2tDVXVKdElfeVlOSG1aU0ZmZDNuRUhhUnZXcW80SEl1NlFmSjdNaXRDUTljNWJYbElhblp2dTF2ZHR1ay1mZ1BLQXBKZGM1UFhFYkRZSmcxcTRSdml2QlVBdDhqcw?oc=5",
+      "source": "The Cool Down",
+      "published": "Thu, 03 Sep 2026 03:15:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": []
+    },
+    {
+      "title": "LG Energy Solution begins LFP and NMC BESS and EV cell production at Michigan factory - Energy-Storage.News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3JSRUVfcnYtOEVJdlgzeUpWMkJOV2FTY1daNXFHeVdYZEcwTzRoMG15YWh3T011VmJqcU9LQTdYdnpBQmNOdDdyYTZNMU9HVXVEU0tKU3lGbS1OSDl4RjZZZm1QUUcwTElQc1JJeUtKUWFuM1FZQk10ZXZtdnpBRFJ0ajh2TXJ0MGxOMjB6Q1JKTzg4a2JrcFNxbi1ocmV5SjluV2EtR2hBWVdhR1MyV1JCOG1VSGJhQ1E?oc=5",
+      "source": "Energy-Storage.News",
+      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "LG",
+        "LFP"
+      ]
+    },
+    {
+      "title": "LG Energy Solution signs deal to buy $1.5 billion of Arkansas lithium - KATV",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOclNCM2NRdXNXY1EwZnQ2QVhHaWpJSnFndkQ4b2p4RFpXNDEwNDFLRllhX00ycVQ2TnhIYWZzM3JSOWlJUUJPSkVJYUJmRUd3a2lZZlJkOUJqYy1zMms1NjQzd0VMZS1qR0dGSkFhWFI3aFRRXzIxUTllU3JUcE1KaUQzeGtaTHJTenNidUNsdDdMX2lUS3BJQ094QQ?oc=5",
+      "source": "KATV",
+      "published": "Mon, 31 Aug 2026 22:47:22 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "LG",
+        "Lithium"
+      ]
+    },
+    {
+      "title": "LG Energy Solution Announces Start of Production at All-New Lansing Battery Plant - LG에너지솔루션",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OcFJod2NpMEh6UlZUSFF3eFRCVDhVNUxsc1YyY2Jrd1JKV2tNYktLMGNLMWNPTXZydzNDOUtfTzQzaUVjWE03S0tEbHd4dDE3RUN1NjFZZmpHeExiaXZvRnA3TFU5cXRyS3c?oc=5",
+      "source": "LG에너지솔루션",
+      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "GM's U.S. footprint for EV batteries has dwindled to 1 location - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTk9ZTE04a3NWeHZ1OW80UnlrZ25NcHp0WGoxS2laQlhRSnJ1MkxJQ3I5UU9faml0N2wtQlZGNjBHR3NFM0RKYlhJcVE1MEtodDlJQnlObTNjajFiLXZoVndiQkhLOHBfZDBpOVJoMTBLSS14c1lVWFVFNU9CeWdXM0ZUZFR4djNCTWd0REFDbFoyYXV5M1NuYVJ2OGE1dW9IMHRPOXp1QTRvUlBSdXdYSG9JTy01aEc0SnFsTGlDSHowUQ?oc=5",
+      "source": "Detroit Free Press",
+      "published": "Wed, 02 Sep 2026 16:11:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": []
+    },
+    {
+      "title": "LG Energy Solution Starts Production at 35-GWh Michigan Battery Plant - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmVCbG1Cb1EzWlZCaG1YeFc1eG92dURDSThYTFgzbVB5Y3dNV0NaR0RORzZ0dTVlUHNnaEhCcjVQWThrd3lGMHFiMXpWRGJmMjJuYk04X29IY0syYkgxOWtxM0hwTURUbEgtdWdrUGdOQTVsd2xJZUZrY0VRTFg5WDMwY3pNeUZaQmJ1bmFfMUxpWDlZTWxFbA?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "LG Energy Solution and Seoul National University Open the Door to Commercializing Next-Generation LMR Batteries - LG에너지솔루션",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84TjZmRVhXRTd3cmFOWmROYmRsTmVWSVkxcFBoeDhJazZxUVp5d0gta19RSXdlNklZV1FFM0RGYThRVUR3TERVQTJub2Y1c2N2Ym9vRkFXRVUtRXk3QkZtNzlyQ3RXUWdheFE?oc=5",
+      "source": "LG에너지솔루션",
+      "published": "Fri, 04 Sep 2026 00:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "News - Standard Lithium Ltd.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMG9Nb2lrYU1MeGJLbzhDX0RUZU9vSzZHTm1LSVd4enpITExEcWwxWXZtLVdBLWU4TTFvOFNDNVdhVFhidmdRbzlia1NGdDM0dFJGLVFoYTZNVXphakdHUXJXVzk5YXdIRmstMWp0TUxFc3A4MGg5d19DREpxT0FWbUNqOUdPUzRzNHlZcTJzRmZRZmF2a0tmT1NUYjlDSnJVdXUwa0FlSzhvZi1fVE5uLVRVajZsdlo4UkpuNnRoVHM5ZTMwOVp0SVUyOXFwNXk4X1VxbDVPOGlTc0RweHc?oc=5",
+      "source": "Standard Lithium Ltd.",
+      "published": "Mon, 31 Aug 2026 12:37:35 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "LG Chem to Unveil Integrated Battery Safety Solution that Delays and Blocks Thermal Runaway at InterBattery 2026 - LG Corp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oUHpCV2xTZ19MamluaFhIX1hoUnZaaHNpT3plTDVOQWduaTJqVW1CZUE4M0pGeGM5UWhrYTZCRG5DZGppeFI0UlpabVAwRHlKTFRkNg?oc=5",
+      "source": "LG Corp",
+      "published": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "LG Energy Solution reportedly drops LG Chem cathodes for Tesla batteries - electrive.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbk5LZm00dXZnM2llMjRhZnB0RzNlYjdBWFZZdm5Xb3FMVXV5WlF1SlY2eElCdndCN0lfeXVkSzR2blpDVW12dlRZamU5YzNINnlmNkRWNk41bW1jRmcxaHc5SVdMZjFvN2ZxWUhEWjhmT3BONVE4X3BybWg3bHJKOXBGWFdHQ0hZSUtaNjlvQ09EdncyemJ1dlRkU0xCV3A4RW9RNnBKaWJ1eE9HWWlN?oc=5",
+      "source": "electrive.com",
+      "published": "Mon, 09 Mar 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "LG Chem maps W15tr R&D push beyond petrochemicals - The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZZ2ZEVWZjUEQ4VldoMWxBalZyNlB3M3hDcnpnVUxhcHkxVnBWbFVJSlRmNDVSOWhhZ0ZtWWYzT0FmSXp6bllKSk90cmdSM25mSFdWQWtvSQ?oc=5",
+      "source": "The Korea Herald",
+      "published": "Tue, 25 Aug 2026 05:26:42 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "LG Chem ready to hire Operators, Technicians and more at Mega Job Fair - Christian County Now",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON1pBc0I3MkdvZ0pXMlhrVEx4dUxZOEdWVHQxOG03ZWxObDltSVJvdGNjc21DSnEtT0hxZzNEOEZIUG5NQ3BZUGt3VVktZjdKaGVSeEk4M3p5eGJJV2NkbFRIc3VVU0p4MnVGUVlELUxScldoUTFrTDJ0Mm1Ia3FRMGtSLXRtQUNTay1INTZuWThialdwYkd4Sy1FejNXZ3BSS1hueGJLQUNUMUQ3c1k0aUpQRQ?oc=5",
+      "source": "Christian County Now",
+      "published": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "LG Energy Solution Excludes LG Chem Cathode Materials from Tesla Batteries - Batteries News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0stTGcycXppN3NoTXkxaDFNX3VlekxucDRvZF80dURpdy1UTVpKc0R6LW1Sc0NpR0I4Ui1BVFlPdXRpR29FTmRmZlM5MWUxRHpnMDB4Y0U0R3FUSDFCc2xwNUM3eWtjWk5kUldDcmx5cXB3Q0FqSGFUQUtjcWVoVnRkcW5aOGhqNmpWWWV3eHh1eXREcTNfU3ItV2Y4UE1sbnI4?oc=5",
+      "source": "Batteries News",
+      "published": "Mon, 09 Mar 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "China oil major Sinopec partners with South Korea's LG Chem to develop battery materials - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXM3MURSWElMaTNqbngzbXg2QmpEd3FMSFM1Y09FeG9IUzhaQTlCdWNlQmFBSUtaVWtTdWprc1U2cE9wdzVMYzRQcy1Rbk1OTWt3dnNEaVFVWktGSXdDVEptTnpPT080TXgxWThzOEZlU1ZPclRfTnM0Q2pXdVNHd2N0SHF5d3ZuNEUzbGRnbXJtMmtFZi1kNTNfVWdQdlBpQjNRQWYxTC0wMUxQOFpkb2pzdTFYTEJwWks3WnJfLVNvZFk2?oc=5",
+      "source": "Reuters",
+      "published": "Mon, 03 Nov 2025 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "Sinopec and LG Chem Sign Agreement to Jointly Develop Sodium-ion Battery Materials - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV1ZYMFJGMzh5N0pDM084b2tzNlFJOVBaWWctVEJGR1YweEVjS3FyV3pJcjhaY1lUdkJNWVVaS0NmZXBBWE9KZDBMN2RVU1hScmRqSHlCZ3NoSWNVQlllSXhvZDBOcVdCS1lEUjlWT0xoTHJRRjdJSGdWVjNaTkJnTVFnZmwxWmpvR2loYlZsdW4tQ1I1YkpGWlVsVUEyd1NOczdtdWF1dm1RSHpicFlHNG1ycFB0Skt2X0tmaXpoVmZHek44cnpuc2VqSVAxMkgyUzF2TFFJSHE?oc=5",
+      "source": "PR Newswire",
+      "published": "Tue, 04 Nov 2025 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "LGES reportedly drops LG Chem cathodes, taps L&F for Tesla battery supply - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaGxPSlo5RUxtS0ZCX01TdjM3cEpPcHNCY1piYkMyZk5WUjk2cUVvZ2llakdMMVNiMmstM001cHpmOWF2c0F5ZGw5bzU1MlJ2T0NrbG5KM29tUndsZmhrc0J6X1lzX3FjZmZDS0VwNDV2V1N1eFRxS2tLeFJjZGZOZkNzUUJwWUZPb1VUcjd1anptaDNl?oc=5",
+      "source": "digitimes",
+      "published": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG",
+        "L&F"
+      ]
+    },
+    {
+      "title": "LG Chem to Send Independent Director to First Overseas Governance NDR - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12NTNOOW9jRjY4S0RnOHpzOU9TVWpETHVjSFgtdlJlY0hUY3B3bU9IdkZnNFhxM2FhLWx6QnZraXZtcGJXU2NsTDlETWpOV2FVay1KV25pOXR4YXBNcHhQTkU2Rk5mQTQ?oc=5",
+      "source": "thelec.net",
+      "published": "Fri, 14 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "Tesla named as buyer in LG Energy Solution’s $4.3bn deal - Automotive World",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRjcxYWRVWFpJNDN2UDhaM2RZQmtkbHVQVHJOcmxHaGxRRFlkcEltODIzTDk5N3JXRVBoa2dyTmx4WXpmRW5FMWJJYUhOcy1mYldralRVdnd2amZISWdBNUN5NGI4akFaclo2UzFQZTExVjBrQm5naUZBSGV2dWoyMlhMb1cyYkRITnpadU1ZNW1mN1ljcGtJ?oc=5",
+      "source": "Automotive World",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "LG Energy wins battery supply deals with top humanoid robot makers - KED Global",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UalV2T25ER0FjY1RrVzkzTVBmNkpZb3ZVMW9jcWMyejZkZ092cGpiU1MtbGxXMzJlWDdtOVlaS3VSYlhKRnRsUHJvVENyQVh5d1RyaUJZREVZMDFtVnA5cmh6X3pmMDRKTW9iNg?oc=5",
+      "source": "KED Global",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "US government confirms Tesla and LG Energy Solution's $4.3 billion battery deal - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY3FQTzZzX0twX1dqbzlIY2hQc1dMSDFmZm5vM2FkR1AxbkNOMk5NNGJCWXpzOXFEa0JaQkhZdlVVUFY2c0lRVU9sanREcXZGNVNTRzBUYUFyOTVHS3dGR2J0STVycWtpZnFrWTEwd1FNTzN2UXczWUFtMEpkVXdjSW00LTROd3M?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "Press Release - LG Corp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaQWY4V2hodkM3VE82cHFkLWZEaHBsSFVOaDlPa2trbVdzdVNqcHBpbzZyNnZaSU54RDJ3dnBxNXZhc0pGX3ZMRVRlYTQ0d2ozX3VFMg?oc=5",
+      "source": "LG Corp",
+      "published": "Fri, 06 Mar 2026 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": []
+    },
+    {
+      "title": "LG Chem wins major customer for cathode material in the USA - electrive.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdjNCMWNNTVp2cVprTXlicUR1bnFSRUxoblV2TmxEd05yUko3MDNKZ2NWNzZXUGJnVG51RmxWMTIwYmRfUnVzRDRKQ3Q4MHhRZDB6bm9KdmNjSDJ4ZGhPVkZrYzRiOWppSkF5MElvTm91eVBVdjVCTHNCRzVlMF9DV0twMk9YSWppdUYzRElMeHR2RlVrMFlUUUJ4SmVVZw?oc=5",
+      "source": "electrive.com",
+      "published": "Mon, 17 Nov 2025 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "LG Chem’s new electrolyte tech lifts solid-state battery performance by up to 50% - The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WbS12ai1RZjQyV18tT3NReXFCNC1mN2pQRGpkV0x0QlNnUXE0cTJkUnpreFhYSUVYWEt1SF9QNk9RcmxNeHhWbndvMTVSUFA0TjUwUExoQQ?oc=5",
+      "source": "The Korea Herald",
+      "published": "Tue, 25 Nov 2025 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "LG Chem to supply cathode for Panasonic’s North American batteries - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xQzh1ME4tRm5YbldqYzBlczN4MWFieTBkR0dUSXUyYnI0MmFSUHVFYlRMZC1DR0Njb3RvRE9ieEQ2eTJ6blc4LWRjcVc5XzF0UmNOMC1nYi1LSFNzdV9QS3VQeFFyZw?oc=5",
+      "source": "thelec.net",
+      "published": "Thu, 23 Oct 2025 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "LG Chem Shareholders Reject Activist Fund Proposals on Governance, Buybacks - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oNGlyZ1FEeXRPWEJsQktYbjdmNGNHcENkTGhLYXBnSWhDM095eXYtd2dyLVNYcmZNaVJjVWFsT0w2bnd0MUNHTXdNVGFXaTFpWHdrc1ZZMUJkNGZhSUkwbkpWWnRTUQ?oc=5",
+      "source": "thelec.net",
+      "published": "Tue, 31 Mar 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "LG Chem, Sinopec join hands to develop next-generation battery materials - The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjYlF3OUhQQ1BNbW02MkJmaElwUnpDY0FnTTRDVkNnWGl5MVdqM0NkYW5idnRSWXlZXzRfRU5hSUhqSGpOYk1wVFFZa2tsX245dTd5b0dIbw?oc=5",
+      "source": "The Korea Herald",
+      "published": "Tue, 04 Nov 2025 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "LG Chem and Sinopec Team Up to Make Sodium-Ion Battery Materials - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJEUnJPREVIZFhQa0V0cFN3TXlMTV91VDVGX0EzYXdXMWpNTUk4R2gtVVZtR05lWllnNEIyNHlkN1pxMHV1TzBua1lCZ3RZaVR6cFozc3RQM1dIOTgzUHF3ZWVEeDMzMS1USUlYczdaXzhveG92SmtDTFBNQVRla3BfanRrTjBzNkRKMjU3OHZQdzNqV0pNMFNkWHhJbG5iSmp1UDFuNEJtZ25jSEg1SE5lcnVEUQ?oc=5",
+      "source": "Bloomberg.com",
+      "published": "Mon, 03 Nov 2025 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "LG Chem wins $2.6 billion cathode deal with US client - KED Global",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2NEZnVmpQcUdBQ3FqSVBtY3BTcGVTNjNqRzBmaDRPZVRodVladlVYRU13bURxY1FrWmw0RkJyMXBaMnljR3Q2YmQ4MXZ2WWdKZHRuRThqMWZYalNZQmZSZjNublJzbjBEUDJkZw?oc=5",
+      "source": "KED Global",
+      "published": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ]
+    },
+    {
+      "title": "Posco Future M secures first major LFP supply deal - The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FbDA4Q1FBOVA2dl9iaEhqMldOb3Y0YmxINUJyU3JmSFdJbVVtSURQeWhPaE5qUHpLeGtHYkQyWTZKRmFORTloM1VlbDM1SE5TbTEtLU9PWQ?oc=5",
+      "source": "The Korea Herald",
+      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "POSCO",
+        "LFP"
+      ]
+    },
+    {
+      "title": "POSCO Future M secures mass-production technology for silicon anode materials… Ready to capture the future battery market - 포스코그룹 뉴스룸",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN2l5T3BCazNZZ0dMWXJkdmJfVlp3WUkyS1hxZ3Y4UVY1d2lPTWk3OVYwU0duM181RnpRNEZkcTEyUi1XRkR2eEFZWjN4VTdOWHB2djZtSy01VmtQVnNieklCY3hZTGRLZE5DWG9aZ0JmNGpWMWttRkI4dFFLeVFBSmVFZWIwOHZFbEcybUU1VzFjUkZiaTY1bFA3Z2hHS3NuenVrUzNraXo1Tm1Wa3JBZU02RHRNNFA3TDFMLU9sa1FCMEJVR3VTRTEzQ1h1Q29nWTQzWkF3NTdTbXU1UUtFLVp2U0ZWQQ?oc=5",
+      "source": "포스코그룹 뉴스룸",
+      "published": "Tue, 26 May 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "POSCO"
+      ]
+    },
+    {
+      "title": "POSCO Future M to Mass Produce Hard Carbon Anode Material for Sodium-Ion Batteries From 2028 - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtV1dlbUJPVTZmLVlFSFFWS2k5LVBBdzFmaWVYd3BBMWF4ZlJqMkh2enhlMHJIZUx0bGtwTVVYTnNVQ3NFTm8xTFozX0hHUXJRLXpqTVJWcHdRSmJmbGFnUC1aUHJfT1U?oc=5",
+      "source": "thelec.net",
+      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "POSCO"
+      ]
+    },
+    {
+      "title": "POSCO Future M to supply LFP cathode materials to major battery maker - Batteries News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWRLVlBUWXRDYmRjX2pMWmdtbUNOb0tyblpHb2dTNmZOWGdWenRlWXdBOGs3OHZBWUEzMkJDSnVfc2poa1FFRno3NmVoRml4NzlwVjVNVW12VWR1bFc5WVkxOHVpbVNDb3pzdWVLblFFY2YxdmY2RWJMTDl0MHZlQVlQYlpkS1owaEVLeDZjX3BjQWkwMGFKY1BFcDI?oc=5",
+      "source": "Batteries News",
+      "published": "Sat, 08 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "POSCO",
+        "LFP"
+      ]
+    },
+    {
+      "title": "Posco Future M stock gains over 4 percent as battery materials theme stays in focus - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYnoyWVBHd1hrMGpXTkNUb3V1SnVkb1BTMHhQX2RBT3E0bnFnbUNsMjZzd1M3MUQyRjBDZjREdy0wUVEyS2NkOGltNllxNHBaSmI2cEMzNmc0aEdBdkVIOG1yWnF1b2w4aXFTQTRWV056ZTlwR1ZrdUtNNVl0T3VrWFNvejR3WDlHOFpqTndoN25obUxmLTg5aTIzXzBvcGw0dDE5LXJUV2t6OEtUeDBUYUptaWRlU2l6Qy04Wmo0bkZYc3RFa3VTSEhJMzJwZw?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "Thu, 03 Sep 2026 16:45:21 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "POSCO"
+      ]
+    },
+    {
+      "title": "South Korea POSCO Future M aims to mass produce silicon anodes by 2028 - upi.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUlWZlZvak9KTGNyeGtIcGpzandQUEN2MzlVazZzc3l4bFVEQXY4aTAycEJ6YmlLTWpVSTZXeWFLbjlSdndRcjRuNnZUX2g1WV9NeVNHcnJ4RFhqX01PSnJ4a29GUDVkNEs5UnY2V0UtRFhZdjkzdFJKRzJrd21NU3MzRFZxcWdMNlNZc01abUtCejd0ZUM1elFLMFItVTI3Rkl6QdIBqgFBVV95cUxQUnAxSHhEaUFET3lJdEVYUFhvMElHd195SWcxeHB1cHhyS0x1Q18tNndFNjZqU2Q1YVlJQ2tHc0tBbnRvQVN3aFNNQUFHSjhja013Y1Z1NWhUeVpoX3ZVQ25qS0t4S3BmbXdsaUpfZDFMOXo3ZEZXWUV3VG82ZVB0RXY4V0EtQi1FRmlnZWRHWEJHUGVWVHJLZ0VpV2x4MmQyLXR5NFRyV1BMQQ?oc=5",
+      "source": "upi.com",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "POSCO"
+      ]
+    },
+    {
+      "title": "POSCO Future M invests in US-based Factorial to develop all-solid-state batteries - Charged EVs",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWDlYT1JZMTVqazJKRkRiQmFSUzA1cWwxemdxN3ZHcVp4YjVhTm9TMVZsMjY3VDRsb2F5SW5jeDQ0RWplXzlVOFY0Y1dLeEs3UTNvTDg0SnQ3RmNoa3VTek4zdE1UeVJyWjc1ZG9IbW9QNkpIN2pDWmJ1OTZRYV9CRmo4T3pDQk9HanJJZ0VsOUo5aUtFUmJXcTNRUExuZXlrNmhYS0g4YzVpV3lOaWRub3RNcjc?oc=5",
+      "source": "Charged EVs",
+      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "POSCO"
+      ]
+    },
+    {
+      "title": "POSCO Future M invests in US solid-state battery maker Factorial - KED Global",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ieWJPRUxsU0RGX1E1UWN1RTRNaWxrSEZraTV2ZFZuMmRqQ0tCSVlqZkdoUEotVGFfWlByVVJIM01oci1PT1FxSHNiaF9fQUdRQkdJMnN0UmQ0eVpsZW85UjFjTzdJU0pxQ0dBNw?oc=5",
+      "source": "KED Global",
+      "published": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "POSCO"
+      ]
+    },
+    {
+      "title": "POSCO Forms Alliance to Develop Anode-Free Battery Systems - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMkRoZnp2R09oX3NSUzlGQ3JxSE1XMzEzamwxWUppUEFmWGV4WG1ad05MZFRSM2ZzenVkU2E0MndRT3JIRXdBckl0SDRWa3VXS2pCU2FRNDJ1aF94NkEyM29pQmJXUXRUM0VXZTRDSmxLTDFDMTlabDNtRDFKNE5ucFU3aWFUS2V5ck85b2pWQjk0WW1kaVMwMlQ0RWFGMTVQMWRqS2tn?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Thu, 26 Mar 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "POSCO"
+      ]
+    },
+    {
+      "title": "POSCO FutureM Invests in US-based Factorial to Lead the All-Solid-State Battery Market - 포스코그룹 뉴스룸",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTUR0OThPMHdUa3VDWVlIS08taktCRzhuamozSm1nLXozTE0xN3BXZTZxNV9HOWx6aF8zSURjUkNlbUtaT2JEN1hDYl9Hd1A3OTB5ajdyRGhoN0o1WkJTOFJfRFB5cDI1WTY2QWZZQU1pdE03Tm15dkRPa1YyaXVFOTZIRHNnUUhUSzk3R0RYRDNLcWpzbXRVUU9nSnRtd0pwbld1eW5pMVUxdjJ1N3RqbHJUWnNSRm1a?oc=5",
+      "source": "포스코그룹 뉴스룸",
+      "published": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "POSCO"
+      ]
+    },
+    {
+      "title": "Posco Future M to mass produce silicon anodes by 2028 - The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ESEhOaUdDaGk3Ri03YXdQX09qbWRiMFdTUDljR2dfTlF4NVl6Ul9mdFAwREVOS1J6SmhXMHlsLWVPcFd2MVV5UnpFWklCT2dIbXBtV25NZw?oc=5",
+      "source": "The Korea Herald",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "POSCO"
+      ]
+    },
+    {
+      "title": "POSCO Future M Narrows Battery Materials Loss to 1.1 Billion Won in First Quarter - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wcDRVd01sYmFMb09LZlNlYWI1T1c4U2R4THZ5eG9lUEZoQVNrb3FHUHV1RUV1WFF3LTlycVdGWFJNY0dtRERvcWJHRXBsR1VnbkFZdkk3MWRfeGwxcjhGRUVxZnBNNUE?oc=5",
+      "source": "thelec.net",
+      "published": "Sun, 03 May 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "POSCO"
+      ]
+    },
+    {
+      "title": "Posco Future M wins W1tr EV battery anode supply deal - Batteries News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0FIbGlOSEdOMGQ4RHJzVktQODRZUlZ0LWNhR1NBWkMwdDl2MDB3VFhVRVJpUzNyYVpNM1ZVcXN3aXpPSXNLQzZETDQ4d1JiOGdUdVlvemEwVURPdThuS2JKVjljUzNZVGNwYjV6UXVSTGdseTRtQWw2Zjl2TE82dmhBVno5eEE?oc=5",
+      "source": "Batteries News",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "POSCO"
+      ]
+    },
+    {
+      "title": "Posco Future M stock gains as battery demand and U.S. ESS hopes lift sentiment - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQkpWN0pDU01BTE5scFNHSU10MFZDYWxfMXZxZDA0M2o0TTE1ek9GU1hUMmVCcmpFbFdoRGlNZllwWXV2RV93S01yN2NMRERrb2s1NzlKX1NLdzdlZl8ycHJaM2RRbW9SNHloUFkyZWVMYTNwRG9kOHZvVEtWdmk3dEd5TDJyUVJTMVVtSUJFZVpKWDB0azBJR29NVHNCUkx3SmNESVVmYkxrNFBHcHBkMzVqNjIzcGVnNWdyTmtoMlRCWGtt?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "Mon, 31 Aug 2026 12:13:47 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "POSCO"
+      ]
+    },
+    {
+      "title": "Posco Future M, Sila partner on next-generation battery materials - The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVRS1UVGNRblNIQWt2UUxSRnRkVWk4b0NoVHA1VEY3VEpVOWFvdVdiNm1HWGh2Z05uQWxYSlZRN2VnY2VfRWxicm5EekRyRENFQU5nTVZyYw?oc=5",
+      "source": "The Korea Herald",
+      "published": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "POSCO"
+      ]
+    },
+    {
+      "title": "POSCO Future M signs MOU with U.S.-Based Sila to develop advanced battery materials - 포스코그룹 뉴스룸",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcFVtU24wMk1LSk1XbW5nNlhYWVN5bGVwQzhyRzY0SW85YkxoeWU1NUZQbWtnemJrS0MwSFdhZlI0cUc4M0c4SlAxRnFXeTl2TG42SGJqaWx5OUJOQ3U5WU56VWdnLUNqWnhyUjdqWm9xYl9XWERNTVkxckVGb1BxX3VNMHJNMFJCdVRmQ0ZLYTM5X3dHenkxTUg2dFkwRmlTRFBpVTNHRy0za0VnY0taMEZhQQ?oc=5",
+      "source": "포스코그룹 뉴스룸",
+      "published": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "POSCO"
+      ]
+    },
+    {
+      "title": "POSCO Future M Approves $260 Million Vietnam Anode Material Investment - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkUkhoRlM5NTRXTlFfZm4wd1AwVmVhRWxDSEI5SWtyazRvdDlveHNMWUw2X3NMQ2xvQUZaejh4dmJzTG9ENmFQa1g3a1ZqZGp1MF9nbS1VYWc4X1NQSGRTMW9aREpRUQ?oc=5",
+      "source": "thelec.net",
+      "published": "Sun, 26 Apr 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "POSCO"
+      ]
+    },
+    {
+      "title": "POSCO Future M to establish overseas artificial graphite anode plant, targeting global order growth - 포스코그룹 뉴스룸",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV1hnRGhDemppSmNJNU56U2VHWVJYYjdyX1VPYWhXZGczMHgzX2twekFDdUdSa2plVWlxVWZVSzVFUDZsR2J6VEJaX2VFVW1iQWRMYkc2MFF5dTJ6VWNGNXhQSnRIZWRDQ1M2UVNWcml6bXNBZFFtYlZ4RHE3azVUd1J6VzR5bTJmemR6VmlETGx1eWxOV1VkQVNNcWFJdFhsYnNmVkNQLWFkMXplb2d1LUhaeXNxOG1qa0hrMmVNSlR1ZWZ0eUtPQw?oc=5",
+      "source": "포스코그룹 뉴스룸",
+      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "POSCO"
+      ]
+    },
+    {
+      "title": "POSCO Future M to Collaborate With Sila on Silicon Anode Materials - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oM2lkNS1ielV4bHpsNTF5N05oYjdIOE1TeEV3SXVSbWh1RFRZUU5vSjNhTm9xSUgtN1JuelZHUzdvQVdrSk1Ga05nZkJPYVFVMmRTQWFxaDY5dVUyMDNGcWk5dXFQZw?oc=5",
+      "source": "thelec.net",
+      "published": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "POSCO"
+      ]
+    },
+    {
+      "title": "POSCO Future M Expands Anode Supply, Steps Up Solid-State Battery Investment - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GVWlxNUk0aDN5eDRWMmt6dUVMQkRUaDRRdGxTT25sZGRMd0VSb2tCQzhiUUphOGREYnRYQ3FLZHRScC1xUXRCMDNidzRETUV4Z3J4aG5sUUM0Y0FXVFF3cVZLMGpxZw?oc=5",
+      "source": "thelec.net",
+      "published": "Fri, 27 Mar 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "POSCO"
+      ]
+    },
+    {
+      "title": "EcoPro Targets Robot Battery Market, Aims for Solid-State Mass Production by 2027 - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52bXFjMGQyc0xZUnFHdmFra2Q4MWp6NUlJSldSX2FkWU94b3dvSnNWbXJxRE15V2R6Z0UybUQ4b0Y3RWpwUmIyZUROTTlqemc2NExseEtMT0QwcUZtWmpQajRyZG5LRmU0UVZKa2ZJaUJ1UG85V3c?oc=5",
+      "source": "finance.biggo.com",
+      "published": "Sun, 06 Sep 2026 01:55:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "EcoPro"
+      ]
+    },
+    {
+      "title": "EcoPro BM Forms Research Alliance for All-Solid-State Batteries - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vbjZUcjhzVUN2eUo4ZmlRbnB3QUZOYVFGQzJxVWpyOFc0cW85OUJUaUs1dDVPd21NOGxkUTNYVmZldkhaa1VPb0JqNVNYMHgtSkRoTFJjUWhOM2p6cGJkWUVSY0Q5T2M?oc=5",
+      "source": "thelec.net",
+      "published": "Mon, 31 Aug 2026 22:27:55 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "EcoPro"
+      ]
+    },
+    {
+      "title": "EcoPro targets humanoid robot batteries with ternary and solid-state tech - CHOSUNBIZ - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcjFfNlREOWdzeHh3dzljSkJFcUhGajJZREZTd0JWem1kT0R2UEZTbFJpdTdub1ExUzBDaDZ1MzRmaTB2bmVTNWdtY2R5d0VjUzZyc3ZzM0ZCYjA5ajF1WEpmT1Z1c0syWGs4dGh6SGFMd3dfdEg4b0toc3VrSml0Yk5R0gGWAUFVX3lxTE5YZXNzRXIxZ2ZMT0lYUDZiSW1wRm93WUtXZmV6RlRFSHBXelN0OWNmdGpUai05T0pOSkQ2UHpodGNvNEZOM1p5Zk9ubF9ibnNYYWlyZW9QMTdtMC1XQTBIMGhaeEo4S0VoNVVBNU1CZlMyaEF5RFNUVzVMR2ZuQTE3WW5nS2h1aEotMGtEMGxSeUd2aGhsUQ?oc=5",
+      "source": "Chosunbiz",
+      "published": "Sun, 06 Sep 2026 01:49:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "EcoPro"
+      ]
+    },
+    {
+      "title": "Ecopro eyes robot battery market with high-nickel, all-solid-state value chain - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wOEJMQkxscEtBel9QWEoyUmphQWttalBiWjEzb09qejU5aXpUaGVJQUFRZUZOV29BeURHeU90SENQWU9CSUFoYl9RRmJlQ2pYTUQ1aE9nOA?oc=5",
+      "source": "헤럴드경제",
+      "published": "Sun, 06 Sep 2026 00:53:51 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "EcoPro"
+      ]
+    },
+    {
+      "title": "EcoPro is targeting the robot battery market with its three-way battery and all-solid battery techno.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IaXp6MkdqOVpFc19YNW4xVEExcFRJUDQyS011OWR0Q3Bab25HeTRlNGZtN1lBME5DTkN5WjRycEFtdGxlcDZTVjlNdlpEZw?oc=5",
+      "source": "매일경제",
+      "published": "Sun, 06 Sep 2026 04:57:25 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "EcoPro"
+      ]
+    },
+    {
+      "title": "Ecopro Targets Humanoid Robot Battery Market with High-Nickel and All-Solid-State Technologies - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85azd1eEd0UXpEVnBZaElZS0huZTU0eUEyN2FTWnBlYkx5R21CUFRJSXpUWUQ2RlBSVXRxeG9CNlVlWTJIQzZybnpSVFFzaFROQlg5UnM0eXFHWXprNllRYUtPLWo?oc=5",
+      "source": "아시아경제",
+      "published": "Sun, 06 Sep 2026 01:39:21 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "EcoPro"
+      ]
+    },
+    {
+      "title": "EcoPro BM upgrades Hungarian plant for NCM production - electrive.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcWkxQ0w4Skkzako2WWRjV1FwYklJbFBSQzhQZFpBSDNocFNjcmxrdGJHOTNQYVFxMjNja0hqdDlxMEtJOWlsMEliWjFVOU4tQVJZb2VQNVhCU1FVLVNSUHRzRWMtczQzYjF6Z0hxRUMzTFNYWmJaQ01hV0dIQmI5MU1rdV9BNExyaXZydldjbmRoM2psWWc?oc=5",
+      "source": "electrive.com",
+      "published": "Mon, 24 Aug 2026 11:30:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "EcoPro",
+        "NCM"
+      ]
+    },
+    {
+      "title": "EcoPro starts commercial battery cathode material production at Hungarian factory - Charged EVs",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWNrajljdHp6RjVVay12NnBNV19WM2wwVldiZkhMUFVSZkhKNG01N2xNVTdzNlJJMVR2STdUaHUtNUNFTjV1aGNwcG1IT3k1YmRoUVN6ejNvaXkzMnh1alhyWW94Zkd1MzJjT2ViU2RjNHhKMG8tMkZiNXV3cnBfekRwbEI3cXlJT0tNRUZhbHpOeFR1V0NpQlFzMjBKRnpueVV2a1FnZHFYQmotcEZZZHNDNUo?oc=5",
+      "source": "Charged EVs",
+      "published": "Thu, 08 Jan 2026 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "EcoPro"
+      ]
+    },
+    {
+      "title": "South Korea's EcoPro expands Indonesia nickel investment - upi.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQekdRZmRXZWgxbnFpTXlwUjU1NVctQXdMRHBNRVpka0RIbGFQNEpseE9XeG5RRnRLakRKYnJvcFBReGxVc2tiLW43S3RKLW1YTDRwcngydkROdUVPZlJYWVp0d25tQnUyanRzWDZxUXpTbHpmRVI3Q0NkMXZueldFcC1IOHV4bTRFM3dnWWZxOVAwN0NVRElwNGZyYWUyUdIBowFBVV95cUxOR1FaNnlyWjBpeDRNRk91Uk9PR20wdlBaZTRweHFpbzVtcU5qNHV3R1hnRmg5a2NzMUgzcTlUdkk3SFp2NEZrd3hzcTV3OVhaNy1HVDB6VjloNDNTWUN5UUYzTHl1aDFOdlp1QkplZWFwZE1BZnJ5d3d3bUNKdC1UZ2I2RVJhR0Vkc2pmYWxhQU4xQlRTQ0tlMmpaNWdxVjBmaFBr?oc=5",
+      "source": "upi.com",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "EcoPro"
+      ]
+    },
+    {
+      "title": "EcoPro BM Rights Offering Shrinks by 313.9 Billion Won - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JbEFkaEJUczMwVUlkVEExWFMwWWZsR0U5di1wdW5VOGVERWJPZGRRNjhRNHNQX2xLQ2MwaE5SVmdzY3F5dXNRbGt3bzFPaHowTENHQ2NxYnRkeXRRdmNCZjgwV3NzSkk?oc=5",
+      "source": "thelec.net",
+      "published": "Wed, 02 Sep 2026 09:12:20 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "EcoPro"
+      ]
+    },
+    {
+      "title": "EcoPro BM Accelerates Solid-State Battery Commercialization with Industry-Academia-Research Coalition - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xQXdDcjVRLVktbVZmZlc4TVRSeXdabUwzWnU2R01oMnhkSUh4MXE0S3M2Z2N1YS1IZVg5LU1DZXU3LWt1UldUUUhhVlFiakJNZTRVVkUwOHd5SkhxSGpXUDRxRjZEbnJMa0E1eXV0OUtmWWtNZnc?oc=5",
+      "source": "finance.biggo.com",
+      "published": "Mon, 31 Aug 2026 08:05:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "EcoPro"
+      ]
+    },
+    {
+      "title": "EcoPro Unveils Full All-Solid-State Battery Lineup - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZmlDYm9KU0pzSk5IUGRkc1hrTE52YUdqdWZubUpXX2oxZDd5eDJQZExDM2hrck94ekVKcnJGOVJYVzg0OTJOR05EZVNmU3BKRVN4ZmtQYkxaenFzUVkyUk4zRkx6SHc2SkRFZTM1NndtQ1dkclVpakVCb09mTjRvQm9KbGYxTWti?oc=5",
+      "source": "조선일보",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "EcoPro"
+      ]
+    },
+    {
+      "title": "Ecopro BM forms 'all-solid-state one team' to target commercialization by 2027 - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qN05HQkV3Q0EyRlZTUm9tTmM1OFFyVGRmLWFXa0xic0VmRTlpblJvQlNDTWJvYWhFeEhQQk1DdExGTWc2YzJlYkIweGRaTWpyY2xlOEhNbw?oc=5",
+      "source": "헤럴드경제",
+      "published": "Mon, 31 Aug 2026 07:28:49 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "EcoPro"
+      ]
+    },
+    {
+      "title": "EcoPro BM starts cathode material production in Hungary - electrive.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUtwTUR3TUprM0U1alNMeWc2TlA4QWh0VWhEWGlCRmRZNHlsdWsxLXZlQXpKZ1NENGVuZXVOeVR6T1B6em5QUHRmVkh6MGN6RjNteUE4UTBVZGFVanBtSmJzQUJmYjJWY210RWxITy13aE00aHRISFd2YUhkVmtPejJ6cHNCSlY0QmRWNG5xekdBbjFFUkVyNA?oc=5",
+      "source": "electrive.com",
+      "published": "Mon, 01 Dec 2025 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "EcoPro"
+      ]
+    },
+    {
+      "title": "EcoPro HN Wins 93.6 Billion Won Micron Emissions-Control Order - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zNlJWcGlTT05LSWNlaEFtT2VXNUtIQkFocXIzM2Y0UUxrMVZscEVoc0UtRU5ERmJSRVUyU1dJRC11WGVWMUhjS3I1dER4ZlRpa1dMMU5TeGhJa19CNUpRbkMwSU0zSnc?oc=5",
+      "source": "thelec.net",
+      "published": "Wed, 02 Sep 2026 07:37:20 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "EcoPro"
+      ]
+    },
+    {
+      "title": "LiBEST, EcoPro BM Exchange Next-Generation Battery Technologies - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55d2J0d0ZUUkdvX05BZkl1b0NXRVpRX2pScmRYZktyUGVCX0J2YUE1eFoxbVVmWWVkVGpCbmc5SkhaSERMSDlDUnVDbm1FZGduVTdBaTJQa09LQ2NabzM4azREUEM2X0U?oc=5",
+      "source": "thelec.net",
+      "published": "Tue, 25 Aug 2026 09:30:27 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "EcoPro"
+      ]
+    },
+    {
+      "title": "EcoPro BM to Reconfigure Hungary Cathode Line for Mercedes-Benz EVs - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KRjlRZ0RsMC1fWTk3Q3lvaHZwT2kzZ3d1NDhqVE9wNWxLdVI5TmxWU0tKVUlGNE1HcmlxajVFclpHa1pHclduZmEyWXpkajlGV3JoQWo5S3NfSXZwck5Jam9pbWxvSUk?oc=5",
+      "source": "thelec.net",
+      "published": "Mon, 24 Aug 2026 09:51:42 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "EcoPro"
+      ]
+    },
+    {
+      "title": "EcoPro BM Targets 2027 Mass Production of Solid-State Electrolyte - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0c0Mzei1LU3VDeEdjM1JPZTB3Tjc4UWlGc2xkMHZhMndCRXFNQXNWbWtQdFJ2Sks1YXZEaTNvRVpwMl9sNHNEdGxWbHFXckMwX2JJRnZNakRfTnUtM1RwS05OTm5FcEU?oc=5",
+      "source": "thelec.net",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "EcoPro"
+      ]
+    },
+    {
+      "title": "K-Battery Materials Alliance Launched to Build Sodium-Ion Ecosystem - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TaDB0ai1DX0dFb1k5MHN5RG12dGZfY1M2ZTI3dFZJM09sY1YzbkdDM050eFhabkdfemdtWVBtVU9XbDZtS2NSLUJvRXVHb0VDeHBfMXJqdHN6RTNfek9OOVRHQ3NXWDA?oc=5",
+      "source": "thelec.net",
+      "published": "Mon, 27 Jul 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Battery Materials Sector Sees Mixed Recovery in Q1 as L&F and Ecopro Stand Out - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Kc3dGQ0hCV2lsbWNwZDVWaU9Xa0Jja2V5bVFtMkduYTFHNklkOThxdDFVMjNLb1hQMTlISDVSbW02SDJLaERqOUFVQk5yT0lWS3VyMFNuRGdQUkkxclJkZFp6ZnNqOTg?oc=5",
+      "source": "thelec.net",
+      "published": "Wed, 27 May 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "L&F",
+        "EcoPro"
+      ]
+    },
+    {
+      "title": "South Korea's L&F slashes value of battery material supply deal with Tesla - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1BmdGhoWUl2Ui0wV0VtdndsbmVaUXZYSlZyaVVYaGIxekFlbC1yMFRTYjVieUNUcEhKemd6NGp1VXFhMXVHaHdDc0VKNlloQWUyQ3ZMc25qNjZxVk4xdldCS3JueEVrbGhJek1xTmEtS0NrZmhRRlNLZmpnMlNiYkdDOU8yOHBKbDdrRzEyZGxRRUplRVFLQXJmVDA1OEc3bXlvSHhKYVdka1RCWjk2MENKWlJGbjhYX05ZNkEwQnZ3bjgyMGhPSmJ3?oc=5",
+      "source": "Reuters",
+      "published": "Mon, 29 Dec 2025 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "L&F"
+      ]
+    },
+    {
+      "title": "/C O R R E C T I O N -- Coreshell Technologies/ - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWm4zd0VfblBwTThKUTNKMTJ3Tm9GQURLZHBrT1FNa285M0pyeDVOamNza1NnSmxQbjd2djFpVHdyZUNDMmJhaWVwOG1yVDV2eVpqcy1DbTlkaXhXVjdCZDFKTTBkTnphY3pscE5Pems1YmRlUVJlUXBBcENQamRIbzZ5NHVEemxJWFJValdqdHhteFNpVlNZc0NzSF9ILXhrV0FGMVFmUUdRVGMyRlVNNjZzS1dWdEZGYUt3dnhlTmdiczBKeksteExIVl9EbHA1SXZpU01QUQ?oc=5",
+      "source": "PR Newswire",
+      "published": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Tesla cancels multibillion dollar cathode material order from L&F - electrive.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdVh3T3FIeGVBbExaTnJ2czFBQ1I2RWVKdk1fdTdzNjF3eUY4Tll0QUdRcXUwUjU0aXBtdUx5amVyZnR5NEVsNVVJWEFlaVhFWHdtMmN3MTBjeFlJOUl3Q0pZaTN6VEdQcWo5TUV3RFNhTml2M3R4U1JqVFk4RU0xV0dPUkUxOEZ4NWwwekZ3aHFpN3ZkczFWVWhSY0FhT3c2WERDTA?oc=5",
+      "source": "electrive.com",
+      "published": "Fri, 02 Jan 2026 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "L&F"
+      ]
+    },
+    {
+      "title": "LS-L&F Battery Solution to Begin Commercial Precursor Production in Fourth Quarter - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9raW82V0F3Y1I4R2tSVVdXeFdVZ3FVRlJKa3dsUDZNT0dsNGhLTmQ2eXhRdktyVlNDVHNyOHlNT2NjWWZQZHNxa0otLTVKUnQ5b2RrQlI5cDVBbllkelRlTGhKMUR3Sms?oc=5",
+      "source": "thelec.net",
+      "published": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "L&F"
+      ]
+    },
+    {
+      "title": "Coreshell Signs Eight-Year LFP Cathode Deal With L&F - The EV Report",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyZDZjUGhDYzdnRjF4SG5VdTU0cHBPUFBrcGdpRHFGeXJiTVdWWDYteEk2Zko2ZmxYSmw2bUNhTjBqM21FU1dsM3h2SFBDNHhmNFNTLVlzVV9vZXpMX1JBQUxXZ0JQRzVhVlE?oc=5",
+      "source": "The EV Report",
+      "published": "Mon, 13 Jul 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "L&F",
+        "LFP"
+      ]
+    },
+    {
+      "title": "Coreshell Technologies Partners with L&F to Scale Batteries Free of Chinese Materials - Batteries News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTHdFMUprOUN0alZMNzlScFBlV1JZZDhiSGN4VWltdC1xbUtPTTdxb1BiNDcwcF9ZWkJBTXdBenAtR2FabVhTTHlUUFllM3RBeTZORDFVRHMzRHFJQkZhSjlmTUtsWC1QUU5DTEZEbkRINHlOd1AzT0lsR2U3SnlQaVRQcUx0em5PdlpsZ0FZUEJCaXI5WjNORHNNS0JpZTNyUXJoNE5Ub2h2QXc5eU1ieA?oc=5",
+      "source": "Batteries News",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "L&F"
+      ]
+    },
+    {
+      "title": "Tesla Supplier L&F Restates $2.9 Billion Contract to $7,386 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoRnM1N0dTVXgzbjFKNlcxRDJqcXFNRlZldTEzZ09TcXFQLVRhMjViN3dZaGhnVzZFUkJmQi1tU2kwYUlIUG9QRDZRYlg2dno2SVAteHZMVUJjemJ1YTJkc0tpb3hSTEhyc01BNE5VQWRBSmJncXU2VzdxQ0pQQQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Wed, 31 Dec 2025 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "L&F"
+      ]
+    },
+    {
+      "title": "LS Group Builds Domestic Secondary Battery Ecosystem - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMC0wdXpEYXkza3NYN29jdWZuSTB4b0tCWVcxel9OVUl2dXlJTFc3YVR0OVR0ZXFtSEtzTjJKdC1jQ191bmF5WXVGTmtZNmlfN0ZlS3FsTTlPdjYyUjhvLVFMekJsM3FvOFFNeVZuTDBoazVfY2w2d3k1VU5VTzlqaDdweDZjVUxj?oc=5",
+      "source": "조선일보",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": []
+    },
+    {
+      "title": "L&F emerges as first non-Chinese mass-producer of LFP cathodes - koreatimes.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1BRSUZKdTlGX3ZJUlZRMzRMR0JGQkpZd2xxMW14blYzeGhQMWxSWDRhUURKRk1rRFM3WXpTR2lmUl8tN2hzN2o0Q1E0VzJDTHNXcW05WUJYbWwyb1lCVEhBcXNjM05Nek1NWjNVRjFSb0d5MjZSZzlhRGRRYWNLRFhMUDgyVUVQdWdldUU0M3QyUXNzckVaQml3WG85SmExMjBZbERxTVl2TG54ZnJSRmlVVVJrMjFjLXfSAb8BQVVfeXFMTWxIUU1rWmZCRkhpNlhuVFFJRmNBaHlsMEc0TkpqYy0xM0xZempOV3FucFBXQjhFWUpEcG11eXFFSzktR3ExUmxEWWw3VjBQeTQ3UFFMLU9qR1pDcTNYWV9YUmp3emV5SXNOSlBEUzFsV1dqRVNDTGZKVENlWHNTT016b3ZFRGFCT1c3dU5hck01Y2RwQlJnNkg1ZlJRTEZNSzVvc3k4MXJWYXBqcnNZZDFhY2FHSUlfQUZuUnJJUEk?oc=5",
+      "source": "koreatimes.co.kr",
+      "published": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "L&F",
+        "LFP"
+      ]
+    },
+    {
+      "title": "Tesla’s 4680 battery supply chain collapses as partner writes down deal by 99% - electrek.co",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTURQbnh0ZFEzak9idWRJekJxamM4bXFrQzNHZVdXMi0xMElzRk9PZWdQUURVeTJUNThkQ25uOFBkSFBwQjdNVzJEVmYwRXJEaDVnV1NiT29wazdibDZQNjZYX1JHZVNUUWc4d1p0cVFTWno0OHpUN3ZWcXhxai1naW5BM2dJZWJFLXdTNlRwZjdYWE9nUDRXby03bFRMdw?oc=5",
+      "source": "electrek.co",
+      "published": "Mon, 29 Dec 2025 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Samsung SDI signs W1.6tr cathode deal with L&F in ESS push - The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsSTNfMVFsZjg2eFFLd1gyY3ZVdWoybjdXLXVmVHN1Unl4YXQ1WllUWXFkQ0o1bjgzX09Xbm94a2htekhQWTlOeThCcXhTaGY4SmEwWUxOMA?oc=5",
+      "source": "The Korea Herald",
+      "published": "Tue, 24 Mar 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "L&F"
+      ]
+    },
+    {
+      "title": "Korean Battery Firms Accelerate LFP Material Localization - Businesskorea",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ObDZZa0liNDNObzh6dFhQX3VHTkFfVlBVMWZ5eG5uVlZmSVA4S2FEX2lvd015ODB6S2NXSVF5SDFNS1hzUk5NcUttUkx4LTdUdmZVLVNld0syeEpMMmpLQ0kxRFlTT0FXZUIyMGtGYlU5WldU?oc=5",
+      "source": "Businesskorea",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "LFP"
+      ]
+    },
+    {
+      "title": "South Korea’s L&F says value of battery material supply deal with Tesla cut to $7,386 - 1470 & 100.3 WMBD",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWRNdnptc3NVdzdPTjVDUFJhSnhGNWczcWZ3d0x6WE94bzM2TnFuQV9ITUlJck92b3EwczNqaXhEQXc3ZU5iYUx1cExtT0tJa1JkY05lQ1pOVlJaTi1rR1ZUZEtwYUZaQU0zYlFuTzg3bVdBMHJpdjByYlVLNzhfRDV0Vm5TTGZSVFhxQldGQ1B3VHpaR2VUQ043V3hhUk9pTHpxN2w1ZXBIaUR4RW5GRHB6T1paQQ?oc=5",
+      "source": "1470 & 100.3 WMBD",
+      "published": "Mon, 29 Dec 2025 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "L&F"
+      ]
+    },
+    {
+      "title": "L&F: Supply Agreement with Tesla Cut Drastically - Battery-News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV3N4MmdHUF9VOVlLcHpUSXZvSlVaMWpLMnd1MHZVelJYX0xwVXZzemdGdFBhUm1HVTBWTGdUNnVNQWNmaF8yNTNmdmFsMmZyMnlDMFpQdGt3UThxcTdtQUMxOU1uUy1uSDBEdzljN3lPX0ZFeEJKMFZ1bnFRRXB4N29VZUItUWpOWm1rdHJB?oc=5",
+      "source": "Battery-News",
+      "published": "Mon, 05 Jan 2026 08:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "L&F"
+      ]
+    },
+    {
+      "title": "L&F Completes LFP Cathode Plant in Daegu - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOUU5JeVFVakZJaVhqeV96WGMwSWZRZzRtNGNDdl9fMVNEVElYTUx1Q29QMjI4RUc0cERlMVVPWlhmNXlOcVlWOXJzM040cUlKQk5SRjJsbngtUXhfVXloTXRGZkd5ZFE?oc=5",
+      "source": "thelec.net",
+      "published": "Tue, 19 May 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "L&F",
+        "LFP"
+      ]
+    },
+    {
+      "title": "L&F leads LFP cathode production, targets non-Chinese ESS supply chain - koreatimes.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ0hKeVRDQ29KVGt5cmpBMlh3dVZyTExGR2IyMDdEY1NhajVfOGZKRG5Za0lSUVM2aUMteFAxUlJDYkhuRW4tU0Y0SG9SRjQ1amJ2emtfdFRtYU9JN2ZJR1lJMHh4dHF3bFJQcktINWt3SDY5MkktMHZRRlBzMU0tR2tIY1NMb1BKQVdDenVSMHhKSGZaMy0tcGFWSDl0bEpIVGtXQWozOVVKbmtpRnJ3UzN1bXpMdlo0VHp6alp3cFBUQkHSAcgBQVVfeXFMTzR3T3RWSFNwZGxwc1EybjFOTE5JUW50M1MtYzBrelFPZ0k3ZHRKbjBxM2Z5d0FjeHltcGxSQm1EWXJrOWtkV2xOSkVGb1Q5QUNjQzkzZW4xNXlaUjhWTWgzSEZ0bDN3UkVNSFdDNHA3VmoxOWpYQVJ4eDhzcjlQYlNEaGxISHVOTU9uSkpxSmFlQlVQMTBfZ2g0Z2ZDb1JYclhjdnJBRVEyQWlEUDZVZHA3amc5OGlFdlFpRHYtY1V3cUgyUzFwLTU?oc=5",
+      "source": "koreatimes.co.kr",
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "L&F",
+        "LFP"
+      ]
+    },
+    {
+      "title": "L&F Partners with CIS Chemical on Battery Recycling - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52YWNGX2dkRl9TSEhudXhnV19tZkRxbnRBc1VsTm9aZl8xNDdmeXl4Rlo3cGtMUS02d29xaHZENE5VelJWdmdJVkxQb251dTJQNzh6LU4yS2hwYkRIaUpBU2NOMzZYLW8?oc=5",
+      "source": "thelec.net",
+      "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "L&F"
+      ]
+    },
+    {
+      "title": "Samsung SDI to Purchase 1.6 Trillion Won Worth of LFP Cathodes From L&F - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83aS1CRklTcUxNT2FQaTBpMTJJazB4UGdiMThLMGJpTnhzYTliUHcwYlJYb2JuaFJKR2FpTkZIOU9yVXltRjlmMG9fUkV2cHlROTZUeVZNVm5udmg5dGVNeHI0NFdLUQ?oc=5",
+      "source": "thelec.net",
+      "published": "Tue, 24 Mar 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "L&F",
+        "LFP"
+      ]
+    },
+    {
+      "title": "SungEel HiTech to Expand LFP Battery Recycling Capacity Tenfold by 2028 - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16UHloeHg1RlhXYXJBY3l1MFQtdlQxaW1vMW5HX1M4UDhmV0ExV3VsX2ZxT1plenZodWp2LVJlZHFUQkVGcDMwcWpfdW9tVExyLUQtNGtKQUgyRERxR0xmNTF6QnBQbDQ?oc=5",
+      "source": "thelec.net",
+      "published": "Fri, 04 Sep 2026 08:56:10 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP"
+      ]
+    },
+    {
+      "title": "Blue Whale NxtGen LFP Energy Storage Solutions - Fuel Cells Works",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb1dNY21zUldLYTVYTmduQ0FITWF1NGs2d1JUeEZlZ1dzVUoydnFJdzk3TmNUd1lXTHR6WVYyRUpJN1VqRzZFbUFyczlWS3ljUGRzVGc3a1A0dlRxSTVuOGUzT0tpNFNMOGgwUm5iT0FCVG1xMUNZNkU4Y0J3UzN3anhNVXNRUFJXTGkxVkhvN3ZKOXFRZGc1T1ZpMDBtZXhIR3AxVTloLVB3eFhTQ0xV?oc=5",
+      "source": "Fuel Cells Works",
+      "published": "Fri, 04 Sep 2026 16:05:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP"
+      ]
+    },
+    {
+      "title": "LFP vs NMC batteries: Complete fleet owner's guide 2025 - EV Infrastructure News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaENQY2xheEthcGdhZ0NMWUpUZVRuQUltTFo3T0FhVlltbTFmT1V6NFJkdkxhbDJkeFN0QUpyVklvb1Z1MXAzaTZBMWI2ZFE5cGlSY3k1SDhuMWxvZENFUjlkZmpQWlVLNTZUVHpXWjlhNHZMRHdqekd0RUlBSTM0cktIRUJ6cG83c1NxbTUxekJ3TWM?oc=5",
+      "source": "EV Infrastructure News",
+      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP"
+      ]
+    },
+    {
+      "title": "Corvus Energy expands LFP battery portfolio for workboats, ferries - WorkBoat",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUWViWHRRcHR4SnFlZ25HM05sajk0N29zZjR6eGd6R2ExdmN5MnhBQUN0WUNJOU5NaUtTaDV3N0duN25zWXFmY3MtQWVFTFNVaE95QTFZYkM5OVFZRVE4RW04SjgyTXNDa1Z1LWRJRUZWcHE3QklsVWRtU1Z6QTdCc28wMHVZZDNZZFlnQWFmZTJHV24z?oc=5",
+      "source": "WorkBoat",
+      "published": "Thu, 27 Aug 2026 14:24:28 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP"
+      ]
+    },
+    {
+      "title": "SK On agrees to supply of 18 GWh of LFP batteries in the US - Inspenet",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SbDNrUkNuZHNfa1ZKTlNVWXhOdTVtcGFIREJ1S1h0OVB5MlZLXzlKbUljeUNxUlA1eGJKTlZlaHJjUFBCbGUtYml4SUhSZldLLXdkTTlIS05LUXZaZkVySlJ4TG9ONjBqbDlfMHBaeFF4ZXVMeEw5Wg?oc=5",
+      "source": "Inspenet",
+      "published": "Wed, 02 Sep 2026 13:08:18 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP"
+      ]
+    },
+    {
+      "title": "BlueOval Battery Park Michigan Hits Hiring and LFP Production Milestones - Ford From the Road",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS1JsQjhVTVVJY2picWZhbkFRcE1lanZfZHRaVndJRDEtdlo2UkZ2dVM3QzhOSXlnekNmTmJvd2lKSlVKYXMzdjlJejVfOU1jcU5TZjdCSjNwdzZUQjBlLWNxZDB0bWNEbnl2cjhsc0ZjbnYtT0k3cGtDN25aSUxsVHBscF95dmpVU2VNYVg5MDJvTUNTUmFnUHZWalB4UVo5a2tkbl9aOEdfeWlBc0E?oc=5",
+      "source": "Ford From the Road",
+      "published": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP"
+      ]
+    },
+    {
+      "title": "SK On signs 18GWh reciprocal LFP supply deal with NeoVolta Power for US-made battery storage - Energy-Storage.News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWGc3YVZBNE1FSHR0VGxVa3l5WXVSMmNQb1Q5QWVjVUdNbjF1WWJMVkpCeGFlX3BSekM4bTUyX3QtUVNSM003YklOd1ZaSU9qRXFUcXZ1Q19hNzNUdENfNHdJX21wbGxSTFhPSWJNRDRZMGVPaFZyRTlyeFdBY280QlBCc0ptX0gxd2NpdXlxNFhid1ktaWxBVzRnMm9nNFpiMS0tbW9JSTdMM0xVN2tfa2JCa0lmazRaNzYwSVFoUk1iYjA?oc=5",
+      "source": "Energy-Storage.News",
+      "published": "Tue, 01 Sep 2026 10:48:07 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP"
+      ]
+    },
+    {
+      "title": "SK On to supply W1.5tr ESS LFP battery to US NeoVolta Power - The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FSmVDZFpUaHBiM0pZNHYtbG1QT2ptWG5GVjVWTlFVLXRFcWU1cmlXamZSTlZOYUtpbmZoUFBTekpOZlNENVhVLXBUMldJQU1zY1g4UVo1aw?oc=5",
+      "source": "The Korea Herald",
+      "published": "Mon, 31 Aug 2026 05:49:40 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP"
+      ]
+    },
+    {
+      "title": "LFP batteries gain acceptance. Can they be recycled? - Resource Recycling",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWNYS3dhazhSVnJJOENncmtDbEotYzhLTHRGbU01RHdJY0RXaGpzdi15SHJIeGljVWh5TzNOVDFNbzZGMFJuSHkxM1I3ZHpGTVFZRzV5SG5yZy1TZDB6UW1YU1RpQnBwVDMzbHlRelFvRENYa2JGY1JCYWh2dTBzcjdXdzgtbDlqTlV4MDhQTDRnNmpBWGdtc21DWFdOVDQxU3dv?oc=5",
+      "source": "Resource Recycling",
+      "published": "Mon, 17 Aug 2026 10:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP"
+      ]
+    },
+    {
+      "title": "South Korea's SK On signs energy storage battery deal with US firm NeoVolta Power - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdV81NkdQRngzcGlaNDR4bzBlQVJJWEVTRlFjLU55MWx5VW1SR3pTY1lIMGV3RlFUbEZySHIzVU5XeEl5ZklEZGFwRTZmWGhlR2p2WW55WXMwOGZJZG5vbVE5Z0luT0lNcEVKWktDdnA0d25leWxyTVpBZ0JELWpraW5hYXI4ZXNNLWRVRXBjMGVvUERONmpiV3N3a2JQenp3WWlBamFhMno2QU1RQUJUVWN0NF81TWJJT2lHOWhiRldxMW8w?oc=5",
+      "source": "Reuters",
+      "published": "Sun, 30 Aug 2026 23:08:07 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "NeoVolta Power, SK On Partner for 18 GWh U.S. LFP Battery Supply and Manufacturing - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa2U5VndJZExRdHI4aXVLOGRRY0p1Tl8xeDFDT2lxaFpyRUY2QXVVcXljZmUxTEF1dFk2TWgtME1XR053bVVjVHNZWWdtQ0FqVkdWTU9WMUpWaVBEakljMjFSVko1MjczNDg2LWh2OVNlRi1BMXlwWGpxNkdLdHBjSmpuTnpZYXF2V2thTWNwVEpZVmVzTXN4c2oxcVVyMWVBVnZLREx3?oc=5",
+      "source": "IndexBox",
+      "published": "Mon, 31 Aug 2026 15:51:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP"
+      ]
+    },
+    {
+      "title": "Evolution of LFP Cathode Materials: A 2026 Update - batterytechonline.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2l5ZEJOamRjMXNkRTQ5ZHJUcWVxWWZOai1Bc0ZwTWFMOGRYaGdXWl9aQm1MTmNuS1JKSFVXNnZGajdSRTZBa0pHZ3hCS2xYVDJjbU51UHpTcDBhTVB5QnczRDdUWl9nVV9kYkdNdWo5Mk1nZkNPZjRBYmRfejl4OV84cnRBc3k0U1JGOGhTR2hMVkdaYVB1MWVwTEw1Z0RKSGZ0cVpTRQ?oc=5",
+      "source": "batterytechonline.com",
+      "published": "Mon, 10 Aug 2026 18:41:20 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP"
+      ]
+    },
+    {
+      "title": "How Long Do EV Batteries Last? Real Data Explained - XPENG",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ubldqZXRqNmhDbXY1ZmxDR21hSVJUQ0twOFkzX2FOWmJYT1ktRUpKbnpsdlVfOXF6NjZiUXN5cWpoWmFseGRCOFBzYTM1YS0xQzAySU93MW9JLUJTVWs1N1dTV1R1UWY1RU83aU52UGRZckF4?oc=5",
+      "source": "XPENG",
+      "published": "Fri, 04 Sep 2026 17:08:03 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Renault Scenic E-Tech Gets 89kWh Battery, 399-Mile Range - The EV Report",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41M1JnYmdhM1JUMnR2TVd1OWR2WlQyMjJBVDBfLWZVSmExZUFPZDh0VUFXS2pkTElYeWxvV3JjeGk4MS1mSDU5MDJxR2RBUzhwb1hRUVY0VG1GZ0pJWTV5Vi0zczB6cXE3amdxZ0RYNlM0b1kxM3NrNXhvZ1JXNGc?oc=5",
+      "source": "The EV Report",
+      "published": "Fri, 04 Sep 2026 12:18:47 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "SK On signs battery deal with NeoVolta Power - upi.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQU9sXzlmZFpPcXRLOVlzTWp4RE0xdS1xdkRXNWZSQ0pQRXllaE1WbGk0aHBxOG96NzgwaEFvOU5RYmRRWHAyckZEZkN2MnV4SHZ3Y211UjAwQmItMTE3Ui1XMkoyWHIxd184cDF0Xzl1cl9WMXV5Rks5UFFNZUw3UlNVeXZQZ2VER1R5NDhaM2JqY0F5Vng4RVlNUG1Sd9IBowFBVV95cUxQa182TXNBcW9HMkxHcE15Zlh1cDJ2c1Y0SmdITl8ydFVBSGhiZ3JqXzFfc3R2ZFFrVDdsVFNQX1JIVGFWVFFOTkx5VDNmVzkzWUY5eko0REhIZHhjSTd1SEh4OGR5bmVJUnNrZWNObHNudlNYcTJpYXVZVmxPSFdSd2Z3ajdwbzB6OVZIUTQwb2s2TUJOcHJURDNzRTU1RDNvMmtv?oc=5",
+      "source": "upi.com",
+      "published": "Mon, 31 Aug 2026 11:37:11 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Samsung SDI to Supply LFP Batteries to Top-Tier Global BESS Company - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92VU9nZFFMTTVFWk1tUm5uS1JIbDM3OUZFajBNT05lSWdDOVBQVnVpQlg3Sl9tWVdOLU5UU045ZTJDRHdENEQ5WTczLTFvOTd5RXNqdGlGVHM3dkswV2hqQXdHakphR0E?oc=5",
+      "source": "thelec.net",
+      "published": "Mon, 31 Aug 2026 22:27:29 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP"
+      ]
+    },
+    {
+      "title": "Global LFP battery growth is creating a recycling problem the industry wasn't built to solve - The Cool Down",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS291WWw4czY5Qi1zRUt4UmRVa3l4R1pvQzUwUkFLbzZkd3dNR1lxeUVjQnRGTWcxZEkxeXZVLW15WG9nQ1otLXdGUXIxTjNCc2dGRDE4TENUeW9ZODlEUF9fZnpFOUxvMkFtVUZaUTFpUERES2tmU0EzeWliUk9uMGdJZ3h6Nnp5N2xF?oc=5",
+      "source": "The Cool Down",
+      "published": "Thu, 27 Aug 2026 00:51:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP"
+      ]
+    },
+    {
+      "title": "Lithium-ion Battery Cathode Materials Market Size & Forecast - Market Growth Reports",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNm8yNURZUUwwaXdiZXBnajNtNzJMZnFiMnhYUEl6QzZoTktjWG1mRC1CN3ljY0FDZnpSZ05DVDktRkpUMF9vMi1uc3BYTkEzb0F0cThWTlBDMnIzdzZrNkZCM2xKcVJ6M1UzSGhCSEJCQ19mTS1KWUdzQjI4TVVYVDR3dXRiZ1ZhUl8wZm9YcjdmUk9felRQUkVxU2tPTXhKV2VWSw?oc=5",
+      "source": "Market Growth Reports",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "The battery chemistry race shaping the future of electric vehicles - Chemistry World",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDhHdDBTRElhNG5SdXZPSUZyYXZsSnFRejBYLTRHRmhpcTlCdUw5S05QZ3N6SmdtbUducTA2MW55d1BBMUI0Tk5FamFnOGhYU3hjdzlmUEEydTNaZndpT2lYR3VMN0xMaGJRMDl0MG5fSWJ4VW1BSWxzTTVXa2ZSN1VJWmFocHV4NnR3TXdVNlRZZWt0UkZWZG5LYVRKWWp5QTRDT1lENVFkTHloaV9tTXQzQ1F0UDdwZ0FLTWVTRQ?oc=5",
+      "source": "Chemistry World",
+      "published": "Mon, 20 Apr 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Challenges of the infiltration method for halide-based solid‑state battery cathodes - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03emdLVnZsUkt2VlNCQ3I4MHJMb0doaGdfYjFpVTRNQnJrSkVaNlVxZWVtdkNvbzhhWmw3MURnTFU1Yk1HVG9FN0VRb2REcS1Od3FUd05CSGcwTWtWTU1V?oc=5",
+      "source": "Nature",
+      "published": "Sun, 05 Apr 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Eco&Dream Begins Mass Shipments of NCM Precursors From Saemangeum - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xcFZ4N1hiQUdPQ1MwemR5bWVOUXpYdk9hLXdsSkZydE4xemtObHFLbHkzVkl2a3M3SmZFQlgyeVdIeFBxLTRtT1ZyWWtLUDRSUE9hR1BBVEY4MGJyMFJHYi02bDAta3c?oc=5",
+      "source": "thelec.net",
+      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "NCM"
+      ]
+    },
+    {
+      "title": "Power couple: How South Korea fits in Europe’s battery strategy - European Council on Foreign Relations",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUVZ4dElTcmZSQTV5T2Q0OGRXWlBCMDRDRWg0REMwX3VMelBzOTFBVUZCaUdpYWxKVHU0UTNMczhJUnE1b1NGRW9nRHh1ME5TR3VsMFo1ZkViTGlCdDlWMi1vQlBfTEZoOHVEYVkwWExiekREZkVya25femd4UHVKNTJ1cVRQTTlKeElkWGc1NNIBlAFBVV95cUxPOXRQNWs3aGlYRWVPWW5VZnVGN25ubUZhZTB4bl9objdHM3RrR3JCd09hN05ITGIwNHpPbWRqaFhfNzR6SjE2Wk93N2N5TDd6T2RhVUhPeXprenVCYXVVS0VRem5tT3c4UlNnRG5aMkRiU0EwdW1RQmFXLWFLTFJBWV9jTXo0QkxxX2xjUFFLUERJbURQ?oc=5",
+      "source": "European Council on Foreign Relations",
+      "published": "Wed, 06 May 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Ronbay restructures cathode production to target US market - Benchmark Mineral Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTGc0b3g3V2pndzRPZXdkNkU0Y2x3LXFRRUlNcDBMSHZNWVQ0Y21MeU9walcxcTVBVzNJNU9jZEFMTXhnMWJnYVE5Q092OEhJRWVKNmNGLUl5VC1fNnlKMXRUNU5jUmlQVHZ2bTJkS1lFZmdFVHdHTzFkQkJoeDlmNnVPa0w1T3hqb29HbmVzLWgzNFB3andQS2RsRjM3WEhkNl9yTTFR?oc=5",
+      "source": "Benchmark Mineral Intelligence",
+      "published": "Fri, 10 Apr 2026 10:35:24 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "NCM to LFP: Why Now & What's Next - batterytechonline.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSmVmZml5RUdtTW1hTmhudXBDQ25lcjMwVGdDVGNRR1JPeEJwTzVhN29BOTMyOTVSRTU2UjQyaEtkb0UwZVoyaUdtVU8zUXloX2E3X3RBUi1KUnN3anNkRFM1SG1tcUJ1RUlmby1PTVY1RHlDVnQ2blR1NWJhUWhhOUVyLVN2aExTVW14VWttNXZuMktNaGN6SXdOOV9PYWdPYWt0SVFFNGgtTThrWkxFTXF5azI5MG5CR0gwb0lpYUtSaTg5c29oOHViOA?oc=5",
+      "source": "batterytechonline.com",
+      "published": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP",
+        "NCM"
+      ]
+    },
+    {
+      "title": "Lithium Battery Scrap Prices, Black Mass Price, Cathode Scrap Price - SMM Metal",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3RkZ2SmpiLW5pRmE5Y1JvWkhDTTBJZlNyWDNLdjJUNEZBMW8xSk5uWXMzcWlBNzRtTXptUVdEZHJpbEdLX2swdjNoOUctSzg?oc=5",
+      "source": "SMM Metal",
+      "published": "Wed, 04 Feb 2026 11:19:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "Chinese inventors win European Inventor Award for battery recycling breakthrough - Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40dkUyOS1MUUxFNGo3WUJOTmRadkhTMnBrQVlvM1Y0T2JCTUFmdDFNZWxSNS1OLTF3eFk1dW9jcDl6aktTUTd4Yk5MNTVnM0JRNUhUY0hwc2lyVm1xWVYtVmlR?oc=5",
+      "source": "Global Times",
+      "published": "Fri, 03 Jul 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Sakuu Validates That Battery Cell With Dry-Processed Cathode Retains Unprecedented 83 Percent Charge After 4000 Cycles - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOYmYyNzRodmNzM2lhajhGMFNId2c1d3Y4dmVlanFtOGNMSEJyUXQ1cTlTOTlEUTNXZTFXejF5UFkyR0ludGt2WHpWelctbDRfc2RRNWh6NF9tckJuZ0ZyWjkzVHc0dk5SbjItSHR6ZTBhWnlEWjd3cUo4OTg3RW9mQTQ0bnMzMFI1SHVuQ25IamVsRV9LOUlRYmNQM0dMYkh2Z19tTEFJVE1jZy15a1JEWjV1SWVDS19UN3paVnlZR1k3VHoyXzRpRVJsOUFaOWZnVWpjbFM4SmJ2eXBla0I2NXJWTk40Y3k0QVBXQm1nTUY4MmhNV19tWFdIY295czR3bDRQb1FB?oc=5",
+      "source": "Business Wire",
+      "published": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "NMC, LFP, LTO. What’s the difference? [The Battery Cycle #2 | 2025 RELEASE] - Sustainable Bus",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50RC00QjJ2SDZmMmRXY2x0U0hsVlJONkpfOW5pRF9TTDlPM2pJMmdtb0pFLXBIVU85ZW93OFg0R3R4eFFpQXpPczZMaEhERnBQX24tUDR4QkFNOUZna3RYaTltM0JobUFESkk4NmVNdlFWMUpWQlE?oc=5",
+      "source": "Sustainable Bus",
+      "published": "Mon, 22 Sep 2025 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP"
+      ]
+    },
+    {
+      "title": "Posco Future M to build LFP cathode plant to meet ESS demand - The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LY1REdmNyS19fNS02djROU0hFQ1ZobEctVlBZYV8wWk5SdVRveUF3OVdTVkZ1R1pCQ2R2T2h6STl3eXVsQmV2bTMtUUFCM3N5c2hPMkUxVQ?oc=5",
+      "source": "The Korea Herald",
+      "published": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "POSCO",
+        "LFP"
+      ]
+    },
+    {
+      "title": "Nickel: Battery-Grade Supply, LME Prices & Market Analysis | Benchmark - Benchmark Mineral Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4bTlDdk1Pc2dKcFVvMm1SakpQMkJxNmxxRTZxbVpIeF9jQ0VTRmxOZWY3cWxZWWlSaVhuNnplZlVBZnMzbmdldU56WWdndFpMWGdQa0U5UXpxeW9aTlJia3FLY3BleE5n?oc=5",
+      "source": "Benchmark Mineral Intelligence",
+      "published": "Thu, 15 Jan 2026 11:53:40 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Zero-strain Mn-rich layered cathode for sustainable and high-energy next-generation batteries - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45TUtWSmxfbGpVZFRlTTdyT0tPRDFaWi05VzdSMXBDTGxHaTFpRHFTV3FsR2c3dG1fcUhfZkkwby1nVV9kWXJ2eUtncXR2aU43U0RGTjl6ekRYM2NoZmJR?oc=5",
+      "source": "Nature",
+      "published": "Tue, 26 Aug 2025 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Samsung SDI using China’s CNGR precursor for own cathode - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FbGwwanNsR29ROWE2THVkQnd5aWs2V2NjTVVEc0diLUtuRGpSNDRqaTZMcUI0RlhpRXA2X3V1eWRWLUxlbkxsYXNBS3lkUjlBRVd2VWEzSHdoYmNGaFpwM1phX1E3UQ?oc=5",
+      "source": "thelec.net",
+      "published": "Thu, 27 Nov 2025 08:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Gradient-porous-structured Ni-rich layered oxide cathodes with high specific energy and cycle stability for lithium-ion batteries - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zdjJwUkQzZVFiMkxXU1F0U1FqYVY0c2hNRi16YzQ5aVdUNmdmOWs0MTA5VWhkUTYzOF9GcWd3eE9ROHRIbUE0TmIzQmlxTnVLcGZoU0lyb3Z2NmtMWkY4?oc=5",
+      "source": "Nature",
+      "published": "Mon, 25 Nov 2024 08:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "EcoPro to procure MHP from Singapore’s Green Li-ion - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qb09BR1k5UXI2cF9nZElTWk1TdGYxcktsTGx5ZW5ZUnhoUEJiN3RBUXJJdFNJWVd4c0g0NjM1a1hLMXkyNmJGWElod0FaZk1uMkhIWjNxTm1XYk4tU0Q2OWxfS2NhQQ?oc=5",
+      "source": "thelec.net",
+      "published": "Wed, 24 Sep 2025 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "EcoPro"
+      ]
+    },
+    {
+      "title": "Dual function Li-reactive coating from residual lithium on Ni-rich NCM cathode material for Lithium-ion batteries - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VcDA5M0lIdHZ3RGFaZWRNUkc3MHQ1bmpJRUE3b1haMUNWQnRVMXBpdXBoVHBoTGNHNm1kUnZtQ0NTUEZFYm95cWQwOUVFOFVnY2dxbThVZmhsc2JKelQ0?oc=5",
+      "source": "Nature",
+      "published": "Mon, 20 Sep 2021 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "NCM",
+        "Lithium"
+      ]
+    },
+    {
+      "title": "Why Toronto’s fire chief is warning about the dangers of lithium-ion batteries - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZGZNbG01ajNGTDZfNnY5eHVPdDA0bVVLMjAtZjg2bXJ6dVdPNzdBN3IyRTYtR2x3Z1o0N25QYTlLVmJQb2Q3VHM5UDIxaVM2bG91eUFfUTRuRzN0MjlCNW41WEU4OFNMbTdKUjN4bTJVWEk4elZwWkFaYnlhTFVRbEhoVEM4SndIYkFqWC1fdHZPWnBTRUgxR1ZLMUhvM2VKUzJfaGUxUEpNSzlUNnV0RU81S2xwcUtGNWZtaU82LS1HSl9HTm5PcA?oc=5",
+      "source": "CTV News",
+      "published": "Sat, 05 Sep 2026 15:58:24 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "Toronto crews respond to two fires involving lithium-ion batteries - CP24",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWTBJdk1Yb3lmbU9tTnZTU015OVZyaUM0Rnl6X2VhXzQ2SjFHeWNuRXhYcTRhS0xIUC1fQlVaSnVEYThuWGxHbFh3RjVFUDlxbDZMaVM0dnd3WUtmMFV6S01JTGlJdF9yZkdyc0dIRHhUWnZ6NmZiR0xXdXlSWVVndnJLcGtwVi1HeXRqNmhNS3dkOTlVcF96LVZ2NTNpa1B1ODdSVl9NMjItbUxaTkZJQ0lySQ?oc=5",
+      "source": "CP24",
+      "published": "Sun, 06 Sep 2026 18:59:41 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "New AA and AAA lithium-ion batteries with USB-C unveiled - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY09uUlFOTWd0d3dNMmM3ZktkOHo4SW1pQTBpOTlxVlJLdkVNdUZEcVdOSWJ3U3F2NFB0Y0ZNbUxaYXY5WHd2ZHRwN2czS2wzUzJEZWl3aHBwN1hKbzFCbXNzMnY2cm80TUt5eVh1dnVvWEFka19QMkRGYW41dl9KT0FVSnBEMDBvOHd4X2NpdTV3ZGhxWnhIQjNzWHBUZlR3M240?oc=5",
+      "source": "Notebookcheck",
+      "published": "Sat, 05 Sep 2026 17:49:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "The Best Tool I've Ever Owned Is This Giant Lithium Battery That Has Powered Everything From My Tent To My Entire Garage - The Autopian",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNN3FuZGF4dDg5ajdWRm5zd0hJRDVUM05PUTlFX2pGUHRVWmJZNVRCUDY5REc2THlhT09JWklEaHk3WU1DYWZiUVZKTnUxQ2ZsdnZPOVZkeVBEa3hmdmxYaGZ5RGU2ME83dWNhbHVXUlQtMzVjYVlLZVV2Z0UtSTV3ZUF0Q0pJa3M2SkNmSktCd2tVMDJnb2paYk5QVTBJOWo3eFNXVkcyWlNJV0JVV0xWRmZFRThHTzRBbng3OHVJZ3hNaldzWGEyUjU3TzZSV01QaGZMbVRxSWZfdUxjTkFEY3Zn?oc=5",
+      "source": "The Autopian",
+      "published": "Thu, 03 Sep 2026 20:16:39 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "Saugerties town supervisor says lithium-ion moratorium not needed - Daily Freeman",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeTFFR3dUUklTRG80T2RuSHd5OTJrUUZlTWFiOWIyY3hhd0d0eFowYnhiLVJNMVRjRG1nQW9obE9ESUE1N1RDWTRyT2dFb3FzWVdoazBBMXItSmkyRjFScjFUMkU2S01tYUZqdV80ekE4Ymd0bURxenBaSE9acEFBSlJ2clVLWGZWT3ZCcHhtalZSODNKSVdQMDZYMTRCNVlrSTZuYm5JQmQxQQ?oc=5",
+      "source": "Daily Freeman",
+      "published": "Thu, 03 Sep 2026 19:34:14 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "New salt-water battery uses bleach side reaction to rival lithium-ion power - Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORkkydTh3RWItcExObmZfV2l3RGRJdjVCYWRhR3RyZzZCWHdoTWVYek1aa2k5Z0RvOHhTemcwcW1wMWNHS0xLV3ExWUY2RGFzQjNQMEJjR2NpMXp6dnZvUHVXRWxpODd2WWpETGZrQ0g1OEpUZWtZSlI0ci1jbVBSdXk1SFdqSDhjeUY2NlpfTjBuSElz?oc=5",
+      "source": "Interesting Engineering",
+      "published": "Thu, 03 Sep 2026 12:38:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "New guidelines for flying with batteries and power banks - The Boston Globe",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMF9SNWE0dWMyYnJxWXVzSktpZGp6R096RWtsTWptSmpfTzdlaWxod0g3T2o3SHlTREFOTTZnWS1nV3pQZDU0MnJ3VXcxOXR5cVpMbVgtTmpvdHBaUFprVlFkVldhdkg4Y0pKXzJGMFVycG11c0k5UzRzVjA0bUVLNUdTWUp4VnFkWFplSU9KV0Z2Vk5JVlQ1dA?oc=5",
+      "source": "The Boston Globe",
+      "published": "Thu, 03 Sep 2026 10:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "This American Battery Could Break China’s Grip On The EV Supply Chain - InsideEVs",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QR0QxdEpVUW5DdjBsLXQtT01jQWNNZWt2cF92eHR0cktWSGROOTVQU1VNNzRwY1M2cVhlWl9uM0tFR01COTdsRk5zbWJLSUVOZDdHWmphelJEM09pbDRmYWFGbTlOT1NPbVdOTFhscjV0Zk1lTDRxamNNeVU0dw?oc=5",
+      "source": "InsideEVs",
+      "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Battery fires at recycling centres are costing UK £1bn a year, figures show - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnUtU2hLMVgxTUtHRkQ1QUZ2bDZzLTdUWDlKUDhPMFdnd1BlRFh1LXYzQzN2bGU2alNWQXMwUmxjWXhDV09HaUlMZGF6Vl8wQkR3U3gzS3NJdnBTXzBrSXZGYXhJVnVlTFlXYTRFbHd4b1R2M1RQanQtMHNvLVR1OFp4WXI0WGEzeXpoVVQ4bTNjRk1RcnpzV1g4d1JtOVRGZFltNVhtN1pkdw?oc=5",
+      "source": "The Guardian",
+      "published": "Sat, 22 Aug 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "New Hanover landfill fire focuses fresh scrutiny on lithium batteries - Wilmington Star-News",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTnA2UHIzTEJSX2ZXRWRQREJjTjZSaWNCR0Y3QTJuamlVeEpXLTFWZGd6eWpOQkg1d29INUZpMFpKU29PNThjWmVBclEtX084aW14WFVob0xJMmFaNmVEbFo5VjktRVo2TGVrZlVXZnhDTDRoclZXUFcxTGFoZDFrNm9ZTVJSZVdHMVNTbU93WVVGMWJPMlJkMFRscFdOVkN4Z0UtcEMwMVVhVDdmb1NvVEtucmhPUWhMUXJkV0pBMWFJWlVVRzc1ZUZ4aWtxbGlkT0pOUFdDVFR3d1pvUUN4SnhCcUJtdw?oc=5",
+      "source": "Wilmington Star-News",
+      "published": "Thu, 03 Sep 2026 09:04:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "Power Banks Sold at TJX and Marshalls Stores Are Recalled Because Their Lithium Batteries Can Overheat and Ignite - Medical Daily",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSHRDT2lPMWQxNUgyMXRoTUxBWkg0aklkeUVicUJEZFZ5RVV6cW90SWpaTWZsb1dUWkdNSGMxdXNEcEdTX1E2SjZhaHU3d0Npb3U3Y0ZGbEFoYVNSRUl5eE0tbVpsaHFwd1JiMmdreFV5Z0RXRXBubklKSHVxZUZEaGFPSkhNSTlZQlBCd0ZCdHVQdw?oc=5",
+      "source": "Medical Daily",
+      "published": "Sat, 05 Sep 2026 01:30:42 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "Marshalls, TJ Maxx issue nationwide recall of 32K+ devices over serious fire and burn hazards - masslive.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOXlRQmtFNGdGZExhUVZ6T1N1NDczOGFKcmtqLVpNRW5yd0dCaXVTUXFSeXRZYkJ0akRpeFdaSEZ5MC03Z1lDTEhYUXg5NGpBdi1iTENnNUpJSDVNYWdmQ3pkdHFTNkhoUkRyNWVaVHdzNTlLbXk0LVpxLU5QZmwxeHp1QlNsQno2cTVnLWlpT1IyeDRGaG82dnhaOUlWVEprVUU0ZHNuUmE2ZjF0MEJYZ1hHNUU4NzUwYWlmTzFOY0JUTjFwaEV1T0V5LXNNQjDSAeMBQVVfeXFMTVAxaG0zcDQ4VzZLZkVfeWhPYXdSUjFiZVA3aDBYaUxxN0F2Q1h2VS04S19qR0hReGt1MWdNc0JYaURtYzZraWhIVUswalRFdkhTcXdId05pZGpjZExraVpBM3J1YVd2UWNHWDNvX1ZJeWlwSE9rRVRkLVF6SExHTVdxc25SenNIOTg4Z1MxUkcyQmFxSGlLTkRwRWs2QnQtWTdNZjc4ZVlCVkhRSTlxbEUzQ3ctczFESXBkTEk0SW9QYlI5aXpCczd2RWhkVVFUUHd4NFphVHJFWUpTMEhHVXZxaGc?oc=5",
+      "source": "masslive.com",
+      "published": "Fri, 04 Sep 2026 18:21:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "U.S. Department of Energy Roundtable: A National Lithium Battery Blueprint. - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nVU5YQkEwYWIxOGYtUnljbm8xQUhwc0hDWnRLOXg5bzJINW5CdzV3dVlRaUVjUVRlbnlQUGsyTXR1N1JRUmFuY29HOA?oc=5",
+      "source": "Department of Energy (.gov)",
+      "published": "Thu, 03 Sep 2026 19:21:47 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "What a canceled battery project in Tewksbury says about New England's aging power grid - WBUR",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFNtWU84VzRUbEI3eFJUMmNsQlRmTmVPY2VTcHQ0dGd2UU9UcV9TZ2FlMjFZSVRXT2UzY19fNUZRaEs2dFI5YWhwTnRROHR4ck9mZHJZMkRhOVZzbEdLLWtTVTdJS01XSE45dG1UQUpDUUdQOGR3TWIzSGdONzdmeVpfZC1GS3JiYmxoVQ?oc=5",
+      "source": "WBUR",
+      "published": "Thu, 03 Sep 2026 09:54:13 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "BIS Restricts Exports of Black Mass From Lithium-Ion Battery Recycling and Tungsten Waste - Davis Wright Tremaine",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEFHdEpXbE90bV9wa3pncXRIMGFTRXMyOHpMeHo3dWdoQzZqX0tiVEJpOXV2dEVSXzBNWHpsZ01Xa1FqZUo3WFhfT09nNUFHbmxHYkxqSndJOFBtd1dJUFhraWdobGx0NGVQRU5laVJVaUJuMHd0TlRSUHNKQm1lcVBpU3VpOWRCemYyZ2pKNzZlU2pNNmZ1V2RnZGxKZEttTXRJX2Y2RXZjcHJF?oc=5",
+      "source": "Davis Wright Tremaine",
+      "published": "Wed, 02 Sep 2026 20:34:28 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "Zwitterionic gel electrolytes enable fast-charging lithium-ion batteries - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSkhVVGZQdUcyY3hNTDFzY2dqTkItZnV4akVkVzBEcXh0bGFKc0Z2dEQtc1NLQnFRaHhPcm5QYmltNElaeE1aTWpWTG9nUjBOb295Q1N3V1c1RC1IWldqWHRhb1liRGw2dXB6M2YzYTBqTlE1Q0o1RGY5Z1NDNHdtMHdKZmx2YkkxbEozOHgzZHJoV29QWFhHbkg0MWlQdw?oc=5",
+      "source": "Bioengineer.org",
+      "published": "Sun, 06 Sep 2026 21:39:42 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "Lithium-ion battery could have caused fire in Hunters Point high-rise across from Gantry Plaza State Park: FDNY - qns.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMT3ZaTzh6dXF3ZVBDdTE1LWhHQXZlSGNtY0l0MDVRQjF0a09PRFEtVU1uU0hmeWNxWEl4WTFWY1ZwMDlaTlVVdmZYbGVDRnFtYnVQMzkwS1pialVUYjJFaDdBRGN5OW5zaXZVYkt3Q08?oc=5",
+      "source": "qns.com",
+      "published": "Fri, 04 Sep 2026 20:36:38 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "Kaukauna Fire Department warns of lithium-ion battery dangers after two fires in one week - WBAY",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRXo4OFZfamdMNWd0Tldvc2lud3o1SjBDaEVCd3ZjalB6TjdFT1EwbVBSdEo0UEhIQ25ZeXpqT0I3RW9oRHlfWi1hb0U2QWd3YldpYUI3VjRIOHFZR0FseWhjNkdMal9qV04wRlk3SHl5R09DSDJHREUwQ2NBUi1ObE1PclhrYm5NR1V5OGNHc2dzZWpsQS1nOWE5aFFMZi1nYnl3dHB0V3FIcUtaNGswdVI5WTROTVnSAcsBQVVfeXFMTmkyWXh6UzhnYkZjaG04NUI2c1FyNUMwSWZST1J1bl83Z1A5OHJhRE9ycmRxZHlNZlh3cnVNbllqQ04yZ0pnZ1p6VGVncWlZS1V5RzRUaVhpOF9QTFpXWkVPTThFTlVhTEJTRnJHRHNQTzNqdERycjB0ZnlYNmtNX0hGNFFoRzR6OGJUWEpONlhEcmxMakN2Y1NWOGZZdmZNVUU3S2VNcm1VYXVndl9wWTJ5UnhwRC1adDNyVmlkSXlVQUFnS3F2RHlzTDg?oc=5",
+      "source": "WBAY",
+      "published": "Wed, 02 Sep 2026 20:51:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "Duke Energy Florida’s Trenton Lithium Battery Facility Gets a Microgrid Upgrade - Microgrid Knowledge",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdVZxRW1lM013LVNjQjNLRHByT3pZc0V0bVBjNmJXcGNpUjNBbVppaHd2T3RCSVVFaEtmMDE4NTBxUUxCTmUwT2M2T1lKZmtHSWxCY1A0RW5veGw1LUVxdHFxRVFHZDZqd1pkTkhseEFkTWtRd0pIcEJhbkRWOThRRC02clBPdC05SUJmbzJueUdhdzlyYWprSnNWR2dwXzV5bFJvYlhIZlVqSExYcXNfdTJKb01JN3hKYTlPWWpEMTNaM3V3Y0l2Z01WLXVTbkR0VHVXMGRPSVo2VmU0YlA4?oc=5",
+      "source": "Microgrid Knowledge",
+      "published": "Wed, 02 Sep 2026 17:08:28 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "Ryobi's Popular Tire Inflator Just Landed In A New USB Lithium Version - SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQjFVdFo4aWx1clJjQ1g5enlIajRzS2pIeE1hWWR3OEViN3dZaUVMUG5UUXNtQkx3QUJHNjNvYnA1TEszNUxlX0VHV0lsMV9JcEtYNUNHaGpKVldhUXd3bW1DUEVqeUdhTGg5eTk4d3BOdEVjNjlmUE5VNzQ2R2xlV3ptdXczNUxxbWE0Rzl5Yw?oc=5",
+      "source": "SlashGear",
+      "published": "Sun, 06 Sep 2026 15:45:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "U.S. DOE Invests $500 Million in Critical Mineral, Battery Supply Chain Projects - ESG Today",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1NsZzR5OHBXUXpiNHlvUlhlUS02UjVWSElpcWxEVHYtNGRXWUx1T2x6LWp3dFUtLTlLd2haMmpuM1FCbzA0N1JPNmxIT2VPclBIUk9hVTJLZERQcGQ4TTlEODZjcUpsblRCLUFPNTA1Mnp5Z2EwS0pHNjlBbExGZEo0WFVEQjZIdkxSWEFBekYzQl92VmZWT0U4amF1X0wtNGNWbndmVFFTRVE?oc=5",
+      "source": "ESG Today",
+      "published": "Mon, 24 Aug 2026 14:59:16 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Critical Minerals"
+      ]
+    },
+    {
+      "title": "Reducing U.S. Import Reliance with Substitution and Recycling Technologies - U.S. Government Accountability Office (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93RzcwOXNmVjlfcTlRVXIwaXRVR2luZmItaU9yWHVfaXBmNWVwZVV6TVNoOEhhZ3FhTGJWV29fc3RlYVRWTVFYLUdzS3lGc0xraWt4dg?oc=5",
+      "source": "U.S. Government Accountability Office (.gov)",
+      "published": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "American Battery Technology Company Hosts DOE Leadership to Showcase Commercial Technologies Strengthening U.S. Critical Minerals Supply Chains – American Battery Technology Company - American Battery Technology Company",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQaThRaG1pWW5uNVBVdEZ2Q0JqSVN0LW0yOGY1ZFdERG9wT1NyR3ZRb3hRengwbENxa3ZzbTVXak1lNE50dFJIVFhfSGVZRldUcU5PRldXOERQWkduT0FmaXBMcjNpQlhYbUkxZnhLcnpTVUxoa1B0dU5GOHkzQjRTekNjWWg3cWFFYnZqSG9HeXhhUHVkMU5CWDNSM0pqYXY5SzNtYTgxOWhaTUVSNWZpZXZudnpSZFJPRTRxNkU5LVc0SE1ZTVIyZzZUeDJzSkJPbmlhNmZnajFzbUZBaU1xRjZlaGpPLWxaekFaaF9lMk1BZFZqY3NQSlAzZTZNRnJBY1JDWGQxQkZsWXFKZWRyNUJaTEZlNmFfLVdtM0JWNmU?oc=5",
+      "source": "American Battery Technology Company",
+      "published": "Mon, 31 Aug 2026 13:08:51 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Critical Minerals"
+      ]
+    },
+    {
+      "title": "US awards $500m to seven critical minerals and battery projects - Mining Technology",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVXVFR2R5dHFXcjQwVHpQUFJ6dUhNN0t0Mld6ZUo2NzRJamdHSUZRNFBIcEkxZVpSZk1pTy1zMW1mU2V3Nnc1ME16SGRBUTBFcnZ1eFBORnZMamtIZDQyaHpnaTdwY0lXVnlmMjVOem80MzhjcEMtYkVGdjVGZGhtWGxIR05LUlA1NW1weWt4cE9aUHoxeUFVejNVTy1KNjJkcGlQZQ?oc=5",
+      "source": "Mining Technology",
+      "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Critical Minerals"
+      ]
+    },
+    {
+      "title": "An Export Ban Isn’t Enough to Increase Domestic EV Battery Recycling - The Equation - Union of Concerned Scientists",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcVBiQWkwNmx2Ni1TMmxHVnNueTdlM2NwNjJsclUwY2poY2JOa1k4N3BwaEl2VDlQUXlGTTFlb0xmLURjZ2RxZ3pRTlhBWEJtV2hKc3BGa2l5bVJ1ZDh4aU5jZlhZTG5rNWpxMjVlNXJRUHhhYU0yeVdhc1VwaTF2aUEwNGktOGlZWVFMb0ptTGJXeXFDbkRCVnlwcDVNYW5xU0lvag?oc=5",
+      "source": "The Equation - Union of Concerned Scientists",
+      "published": "Thu, 03 Sep 2026 14:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Energy Department Invests in Critical Mineral and Battery Supply Chains - The Presidential Prayer Team",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONjZlU09ZTml1WlZpSEdKSjFyU2Y4ZUdiYjBOSThwTHhwU2FyUnY3YVAwenhqaHNqS0k0Zng5Tmc0VXk5ZXlFZU1KTm9aWDlyOHB1VHJyT1lsaTBrZzRnZU41UER2T09MZDV6TnJaWmlxcVdHaUNieGprWElWVG5xWXotRWZ6WlBHbHV2cFM3NHpBS29SRlRva2dKVXJFUmhPaTMtMEtzZnRndzIxb3hFRFQ2aV9uR2FHaXFrWVpuUQ?oc=5",
+      "source": "The Presidential Prayer Team",
+      "published": "Tue, 01 Sep 2026 08:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Critical Minerals"
+      ]
+    },
+    {
+      "title": "US DoE grants cover range of battery minerals and materials - Benchmark Mineral Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanh1bWJpd1NsS2x3QW5RSld2aUtZTVZjc2xTemR6b3Uwemc1WU1DcHpkVUNxQmFSSmRRVi1XSXZuZTkzMElQTDBRcXd6Wkk0YkVlUjQwZXRWWFpCZnZYWmwyNzB1X19RTHc4Ulc3LUtxbGZ5MG9UOHViMFQyZ0NwWkhTNlI4Rl9TTTJ4dkNOMTRTSER6WGNadnMwRHEwRXN5Ukx0QmhXSEpzd0N3WXNfVHdZay1xWUJrV1F0cExn?oc=5",
+      "source": "Benchmark Mineral Intelligence",
+      "published": "Wed, 02 Sep 2026 13:33:18 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "DOE proposes $10M for critical minerals research and development - manufacturingdive.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON05iMUxhM0NMODdOem5ycVpOajBwdU92UHJVOG5kMHpCb094ZHlwWGJ1ZUR2cG5GcFl3eE1YUmt5Um1BV1oyY2g2c3Yybzd1OWdBMHNnUVMxbnZWSVc2OVAzQWE1QUxxMWFGNU1KTGZ2MWo1MEhMYXRISFRXSFRLTzFVaWF4anZqb19pYWhaTzJIbmZyMFBKWFd0WTR1eHZneHI3VlUtVE5MTG8wRWt0aGRsYWpqNWwy?oc=5",
+      "source": "manufacturingdive.com",
+      "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Critical Minerals"
+      ]
+    },
+    {
+      "title": "$500m investment to secure US critical mineral and battery supply chains - Innovation News Network",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMl9MMUloWXpwRzZWcjAyeS1JdzhId0Vld0k1aW5FZzJySmtXaVoxYlJpRTBaYjhFZ1FyeUhLQXZ2bjFKRE9JR1FqZTdfb0lwRlpQYmtEX2hGNi1jRGd1SGlCOS1ITmRwODd5dE9JYWpCam43Y2RiNWYxbC1LNTZiaEVqbFdYVU9UMVZZcVZhQ1YzZzFmWjdBeFNSMkNuTjlhMERxSXVfdngwRnBRTFdzVFZSWm42MXM?oc=5",
+      "source": "Innovation News Network",
+      "published": "Fri, 21 Aug 2026 10:00:17 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Critical Minerals"
+      ]
+    },
+    {
+      "title": "Europe’s waste creates value elsewhere - transportenvironment.org",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcWhJUFM5Q3BEXzNPTEU3eERVeGh3WVp5NG5WQWpQNlEtczJsRHI2SHoyZkNUNTA1UXQ0YWFkNThrR1RZN0pNQnhkcGdhbzMyanhGdFE5MmxsNzJRUWJfeUFOWlBMOGRwbl9FSXFsS0FERE0tSTQwTzNEM2VfbTZIRlNKY19XNHRzbEIw?oc=5",
+      "source": "transportenvironment.org",
+      "published": "Fri, 04 Sep 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Just How Dependent Is the World on Chinese Supply Chains? - Resources Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUxOTFBnN2cxcUFPYV9fWjBOOWZxZHNtUFU3RmU5aWYteFMzTFh3b3c2cjh3d0hxVUYydElqQUR6QUlYM0x3a1FXbnBGQnRoSVpzcUg5cHltLXRZUjNaeS1WVldWb0Q4RlFJZWpVa2Y2MTJvUUhhSmMtT21FcGREdE14V1RaVFE0ODFJaVpJQTU1Snp5X19NRHZmbldhZDNDUnc?oc=5",
+      "source": "Resources Magazine",
+      "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "DOE Grants More Funding for Critical Minerals, Battery Materials Projects - industrialinfo.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZFVZSEtSVWcxQ3FaYzJQVDZPNVdmTGJaa2duOW5SU2ZhNlQ2cVJZWU11aG9wRnVWREs2ZmhGYUNvVHBrTVlBMVlvakJRTXJXdkpBYUpDamQzSEdTYnZnakJLUFRUZGlnUUNUZi12SUp4c3RVdHVLU3p4T1oxdzN0NXRueFR5OEo1ZW1yaGpfQk42cXg1MjZOX0xNaFlkcTV0Tlc4ODd1MmEtQWc1M0dqZndWT2p2QThFWDl4WnNtRWFtaVE1YzdCVUdLU2ZDY3pLNG1jMy16RHlTX00?oc=5",
+      "source": "industrialinfo.com",
+      "published": "Wed, 26 Aug 2026 09:52:02 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Critical Minerals"
+      ]
+    },
+    {
+      "title": "The Trump Administration’s Necessary but Insufficient Critical Minerals Investments: Q&A - CGEP",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHpiOE9XZnFPdW5JTzdBMTdmWU9WUnA3OFZkRV9xR0xTeUV6Z2x5anBFT0NZYUxWbURJWWQ2RkJsdUZyU0NwVkpVM2RiUXpFS3E1MEhxUXM2SEZtUG9uOTNvT254a3F6ektUdGM2bVNNbk5Oa3R0dmhHTkowa3VqTFZOZnU3c09IekFBVTNXU2dTS1U1VEo1Zkl5clNfZjc1UWNzZ0NvWFN0anU5bEw0RXNoWE00YVpEczFCNEtQa1B2QQ?oc=5",
+      "source": "CGEP",
+      "published": "Tue, 11 Aug 2026 15:54:06 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Critical Minerals"
+      ]
+    },
+    {
+      "title": "Reliance on Imported Critical Minerals Leaves the U.S. Exposed. How Can Emerging Technologies Help? - U.S. Government Accountability Office (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOXpDMWVXVUFrclFKTEl5SlQzUnNaNXEwN0lzSTYxUEVvYjM0OUMxOVJybTVPdDAzU3RyRFhWeXhoZ1lqaHlKMmJwQlhjdXRYSk9IOFBkUnlIQUpSeUpnSS1QRUFaaFZTdWZoZlFHV2xoMGkxXzRaRFNMNi1saUN2b0ljY1lMV1JlMHlIV3hsUEYtVjlRUEpiV2dmYzFFdkx4UE5WTktWSG1oWFpDbm5pbWhtbw?oc=5",
+      "source": "U.S. Government Accountability Office (.gov)",
+      "published": "Tue, 28 Jul 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Critical Minerals"
+      ]
+    },
+    {
+      "title": "Pentagon signs over $2B in deals securing batteries, critical minerals - manufacturingdive.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOEJ4NVYxQzd1aTE5Sm80MUVXU2JrQ29vOUJ0T2dMUUY2d0FyUm1iRDRWSF9zbndSaWJrTTg3cXgzUFdYM2R6ZmI1bFI2bGxYVktLTU9tVk40Q3YzTG44Y0tweGxiSUF4SjF6R3NhZ0V4eU83NUhEdHlHZHhJUVZWNFNwQk5mVU83Z1ZBaWNmU2NZc0ljZ1gzR1VKLVNHRWx4dGczWmhraXRJYVVSYTZGbVpuSS1LRzhjRTQ0?oc=5",
+      "source": "manufacturingdive.com",
+      "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Critical Minerals"
+      ]
+    },
+    {
+      "title": "Trump's $500 Million Critical Minerals Push: 5 Battery Stocks That Could Benefit - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMzEyVDlFT1ViYk1rTkNudy02b3huR0pWSzZibWRnVDhVVmI1S2ZzWk1NN3kwSElvaVZTd0w1ODJMMU56SGZvTW9EcDZraW5KY2Z5aGw4NnFlM0VEUkEzQWdjOXNUMnJTY3VzcXRPZEFWWWhTaFBoNjNjbjIzZXgyUnJtUmFwSWlNVzR1cWMwUmo5dUhoSjNLRV96SDZyVllOeE9v?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Critical Minerals"
+      ]
+    },
+    {
+      "title": "The Critical Minerals Challenge Is Here - American Battery Technology Company",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVXlDNDM3WVJCckV5SkZLWkExaWRpcklkYWZfM2dlZ2Rlc3VYR1FwYU1zdUQtQ2dwRHh2aWpFcEk0akF3eEkycXFzbjNrNnVJMFdvc1lJNm5ZR0tSeTBROC1sNzJoU29ZYnhMa2hfSXAwX2c1QVRBNVMzYS1QODdYVko4Nkw?oc=5",
+      "source": "American Battery Technology Company",
+      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Critical Minerals"
+      ]
+    },
+    {
+      "title": "What are ‘critical minerals’ and why do they matter for human rights? - Amnesty International",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdDBVNFo3a3N2Q2hNMm9PRjJVb3BhUWJlSEhmNEVidXZRUGY0TTdiQkZkdGZZR3paU1ozMUVkZnYzVmF6Skg2aFdpQ3NnTkFqUU9zODZFa1d0a3BiZGpTLWZ3SGFNcFZWRmRVUzdlVTUzMWV5ZU95RGFDYjFXc05lQWF0ZFlNR1NETjcxYjNGV1hiWDFnS3RMWEVZbDRiRG94bEhSY0lSelBtd09RaGVwR2N2aklKNHVOWU9j?oc=5",
+      "source": "Amnesty International",
+      "published": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Critical Minerals"
+      ]
+    },
+    {
+      "title": "3 Critical Minerals Stocks Retail Investors Are Watching For Battery Supply Chain Exposure - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWmt3aHZ4REFEOVNaNGU3OGd6Q3JDQ1lNRkdBb1ozcUs3NlpwUXlDTXNmZ01tbkFnbk9OMXVtYnVnd2Z6QjFNUkJmXy1WNkFkQjdsbWJXR050ay1lSTNtR29lZDJOS1VUVmdHMEpock9LWnpTeDMwdkN3UW9LNlEzcXpQQmpzcU8tR19VdF9kdW1QOWtWaXFzcWdLdDNPX3ZwaDlEcjhkcEhmQS1adDAxWU1hZ3piYktjcmdhM0xwWjQ1QXZsdlNRRENqQdIB0AFBVV95cUxOSjFobFRiLWxKa091X3RfZWZyVmpCY19PWjFiMGZiSlZHbnNjYTFmdEEyWVRIdVJiaDFLN0ZBakxobGFJNjRhREhibExMV29Ja2ljc2p6T05HMWNRS09LUWpJUFdEYVF0aUhSeEhKbFpCOW5tS2xpZzluZzFFV1RpS3JId3Q0RnV2aFp2TXV3aFRULTQ4bjkxb0FLN2dzUGdyVUVidEhSYkVGRG1WdHRaMkdnNFpHTU5QWTU3SzgwbVFwcF94cFY2eTR0dlJFSE9D?oc=5",
+      "source": "simplywall.st",
+      "published": "Fri, 04 Sep 2026 11:02:40 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Critical Minerals"
+      ]
+    },
+    {
+      "title": "Two September conferences will hear about Electra's Ontario cobalt refinery - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX29ldWFpUV9sX0piYy05cHlWSENGWTYzc1VyS3dQUWFOSFlRWnV4MEZUWTN1aWc5X0NDZTRxckwyaDRHYXFZTktlQTRDZHZPTHlCVERhVmZ4eUsxLWdLRjFfQkRrTXRsc0l2X01zeW9MQUNpckFlX3FyRzJfU2xGRzA4WVlGTHc1dk9USERRQWlpVXZWb1FvZ04yOG05czFVOGR1TUhwSGQ5Q21ma1M4YjBXRU1oZw?oc=5",
+      "source": "Stock Titan",
+      "published": "Thu, 03 Sep 2026 11:30:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Supercurrent-controlled spontaneous ferromagnetism of magnetic impurities in a spin-orbit-coupled superconductor - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KdnVVQ0hTMzk0VUFWYzRKVVp4MWJ6Q3dXSlJ5amxyN0RPLUhsbFozNEhKWG4zLVdnUTFsZ1JLenZVdjRSTS1uWFR4SllCQ3dqNld6bC1BRllWalFsTHZn?oc=5",
+      "source": "Nature",
+      "published": "Sat, 21 Mar 2026 07:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "China speeds up quantum tech transfer, building supply chains from lab research - Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LSVhZUFA5TG1wQlVxczdoY1pJTVM5RG1iTnE0NmkzajZ6cXYzeGNid196MUc0RGRfdC1Lc0FDOWZfb1Z1Wl82anROalpxa0JHcUZpdTRWb1pkSnpzMTdnUHJB?oc=5",
+      "source": "Global Times",
+      "published": "Sun, 23 Nov 2025 08:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Semiconductor lattice marries electrons and magnetic moments - Cornell Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc3AzSmgtenJCd2F5LWNlT1Utd3dZbVRJZVRUcXE2ekpSZ0NxcENVQzlSUGdPN01RWGFoenZ2bnFaeDVPUmlRTzZTQnN5cTBnalpiQlhBa1BacFdMZGZyMWNtT2xSYlpqM3RGRFF4YTRidldaWHl0MFZ5OUZJeC1nZ3FPU3BZdDJ5a3pJeHZCZ0hkYWtzR2NzOHcySTJkN2NmN3o4?oc=5",
+      "source": "Cornell Chronicle",
+      "published": "Tue, 21 Mar 2023 07:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Observation of a topological insulator Dirac cone reshaped by non-magnetic impurity resonance - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LTUY3WkhGYkdLWW9VNGN0ci1qaVl2V0FwZjgtd0JuUHlVUk5EVm8waV83TDEtbmM3aWYtWkl6aERaZTF4VWk2MVI4bzFpamJFUDFkakEzWDhqZ1BSQ3c?oc=5",
+      "source": "Nature",
+      "published": "Mon, 04 Jun 2018 07:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": [
+        "Quality",
+        "Magnetic Impurity"
+      ]
+    },
+    {
+      "title": "Universal scaling of tunable Yu-Shiba-Rusinov states across the quantum phase transition | Communications Physics - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkTlBDV2Vtd1BmS25hVWxmSWtuU0hkSWVDOU0tLVY5N1hWbnNZZ1pEUVRQVmhURU5xMU82WUhMVjJSLWM2eHRZZXRxMTZmeTlOWllDQ1p3R3pCN196bV9Z?oc=5",
+      "source": "Nature",
+      "published": "Thu, 17 Aug 2023 07:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Diode effect in Josephson junctions with a single magnetic atom - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WMnlvSTI2SUgtZkRlaU0tdmQ5T1pCOXQtSmc1cUFfODlfQmdtZVNPM0MydS1sdmxQQ0NpMzJ5NmkwSUdITmFvNDhpM081N0huSEdDcnpWaENSdGhrZVhv?oc=5",
+      "source": "Nature",
+      "published": "Wed, 08 Mar 2023 08:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Spin-orbit quantum impurity in a topological magnet - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aaGQtamVpVU9lUUpqTmdTeDVWZUhEc2Z4Wkotc04weTVZMndJbE9kTXNoMWVFaDAzZ3Q3QVlVUmFyYTRLZmtfQUFLazI3dHZRVGZSSzRfaFJaOUFFa2Z3?oc=5",
+      "source": "Nature",
+      "published": "Fri, 04 Sep 2020 07:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": [
+        "Quality"
+      ]
+    },
+    {
+      "title": "Long-range Kondo signature of a single magnetic impurity - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GbTJqWUlfbTNVVWtSS0pxOU13cEFrLU5PQ2xlcG9WVndianozOFdJVkExMThJUHJvdWxJWG93UWJGWHFxRG9jZS1DRGM1NWd1dDFv?oc=5",
+      "source": "Nature",
+      "published": "Sun, 23 Jan 2011 08:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": [
+        "Quality",
+        "Magnetic Impurity"
+      ]
+    },
+    {
+      "title": "Exploring the phase diagram of the two-impurity Kondo problem - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MVGRabWQzQlhObEp2SGZQalpHblN1T3plUEN6ZlBnN2VYd1BmVmV1d2txSmdwY0tTRzVtVTJCcjg0VXFBYzlOSTA2anp0TW1UWnNoSS1R?oc=5",
+      "source": "Nature",
+      "published": "Mon, 30 Nov 2015 08:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": [
+        "Quality"
+      ]
+    },
+    {
+      "title": "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45 - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hdmd6cVNYY3F1TGpiMUZ2b0tPQ2RLUFB2bjdKS1ZjTV84NUVoSzJFRXhqQkF3OW1KRmxISWN5R2l5UmFEMkNXX0RLSDZxcE1GZ1J0bEVvMjFLR3hFZF9N?oc=5",
+      "source": "Nature",
+      "published": "Tue, 12 Jan 2021 08:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Optimized purification methods for metallic contaminant removal from directly recycled Li-ion battery cathodes - Frontiers",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaEZtWG4wcDROYTlVSzZFaFo2UmpLRkhhcnVlMldFMDBYOUI3S01fdmVrckhUc1A5b25pbmhzZVdJMlcxdklMS1Z2cWJ4LUk3N2ZWMFpRUEVPbTdVMDZJQ2V1U0FRVXl1dzVHTmNzZ3pIMHdXZV9SUFE3Wl9xYTBYcXFXNFpBQTY3UXZSTFhKQ3Y?oc=5",
+      "source": "Frontiers",
+      "published": "Tue, 25 Jun 2024 18:12:15 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "The Next Phase of LiFePO4 Battery Competition: From Specs to Full-Lifecycle Responsibility - The LiTime Approach - Batteries News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUm40YTlNU3JBWDVVd1lrbm0wRkltZ3dHOGprT1FwTDBkcWJiWGk0VFRrRDRiYXdrVG5oeEpDX19SMUdBR0RFQkw3VG0tR2lXcVVvU0d0ZTFiNGdUX2xkSUZrSS0yMXVNb0hYVVlSU3dTcEVjUzZaWEVnZjc1ZGVVVDBudXR5ZExKcVcxaU94VjdJcEJxTlhFd0lmNVp6X2ZyYUZEc05XQjBnWjdBYjBYUnFfazd2UGVhMjJRMGdWZllzVDA2dXJfVGdDYjZvdFdleUE?oc=5",
+      "source": "Batteries News",
+      "published": "Tue, 01 Sep 2026 10:33:39 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Battery Manufacturing Equipment Market Size, Share [2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajVpWHkzQW9TdXNRZ093RHNfQld4SE1lWDFkN01oVDdpb2dsOEdYb3BaWHZxVjJnQjVEc3d2WWdfNmtoWU9MUlptTTJMX1o1MmRsV2plTjVzWmdzVkxXcFEtYzNCeGs1amt5MTRKeWM0U1BET09fUlJmRm1YWEJHTHhleVpKUXlydGtzWG93?oc=5",
+      "source": "Fortune Business Insights",
+      "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Lithium-Ion Battery Analysis: Four Years of Spectroscopic Advances in Research, Manufacturing, and Quality Assessment - Spectroscopy Online",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcHdZai1tdEFTVUE5RzU1ZjI1UFkxTWZlbWhnV2s2eGZPMWl2TW1vR3NlTnVueUlDYkpVTWpBRmNvRTVCa1ZaX2gzVHBXM0FIcy1RRlV0ZEJFUUxfMVRWZFIwT1VaVXNieHJnUE4yWGpzUmZtVTdFd2NhbFotOGRWVkZtejhYNWJhUHkzdUhhRnJWbzZDb1I3b3ZZTFIzNUd5bjZSRHNDc3dUbzk5V2ExRXdKVnE4d1ZZbFNVTXc2U3Ywb0hhV2lNM04tZ3hfTU10Z0R1RmpQUXF0bW5YVUVZM01CWDVoTDNua1E?oc=5",
+      "source": "Spectroscopy Online",
+      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "material",
+        "quality"
+      ],
+      "tags": [
+        "Lithium",
+        "Quality"
+      ]
+    },
+    {
+      "title": "Scaling Battery Production: The Growing Importance of Quality Assurance and Multi-Modal Inspection - Quality Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYi1mWVk0LU4xbnZmUjl4aUs0QVJXazluUGdrZktPUFBOLTZaeHpORTN2aHUxbml4Uy1TUkoySkhDTmhnS0ZyQTFoMlhTQzIwVEdNaENVSmctWFJoSF8wMWNxU0ZrdjBER21jUUV5RDhMYzNtcG9lWFdtWmdQZDhqdGhBVWhhM3o4ZFVJdlk1YjRMNzduMG80eE1HV1VFdHdLUWhEM0tKMW83ejdaVHpZTVhQcmhldnMxeVg4cE9fS1huLWpOdnNHNFVVWVlPTkNicWp2WU1n?oc=5",
+      "source": "Quality Magazine",
+      "published": "Sun, 03 May 2026 07:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": [
+        "Quality"
+      ]
+    },
+    {
+      "title": "Karl Fischer titration for moisture analysis: applications in batteries, fuels and food - Chemistry World",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMmJXcmlndjF1bHdqU2JMUlNKVXc2aWhKOVVUQmZiak5wbHhCQVZEZGpXQzczWUdSUXl1YjRUTzhCRkdxQjFLSkN6a2tsS1h4d21iT1hxWVA5dGM1OXltbnRMbTFsWWdRdHB2M1NGS2RRNVlKSlh0c2VkZ2J0VkNzSENHckIzZTJMMWRfRm0weHN6WmtIalpua3d5YmtRMS00dzJWUDM3TXJzWjZTY2VIWUg0cUgzVnRDdTBUQXZNa2lCaTdlMGQ3UVZYU3ZSWEV1cGxRcHg3eEE?oc=5",
+      "source": "Chemistry World",
+      "published": "Tue, 05 May 2026 07:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Heavy-Payload Conveyance Paves the Way for Next-Generation Battery Manufacturing - Tech Briefs",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORWVWUWtrT21YaHV3YWkzdFNtT3JHM3ZVbzB2NmJqeEVDblJBNGVGSU9MRUt5R2s1RlFSTDVNYUdpVVllWGJtS1A4TktfQVNxNlhxVldxSjBydFAzVmp5djBVQk1Udjk3TExMNWI3LThXSlZpZWxZTDU1V1lLX2xwQVVUM2Jka0htTTJleWFnQ1FCd1QxM1V3bXpOT29TT3lya0JoSUdWZ29UVnVxekc4Y0JWNG1DQTU0dlVBb000QTNOSDZjWlo2R0Y5VXEwYlFoRVY1U0tn?oc=5",
+      "source": "Tech Briefs",
+      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Skoda Launches Large-Scale EV Battery Production - The EV Report",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xVlVuV3Zic1FiZ1Y2Mk5NOFNrMlc5U0Z0NDlnQktSWkNfRVAzb2Yza0d1T3BkVVlqLS1wWWN5bmgydVpfTU8yZTM0WTVnSkVsSFhfZ2VvbFU0bHpWMWp1eEFCVEdjbkd3bERtWWQzbTBFY3lybG13RTktb3g?oc=5",
+      "source": "The EV Report",
+      "published": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Tiger Group to auction battery manufacturing and R&D equipment valued at $74 million - Charged EVs",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ2tfeE4xZ0hyUEZlaUFmUnkyTWVkU2Zmb1AzUUFTT1FjbHpBSjRxaXQxYTJxVlR1ZjhOY3dEQXFuTUpya2J1RGNuUnR0LUgyd2NlZnVoVVdwUGdLZW9rVXZJVm1lNXZnSTNmbGpGRklWU2dPNlNnZDVBR2hLT21kdVhla1NTY01HS2FSYUFWZy1teWVEdWFjY0ZQX3QybGF2Mkl4d0Q2Z3pfUkw1UkZZZkF2N1owMG9WTndleUpHUnhMZw?oc=5",
+      "source": "Charged EVs",
+      "published": "Mon, 03 Nov 2025 08:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Coesia presents integrated battery manufacturing portfolio at Battery Show Europe - bestmag.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DcHR3aXVkcm9TazUwQU15VnYzYTJDQmVzYW9xR3czSUFZMkRfNzFaNnVBanJGdHJNQ0hKQnMyODlNNnBUd192dTFsOExBR1JCRl9RMjNXUDQ2RDNfYmJRcHp1NG1QLWpBbEtGSXA2bXhqWjll?oc=5",
+      "source": "bestmag.co.uk",
+      "published": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Tesla Recall Underscores the Value of Quality Control - batterytechonline.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd0RUaXFCd3BKZkdFZ2tuaW5BMUtmZWp2eHQzYUMtTGY1dnA5eG9iOXRNb2JnU0tvbl9uNWRXWFVZUS1sMWp3eXZDb0dfbHZxalVjR2ZZSUdYNlQwU1o1MjQ3Q2lkT1kzejJKWjRMbnpRUFdDcUJyM2l0dWx3X0VhWEZibXVBMUdNZFlpRXdBeGJpc1dNUkVzeGVfbEFKRXd1cXF5cVlocnJfbzBMcW55eDZZdHI?oc=5",
+      "source": "batterytechonline.com",
+      "published": "Wed, 19 Nov 2025 20:20:21 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": [
+        "Quality"
+      ]
+    },
+    {
+      "title": "‘Battery Atlas 2026’ maps Europe’s cell, pack and battery manufacturers - pv magazine Global",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd0VMM0JwbXdvU2JVT0JleFQzZ0NnR2Z3TTFDc0JzdE5md0N2am5xUjBYRFlWMUhTS0Q5MTZ2a3hOSDZaZ3VKZFBNT1gxdEYwUHE5WGQyRGVaQmNTN1NubjZwdEUyZFJFVDVkQTJpYWJpaDBhSGJrdDczMlg3aDh0MVV6Nzk4b0NzUmpQVmVZTlBTX1ppbGE3TzZkcVJHNmdvdk1qdmRLQm9TVGM?oc=5",
+      "source": "pv magazine Global",
+      "published": "Mon, 09 Mar 2026 07:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "AI-Enhanced Machine Vision Powers the Next Generation of EV Battery Quality Control - Metrology and Quality News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSjZHTFRDMUpUTUdGcUJGeXlxT2VYYU5qTHJTWW1pcERwWnhwWUJ5R1VMbG1NclFPWmV1azBYd28zX1RqcW1RUmtlYUhIQWd1R0tVRm01NlpQV0RDUHpiVG5wd2lJNldpOTQwRDlmWkdBTFg0M0xyQ1NfZ094NkFNdHVjZE1xWEV3dml0X0V2b2g0NThvWExPdUtoS0dsLXdNVmlqdi05eXV4UzQ?oc=5",
+      "source": "Metrology and Quality News",
+      "published": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": [
+        "Quality"
+      ]
+    },
+    {
+      "title": "SOLiD: Scaling solid-state battery manufacturing for Europe - Innovation News Network",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdThjSzhXclZBaFhkN3kzWFE3YlpaZjNwU0ZpWW85WjVqUW1WblViekVoMUR3NDgzcTlQakw4SVF4b1hmdjV3aWJfQjNQZklET3VHWF9YTGl3SHBtbUJJNUs4NzlOQzJCdkhpSk9USzBqMU9wY3lBLVNDSGxvUG8wNzJkeDdmWXVDc1VaaDduVXQ0RDBBdzEzZEJvVHZfR0U0X1ZCUmVn?oc=5",
+      "source": "Innovation News Network",
+      "published": "Thu, 30 Oct 2025 08:45:02 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Lithium Battery Manufacturing Equipment Market Size and Statistics – 2035 - Market Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNzhrLXJ5TlBQZnUzLU95LVZJNTNxRFRFSGxkdnQ3T29WNjVZYjdkNnkxV2dnT0NyaFN2MHJEMy14TGkwM2FmS0wxRURHWXZXV0k4ZjRPSG45ZkR4a3BTeC1VdUwyWUZkRXhROG5fMHNzZWI3WmYxcUtUMG81VjJqWXVDQWozZHduMHcwSHFR?oc=5",
+      "source": "Market Business Insights",
+      "published": "Sat, 29 Aug 2026 07:58:21 GMT",
+      "category": "quality",
+      "categories": [
+        "material",
+        "quality"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "AI-powered vision shifts quality control from reactive to predictive - Automotive Manufacturing Solutions",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZlYyN1EzVWk4cXhsLW84RHBsNy1TcmUtVFU5ODFLMURzeDZQWHhKYTNWekFTZzFRX001V2FBU3c4LTF4UEZsejh1UHhsMTdJWlpPUHJWN1c1dTB6aFFhYW1CNWZZNkRuWnFLTTNIcEJFRVVVYWs2ek1jb3FxclBOZWl6MUc4SzRwTXpBaDFNeXFCUzRrTTdIWm1rYjB0Z1VwckI2M0pyQ0JsdXJ1clZWNWxCWjZwaUlMd3piS2V1VjFsV3drUzg1U3FVcmxHenJBTkFIbg?oc=5",
+      "source": "Automotive Manufacturing Solutions",
+      "published": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": [
+        "Quality"
+      ]
+    },
+    {
+      "title": "Advancing Battery Technology - AZoM",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nYmFlMW5lckQxcFdrZllXVzAtb2FRMWZRUXZfMUxTcGRYcTJ0bFBSQ184MUZDQzNlbV9CR2RSbnBFY2ZlWVk5NEhQTHp2NXJWY3lEYndCRjE4OGpudmc?oc=5",
+      "source": "AZoM",
+      "published": "Mon, 17 Nov 2025 08:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Toptec and Inner partner on in-line 3D X-ray for EV battery production - bestmag.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pcEdhQWNKTDNCRFlzMG44YmhIQ2ZZNld1aGFzWFVhRm9fVGRDNjVhTk1KazdjMWlud2llNVdjMjRvaUY3eDlHX2E5eGtvbWpoWXhpdVRabDN1bVF3b2RKR1g1b3ozM0FaWjdfdk9fSnZBczVFN2hEMy1FTQ?oc=5",
+      "source": "bestmag.co.uk",
+      "published": "Wed, 06 May 2026 07:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "pv magazine Focus: Quality control underpins bankable BESS projects - pv magazine Global",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUw0a2FJbkluQ0tPNW5CejdlNXEwcVd6QTdoYkN4eGlNd2ZmVTV3UjloVEVaaG9XWmEtdGVrQjdXNFpBQ2NZOXdqajR1dTBUbXhRTmx5aXRpdEdJenpkVURxWndoQndiQlk0d3BJa1FoaXloU1RGeDRBTHBWclVhMGsyVXU3aEtReXBKZkV4aTJ1dG81RWM1djlTakVfeHdUOEloMEtMS1MwZw?oc=5",
+      "source": "pv magazine Global",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": [
+        "Quality"
+      ]
+    },
+    {
+      "title": "CeLLife Technologies Closes €4 Million Post-Seed Round to Scale Battery Quality and Health Intelligence Platform - Batteries News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdlZiclpSMlJGZ3paNHVjdjJzaVVLZWk4YWc5aE9wa3FHaXM0eDU0Ml96XzlyZWlBSkhaS25uZ0hKaC1VZ3pzbWxsLTNBR24tbEVNNmpUZ0hVMENGOTE3V0hQaWM3aTRJbTNqWmhSWE5taGVPczNBVkdDQlVRNVFwdTRyX1JBZ0lqUTJEa0UwN1UwZEVJQ05nZmotZVpiVzRyRGVwSWZ0NURrUG1KbzJkZ09GR0diQzdOaTBIb3Q0S3dobTJESS1IM2gzc29rZnRCVEVkT0tR?oc=5",
+      "source": "Batteries News",
+      "published": "Fri, 29 May 2026 07:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": [
+        "Quality"
+      ]
+    },
+    {
+      "title": "Optimizing PCAM Production: Inline Analysis for Precision Cathode Precursor Manufacturing - AZoM",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tM0FVOEdSVGpFWFVsb1NlNGJpdHRWMWxNZ3dfQUI0SzJ3UUJxc3hoTGo5eW81cjNQQ0xoMXA5TXhCYlFCLTJzNmtrX0FhQ25TTHRId3Z0TTVpOXYzWEE?oc=5",
+      "source": "AZoM",
+      "published": "Mon, 10 Nov 2025 08:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Coastal wetland deposition of cathode metals from the world’s largest lithium-ion battery fire | Scientific Reports - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FNC04YnNYRC12b2o5Ul9HbHdtcUtjSkZtdnRoMjBmNDA0ck1mdWdJdkM4eTh1aGxRM3k5SzdpdlZ1WUF1bWgyTERXN0ZMU3Rpc0l2X19RdUVQTnJqY1Rz?oc=5",
+      "source": "Nature",
+      "published": "Wed, 26 Nov 2025 08:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "material",
+        "quality"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "Recyclable deep eutectic solvents support NCA cathodes recycling: green solvent utilization and selective metal recovery - ScienceDirect.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uTzlsX1U3ckJzMlVmTHJzYng5WWZyOFRrempVdjBYd0Qxd0dZN010Y3E1NTludlFtSnQyNHI5bGFBWkJmcXg0VnNja2VBR1hBb0ZwaW85dzlBZ0V0ZkVpR29qdi1rZHVXZlk0LVFVU1NCUi1EVDJNYzY5cw?oc=5",
+      "source": "ScienceDirect.com",
+      "published": "Sun, 05 Jul 2026 07:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "When the world’s largest battery power plant caught fire, toxic metals rained down – wetlands captured the fallout - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU3p5c21TSERMZ2x1bVJVbFd4M2J0UFJmVnoxY2JCWEwzeFFwa0JxMlZoRUxRVjZBMWp5blhNOFZRMi1QT1JQLV9salBQTUhFMlo1YmtMaE5XOFl3Sk4xMEZFRDA4Rm9pX3FRRVZsUWpIN0ZXOXhwNnR5cXp6ekhVWmxTSVlFS2FINWxvSDlBN2pWNHlyNHNrQzROOE5Hbmt5aU9BZGExS0FaektUZHFuN2JMNWdESTQ5XzQ3MThkajYzVmx3M2hEUTVGMmlPT1pUMjRkZlZ6UFRobHZqNUE?oc=5",
+      "source": "The Conversation",
+      "published": "Mon, 01 Dec 2025 08:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Scientists Present Conflicting Views on Moss Landing Battery Fire Impacts - TPG Online Daily",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbWtLVjE3RDhXOUJfOW5RQW5IY05HWnBWQ205Y3kyVWcwem5kSkdMMy1VMTZqMzZvbURPdTJ4QWJCNDZodDNaYlhuTkdDV1VubEZSMFg5bnhGMWZhSEhmcUo4Q1JmWE52TC1hYmR1VEdSdlhFWGsxWHNneHEtb1BkUjdtMEVZQ1BvM1oyb0dqeWloQVhQem9xeVdENGhpcEtPOGFJ0gGjAUFVX3lxTFBta0tWMTdEOFc5Ql85blFBbkhjTkdacFZDbTljeTJVZzB6bmRKR0wzLVUxNmozNm9tRE91MnhBYkI0Nmh0M1piWG5OR0NXVW5sRlIwWDlueEYxZmFISGZxSjhDUmZYTnZMLWFiZHVUR1J2WEVYazFYc2d4cS1vUGRSN20wRVlDUG8zWjJvR2p5aWhBWFB6b3F5V0Q0aGlwS084YUk?oc=5",
+      "source": "TPG Online Daily",
+      "published": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "Environmental Impact of Lithium-Ion Battery Fires vs Other Common Incidents - National Fire Protection Association (NFPA)",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQa2xjcnRPcVFDU3pHRi11dFNtUUVLeXR6UFVpZ01mdTZOaGNuRjVfUGFwTFpBRnptajd1MVNwaERUdU1QQWo2RkVVUzlnYXpZeGVETzRSYU5PMW5mNDI2YVhyZjJfamhDakdCa0VYendsTkpVa08ybkNZeEdtaGJFeEFENl9hMEk3aUg1Wi05cVBWQjMtMDBrLVZGN2FsX2V5U3Bocm1nZmI4cG1NX2dQVzRHQWo0dkpvdEFvYTVNc0NkbmEwVnNJRjN6S3MxeS03Yml6cENYZTJ5YTc4clpDTEFvaDBaTnBETWZjMFkwT3JIZHVFSlEtNFd3Tk40ZzRyV3VfNXYycFNvUmFOSWxMYw?oc=5",
+      "source": "National Fire Protection Association (NFPA)",
+      "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "material",
+        "quality"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    },
+    {
+      "title": "Pursuing purity in EV battery manufacturing - Innovation News Network",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRFJmWXVQM0YxVENWdFRxa0Vkc1hBVGZpcjNMSEwtclFSa3M4dDVKXzk3Q2JQYU5QMWNKTzV3Y2c5WnRRTHZWVzctcGlqWlJiT1FGQVRKRWVBWE9oN2FfcDEwT0NSUzlVRkw4UHlrSUNJeUdxRkt0N1RpSmo3bnM4ZVljeno3NF9BNkx0cDBrR1czQ2dIYkZUQjFXc0N6eTRQQ0FVaURVWnVTRGJmRVJkWFh3?oc=5",
+      "source": "Innovation News Network",
+      "published": "Tue, 12 Mar 2024 09:33:06 GMT",
+      "category": "quality",
+      "categories": [
+        "quality"
+      ],
+      "tags": []
+    },
+    {
+      "title": "What recyclers are getting wrong about lithium-ion battery cleanup - Recycling Product News",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVW1HemNDWFdjYnBjOE43cUdkUXYwZHdVdHpRTU0zUTBmRjFLSE9jVEViVXhraHk4ZnlkeHpkM2EtNV9GcDdtVDZYVjdtbVJ6Y290amRDcFhlWFlSSHZwVjd2LS1iRmMxZktoYkVFeG5NR0R5SWRpRDVqR0N3WVlqcDZUZEphYkJRYzJ6UUlDdDFKeUw2UEQ3NEU3Nm16V004UG1PWkxGSXEwY2NvVlh1VURtSkVwMUMza0JNd3NKeE9vMXdwM19TLVVWaE9yR0lyVER1VDlXZm85MkwwSGlILU5nLWFKcEQ1clpr?oc=5",
+      "source": "Recycling Product News",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "category": "quality",
+      "categories": [
+        "material",
+        "quality"
+      ],
+      "tags": [
+        "Lithium"
+      ]
+    }
+  ]
 }
