@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>MAG IA Battery Intelligence</title>
+<style>
+:root{--bg:#f5f7fb;--panel:#fff;--text:#151922;--muted:#667085;--line:#e5e7eb;--dark:#111827;--blue:#2563eb}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);font-family:Arial,"Noto Sans KR",sans-serif;color:var(--text)}
+header{background:var(--dark);color:#fff;padding:18px 26px;position:sticky;top:0;z-index:5}
+.head{max-width:1400px;margin:auto;display:flex;justify-content:space-between;gap:20px;align-items:center}
+h1{font-size:19px;margin:0}.sub{font-size:12px;color:#aab3c2;margin-top:4px}
+main{max-width:1400px;margin:20px auto;padding:0 20px}.card{background:#fff;border:1px solid var(--line);border-radius:15px}
+.hero{padding:22px;margin-bottom:14px}.hero h2{margin:0 0 7px;font-size:23px}.hero p{margin:0;color:var(--muted);font-size:13px;line-height:1.6}
+.toolbar{display:flex;gap:8px;flex-wrap:wrap;padding:12px;margin-bottom:14px}.tab{padding:9px 12px;border:1px solid var(--line);border-radius:9px;background:#fff;font-weight:700;cursor:pointer}.active{background:#111827;color:#fff}
+.search{margin-left:auto;display:flex;gap:7px;min-width:330px;flex:1;max-width:600px}input{flex:1;border:1px solid #d0d5dd;border-radius:9px;padding:9px 11px}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:16px}.stat{padding:15px}.stat b{font-size:23px;display:block}.stat span{font-size:11px;color:var(--muted)}
+.section{display:flex;justify-content:space-between;align-items:end;margin:20px 2px 9px}.section h3{margin:0;font-size:16px}.section span{font-size:11px;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}.news{padding:15px 16px}.news h4{font-size:14px;line-height:1.5;margin:0 0 7px}
+.meta{font-size:11px;color:var(--muted);margin-bottom:8px}.tag{display:inline-block;font-size:10px;background:#eef4ff;color:#2454a4;padding:4px 7px;border-radius:999px;margin:2px}.open{display:inline-block;margin-top:9px;color:var(--blue);text-decoration:none;font-weight:700;font-size:12px}
+.empty{padding:30px;text-align:center;color:var(--muted)}.footer{padding:24px 2px;color:var(--muted);font-size:11px;line-height:1.6}
+@media(max-width:800px){.stats{grid-template-columns:1fr 1fr}.grid{grid-template-columns:1fr}.search{min-width:100%;margin-left:0}.head{display:block}}
+</style></head>
+<body>
+<header><div class="head"><div><h1>MAG IA · Battery Intelligence</h1><div class="sub">Customers · Materials · Quality · Supply Chain</div></div><div class="sub" id="updated">Loading…</div></div></header>
+<main>
+<div class="card hero"><h2>Executive Battery News Monitor</h2><p>배터리 산업, 주요 고객사, 소재·광물 및 품질 관련 공개 뉴스를 정기적으로 수집해 보여줍니다.<br>기사 제목을 클릭하면 원문으로 이동합니다.</p></div>
+
+<div class="card toolbar">
+<button class="tab active" data-cat="all">전체</button><button class="tab" data-cat="customer">고객사</button><button class="tab" data-cat="material">소재·광물</button><button class="tab" data-cat="quality">품질·이물</button><button class="tab" data-cat="sne">SNE Research</button>
+<div class="search"><input id="q" placeholder="기사 제목·회사·키워드 검색"></div>
+</div>
+
+<div class="stats">
+<div class="card stat"><b id="total">-</b><span>전체 기사</span></div>
+<div class="card stat"><b id="customer">-</b><span>고객사 관련</span></div>
+<div class="card stat"><b id="material">-</b><span>소재·광물</span></div>
+<div class="card stat"><b id="quality">-</b><span>품질·이물</span></div>
+</div>
+
+<div class="section"><h3>Latest News</h3><span id="count"></span></div>
+<div class="grid" id="list"></div>
+<div class="footer">기사 본문은 저장하지 않고 제목·출처·날짜·원문 링크만 표시합니다. 업데이트는 GitHub Actions에서 정기적으로 수행됩니다.</div>
+</main>
+<script>
+let DATA=[],CAT="all";
+function esc(s){return (s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]))}
+function render(){
+ const q=document.getElementById("q").value.trim().toLowerCase();
+ let rows=DATA.filter(x=>(CAT==="all"||x.category===CAT||x.categories?.includes(CAT)) && (!q || (x.title+" "+x.source+" "+(x.tags||[]).join(" ")).toLowerCase().includes(q)));
+ document.getElementById("count").textContent=rows.length+"건";
+ document.getElementById("list").innerHTML=rows.length?rows.map(x=>`<article class="card news"><h4>${esc(x.title)}</h4><div class="meta">${esc(x.source)} · ${esc(x.published||"")}</div><div>${(x.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join("")}</div><a class="open" href="${esc(x.url)}" target="_blank" rel="noopener">원문 보기 →</a></article>`).join(""):'<div class="card empty">검색 결과가 없습니다.</div>';
+}
+fetch("data.json?"+Date.now()).then(r=>r.json()).then(d=>{
+ DATA=d.articles||[];
+ document.getElementById("updated").textContent="Updated "+(d.updated_at||"");
+ document.getElementById("total").textContent=DATA.length;
+ for(const c of ["customer","material","quality"])document.getElementById(c).textContent=DATA.filter(x=>x.category===c||x.categories?.includes(c)).length;
+ render();
+}).catch(()=>{document.getElementById("list").innerHTML='<div class="card empty">data.json을 불러오지 못했습니다. GitHub Actions 첫 실행 후 다시 확인해 주세요.</div>'});
+document.querySelectorAll(".tab").forEach(b=>b.onclick=()=>{document.querySelectorAll(".tab").forEach(x=>x.classList.remove("active"));b.classList.add("active");CAT=b.dataset.cat;render()});
+document.getElementById("q").addEventListener("input",render);
+</script></body></html>
