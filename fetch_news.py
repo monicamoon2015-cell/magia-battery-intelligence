@@ -1,4 +1,4 @@
-mport feedparser, json, re, html
+import feedparser, json, re, html
 from datetime import datetime, timezone
 from urllib.parse import quote_plus
 from pathlib import Path
