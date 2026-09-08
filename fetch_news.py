@@ -136,11 +136,24 @@ def priority_score(text, published):
 
     return score
 
-def priority_label(score):
-    if score >= 12:
+def article_age_days(published):
+    try:
+        dt = parsedate_to_datetime(published)
+        return (datetime.now(timezone.utc) - dt.astimezone(timezone.utc)).total_seconds() / 86400
+    except Exception:
+        return 9999
+
+def priority_label(score, published):
+    age_days = article_age_days(published)
+
+    # A는 반드시 최근 7일 이내
+    if age_days <= 7 and score >= 12:
         return "A"
-    if score >= 7:
+
+    # B는 최근 30일 이내
+    if age_days <= 30 and score >= 7:
         return "B"
+
     return "C"
 
 def tag(text):
@@ -196,6 +209,11 @@ for category,q in QUERIES:
             seen.add(key)
 
             published = getattr(e, "published", "")
+
+            # 30일 초과 기사는 아예 제외
+            if article_age_days(published) > 30:
+                continue
+
             tags = tag(combined)
             cats = {category}
 
@@ -220,7 +238,7 @@ for category,q in QUERIES:
                 "tags": tags,
                 "market": market,
                 "priority_score": pscore,
-                "priority": priority_label(pscore)
+                "priority": priority_label(pscore, published)
             })
 
 def safe_date(a):
