@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-09-08 00:31 UTC",
+  "updated_at": "2026-09-08 00:37 UTC",
   "articles": [
+    {
+      "title": "중앙첨단소재 10% 폭등랠리…리튬株 다시 살아나나 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vYzhjRDNsWW5CVDhUcGdyS0tRN29kN0xFMGVpOXNCNW5tcUxybk5hRTZib3Ytd0FNTXNZeFN0aF9za255Y3paS2dHdktvNld4M1gyZ2JRc0txTVIycEJwREtmRFNRLVZOY1Z1YnVuTXY1ZjDSAXdBVV95cUxNcnRud08yYmllM2t4Z1dfYzY1ZHp3aEZvXy1JTXYxS0Y0dXZUS1hkVGNMUEpXVGc3bkx0ME5TalN4cEpoeEJ4UzBwd0g5c2M0akdtaXRLT2hTSU5ZMm5VNDZwcERpYW5CYTlJZkM4Si1hRDctcDlPRQ?oc=5",
+      "source": "핀포인트뉴스",
+      "published": "Tue, 08 Sep 2026 00:30:33 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ],
+      "market": "KR"
+    },
     {
       "title": "New additive enables lithium-ion batteries to last 1,000 cycles - Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWW8tcVBFVGxxT3hKY0hUek1iZmFOOTUwc29CMThWZlF4V1BxTHh3TmhCT21fQy1ZdmRZb3pITXprX1pSTWJDTnBfRWQyMTVpR29fNkxzNW5NNTk4YUxGSXJ2dHVranFuUWdrNEdnd21wVmxnNlN2TVA1ZWxpTkNodXFNS0E2LU02SVdkU0Zn?oc=5",
@@ -202,6 +216,20 @@
         "material"
       ],
       "tags": [],
+      "market": "EN"
+    },
+    {
+      "title": "India: Ola Electric launches e-scooter with indigenous LFP cells - electrive.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkpCUVBtbjUxMWRPU0h6dGV0RjlXZVlYcUNkZ0Eya1dzMU4zQ2Qza19EcVppU3owRmtPOU1jVW9pTzJ5ZU9pQnNxczFxV1owUk10WEVLRHJ6QTJsa1NLS0x5eUhkc3k4a3pWRHJLWE02bW1DMVVfMlhSZ2NRX1hvSEtTU0JtQW5wRWs1Q09mbFFSR202MmFUVkRCMVFXU2llX1BB?oc=5",
+      "source": "electrive.com",
+      "published": "Mon, 07 Sep 2026 13:30:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP"
+      ],
       "market": "EN"
     },
     {
@@ -645,20 +673,6 @@
       ],
       "tags": [
         "Samsung SDI"
-      ],
-      "market": "KR"
-    },
-    {
-      "title": "3차 ESS 입찰 앞둔 배터리 3사, 수주전 재점화 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nWG9nMFRoQjlnWXZPVHdxN0FVSUdXOVJHUDkzM250aHdSa3NQS0ZXQXpfNXJvd0N4dnRySTBLcldmNGJXalhsNS1LWGVOdXVRUGZV?oc=5",
-      "source": "네이트",
-      "published": "Mon, 07 Sep 2026 07:02:00 GMT",
-      "category": "customer",
-      "categories": [
-        "customer"
-      ],
-      "tags": [
-        "Supply / Order"
       ],
       "market": "KR"
     },
@@ -1190,9 +1204,9 @@
       "market": "KR"
     },
     {
-      "title": "[피지컬 AI 53] 화학·공정 AX ③ - 정밀화학과 소재의 연금술 (배터리 소재 & 반도체 케미컬) - 미디어피아",
+      "title": "[피지컬 AI 53] 화학·공정 AX ③ - 정밀화학과 소재의 연금술 (배터리 소재 & 반도체 케미컬) - mediapia.co.kr",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MR2M1VjlrNHA2cG1OdUtvVXhQeldJcDNDTDFoTFZjMmc5SkVXOEtNektwYmtKcGVSWVJXc2IyZGVDTlJvUjIwYng2WVhiZlliT25RNVhoTHBzaFliOUczSzNFVE9SdGR0RzFoeg?oc=5",
-      "source": "미디어피아",
+      "source": "mediapia.co.kr",
       "published": "Mon, 07 Sep 2026 01:42:59 GMT",
       "category": "material",
       "categories": [
@@ -1354,16 +1368,17 @@
       "market": "KR"
     },
     {
-      "title": "에코프로 \"로봇 승부처는 배터리\"…하이니켈·전고체 앞세워 공략 - 마켓잉크",
+      "title": "에코프로 \"로봇 승부처는 배터리\"…하이니켈·전고체 앞세워 공략 - market-ink.co.kr",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yOTVQMkMyZy13d3FkdGM3LTVZMDNFZGdINTdiVjVhZ3VmOEo3RnFLQjlBcVZYMUxkUnl0NUxyd3F2eXR2T2t4eGhrWU5hbkl2c3ZNY0R4Mnl1b2hsSktLcWNVVmpZZkRadS1mb1NBOA?oc=5",
-      "source": "마켓잉크",
+      "source": "market-ink.co.kr",
       "published": "Mon, 07 Sep 2026 00:00:16 GMT",
       "category": "customer",
       "categories": [
         "customer"
       ],
       "tags": [
-        "EcoPro"
+        "EcoPro",
+        "Market"
       ],
       "market": "KR"
     },
@@ -1437,20 +1452,6 @@
       "market": "KR"
     },
     {
-      "title": "에코프로 “로봇 승부처는 배터리” - 국민일보",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZXVOeDR1bVh2M1lsUGlyUnlGcjBCbmNSSTVfU1BJbTN2S0MzVmFZNlBPZXJsLUhVWFY4b1FQQnVzY1lwbUhLOFhLTTNlUHYxazMxclVqcFRNSGhKWklOT0o2UnU0bXBKNkhoUXdldWxkMXVWdE5mX0RldzFVMmR6Nm94dVJBd2dMTEJZZmd0TzNvYnp1T0HSAWxBVV95cUxNRENhSkRZRm0wSU9NdXhTbVEtSEh0NllReUFOYzZqbGx3TDhVakUzVE5jYjhFMTcwcXNRdk1jb2xSbm1lVllHYTh2Zlk4SmFPU3NaLVBMeTNCbkNJRk9xSlVKUzdtSnE0d2hrb20?oc=5",
-      "source": "국민일보",
-      "published": "Sun, 06 Sep 2026 15:23:00 GMT",
-      "category": "customer",
-      "categories": [
-        "customer"
-      ],
-      "tags": [
-        "EcoPro"
-      ],
-      "market": "KR"
-    },
-    {
       "title": "에코프로, 하이니켈·전고체로 휴머노이드 로봇 배터리 공략 - 디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3NnRqa1lJS1JmTjh3dHExQ05pWmttTDNxMWdjNTFLc1l0XzVtV1pMS3pjX19PV09DUTZVTlJyWVhaZEI2d2piMHF6dUI0aUpiNnY0VVlSUTB3OGxyYnkzckJhTXVDZw?oc=5",
       "source": "디일렉",
@@ -1520,22 +1521,6 @@
       ],
       "tags": [
         "EcoPro"
-      ],
-      "market": "KR"
-    },
-    {
-      "title": "에코프로, '배터리 승부처' 로봇 시장 쏜다…하이니켈·전고체 전면 배치 - 포인트경제",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WOUdCSml2RE8tbnFZWnREQU5JQUM0d3dKMjdyYVJjLXBHd1hrTjBVb0VqSjZOZmE5YkJEVG00UUlnLTJiaFEwSElKZXNkNVphLVg3bHJ6aEpmMFJCTXI5RmV1NkUxTkVQc0E?oc=5",
-      "source": "포인트경제",
-      "published": "Sun, 06 Sep 2026 09:22:35 GMT",
-      "category": "material",
-      "categories": [
-        "customer",
-        "material"
-      ],
-      "tags": [
-        "EcoPro",
-        "Market"
       ],
       "market": "KR"
     },
@@ -1810,10 +1795,9 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KYmMyMmFyWXAxdlp1YXd2SkZmWTIwc3ZXbFV2cFNPNkxFVXpTQTI5NnF4Vk5MR0pUcGZaWVhxaGNWaGlweEVzeGVDQjBoUQ?oc=5",
       "source": "전자신문",
       "published": "Sun, 06 Sep 2026 01:29:02 GMT",
-      "category": "material",
+      "category": "customer",
       "categories": [
-        "customer",
-        "material"
+        "customer"
       ],
       "tags": [
         "EcoPro",
@@ -1845,6 +1829,22 @@
       "category": "customer",
       "categories": [
         "customer"
+      ],
+      "tags": [
+        "EcoPro",
+        "Market"
+      ],
+      "market": "KR"
+    },
+    {
+      "title": "에코프로, ‘로봇용 배터리’ 시장 정조준…하이니켈·전고체 기술 승부 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PNDNRVFM5cGk3SzNVSnppRUZwelZVQVpzZnNPN1QyNEREdThxamxlRVpPUUI5VmwyeHNpQXBia3AxTEFramNhcFJrSzlnekgyZEZJYg?oc=5",
+      "source": "v.daum.net",
+      "published": "Sun, 06 Sep 2026 00:58:00 GMT",
+      "category": "material",
+      "categories": [
+        "customer",
+        "material"
       ],
       "tags": [
         "EcoPro",
@@ -1899,9 +1899,9 @@
     },
     {
       "title": "에코프로, ‘로봇 배터리’ 새 먹거리로…하이니켈·전고체 투트랙 - 스트레이트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0teUxnLVpBXzNOY3F2aXZBUVVrdDhKR1hXWjBjdFM5TGRoYXVTWE8zRnhBTE9XZzJXOEpaODBUM1VSaEJCNkg5cUNDWUJrRnpHOW5YTG9oSHlZWHFEYzJpNFlxTENheElTYzd3Z2ZVVGhyYnZUWE130gF3QVVfeXFMTS15TGctWkFfM05jcXZpdkFRVWt0OEpHWFdaMGN0UzlMZGhhdVNYTzNGeEFMT1dnMlc4Slo4MFQzVVJoQkI2SDlxQ0NZQmtGekc5blhMb2hIeVlYcURjMmk0WXFMQ2F4SVNjN3dnZlVUaHJidlRYTXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FMm5LZzhadk9nMFJRUWFaMDFhdEc5RFRabGJOWm5HdzhIMDZTSk16M0hPX1Mtazk0NVJSVVNNbXp6eWhvQlo3Z0xMSXVRYzc5d01UU2p0RnRRX012dUFTTHM4ay1ZR0YxaW5RbU1aNHFBRUnSAXdBVV95cUxNLXlMZy1aQV8zTmNxdml2QVFVa3Q4SkdYV1owY3RTOUxkaGF1U1hPM0Z4QUxPV2cyVzhKWjgwVDNVUmhCQjZIOXFDQ1lCa0Z6RzluWExvaEh5WVhxRGMyaTRZcUxDYXhJU2M3d2dmVVRocmJ2VFhNdw?oc=5",
       "source": "스트레이트뉴스",
-      "published": "Sun, 06 Sep 2026 00:46:17 GMT",
+      "published": "Sun, 06 Sep 2026 00:43:14 GMT",
       "category": "customer",
       "categories": [
         "customer"
@@ -2380,20 +2380,6 @@
       "market": "KR"
     },
     {
-      "title": "The Best Tool I've Ever Owned Is This Giant Lithium Battery That Has Powered Everything From My Tent To My Entire Garage - The Autopian",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNN3FuZGF4dDg5ajdWRm5zd0hJRDVUM05PUTlFX2pGUHRVWmJZNVRCUDY5REc2THlhT09JWklEaHk3WU1DYWZiUVZKTnUxQ2ZsdnZPOVZkeVBEa3hmdmxYaGZ5RGU2ME83dWNhbHVXUlQtMzVjYVlLZVV2Z0UtSTV3ZUF0Q0pJa3M2SkNmSktCd2tVMDJnb2paYk5QVTBJOWo3eFNXVkcyWlNJV0JVV0xWRmZFRThHTzRBbng3OHVJZ3hNaldzWGEyUjU3TzZSV01QaGZMbVRxSWZfdUxjTkFEY3Zn?oc=5",
-      "source": "The Autopian",
-      "published": "Thu, 03 Sep 2026 20:16:39 GMT",
-      "category": "material",
-      "categories": [
-        "material"
-      ],
-      "tags": [
-        "Lithium"
-      ],
-      "market": "EN"
-    },
-    {
       "title": "Invest 800 million! There is also a new 10GWh lithium battery project. - SMM Metal",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUGwtTDh2a3IzR2dFbjVEcm5xZTBrYnpQMUFtTkVwZFZyQ2ZGWWlhQkJPdWlQcE82X0cweVhUdzQ1RzF6TXVwRmQ5dEVDRmE0aUFWZ2w2UHpGalg1ZGhvVnVLRnd2SzdERjdCUHJmN2tEdkJ6WWFpQ1FVNnh4VFBxTnlCWnZvLXNjRHhTeENvdVlpblhCaFBCVFB2U2hPQUtfdmJZd2MxODFQN2Q2aFZqblJRQTZVV2M?oc=5",
       "source": "SMM Metal",
@@ -2857,18 +2843,6 @@
       "market": "KR"
     },
     {
-      "title": "The Next Phase of LiFePO4 Battery Competition: From Specs to Full-Lifecycle Responsibility - The LiTime Approach - Batteries News",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUm40YTlNU3JBWDVVd1lrbm0wRkltZ3dHOGprT1FwTDBkcWJiWGk0VFRrRDRiYXdrVG5oeEpDX19SMUdBR0RFQkw3VG0tR2lXcVVvU0d0ZTFiNGdUX2xkSUZrSS0yMXVNb0hYVVlSU3dTcEVjUzZaWEVnZjc1ZGVVVDBudXR5ZExKcVcxaU94VjdJcEJxTlhFd0lmNVp6X2ZyYUZEc05XQjBnWjdBYjBYUnFfazd2UGVhMjJRMGdWZllzVDA2dXJfVGdDYjZvdFdleUE?oc=5",
-      "source": "Batteries News",
-      "published": "Tue, 01 Sep 2026 10:33:39 GMT",
-      "category": "quality",
-      "categories": [
-        "quality"
-      ],
-      "tags": [],
-      "market": "EN"
-    },
-    {
       "title": "SK온, 네오볼타 파워와 LFP 배터리 대형 연합 구축 - 아이씨엔매거진",
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPdEhrXzhoNUZJSExlREdka05MTW9kdklxdy1LUHY4a3VlOEpaVE1zdm9RdHhLOHV2STl1VEMxYkFrTFBYLU9lb2IxaGJOa1gtWmxmU2RVbTFoNExkeTc4NWY0SExxdy0xY01JZUdQdTBOM0pkQWJQRlRLdFR2MVMteldiUC1vZnliYm10MUI5SVJZYlN1U1ZUTV9wSW44SVE3a1B4UFVybmJXejY3SGNHZkN4NXB5Q2pvWkQ1WE5ZX254SFpBM2pDVTZaMEdscGxLWmZsR3BYZC1IMHFkcGdWdk41dVltc3pYMWNBZEpsSjNfTmhDanNESXRSVFVROTNYVDNrTEstamZ3QTVYYjlXRTVyOTdSWjRSeFg5d0NGOHI?oc=5",
       "source": "아이씨엔매거진",
@@ -2926,6 +2900,21 @@
       "tags": [
         "L&F",
         "LFP"
+      ],
+      "market": "KR"
+    },
+    {
+      "title": "[특징주] SK온 1.5조 배터리셀 수주 소식에 SK이노 7%대 급등(종합) - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tRkJyaVNSX0RaOG82clkwb3l5U3BmUFIwRzRKNk83aVRlLVhJaWxoMW5XR1JIVk1ueV9VWWdwWFlmdTIzb1llQ2dPdTdTS28?oc=5",
+      "source": "v.daum.net",
+      "published": "Tue, 01 Sep 2026 06:42:55 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "SK On",
+        "Supply / Order"
       ],
       "market": "KR"
     },
@@ -3113,6 +3102,21 @@
       "market": "KR"
     },
     {
+      "title": "SK온, 美 네오볼타 파워에 9GWh 배터리 공급…ESS 사업 본격 확장 - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44TTBPcWZnVHBtOVY2RjVGV0JwODZLT0djS0RzLXVicFV2SHZscld4aUtlX3Y0bUU2LXUtMk9hUk9mdTQzdjF6RWdpX05SX0NXRG9SREZydElrUdIBX0FVX3lxTE0tYndFb0R6QzlZMFkyV2oxSVZ6Y1pYYVZaUXRRSXhnMnUtMmU0S1B4X3BSODVNamFHcUxyR292eW1hZHNJWVJIaHBZc3llN1VrTlJLbFpqLWhSN2FWWUVJ?oc=5",
+      "source": "경향신문",
+      "published": "Sun, 30 Aug 2026 23:23:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "SK On",
+        "Supply / Order"
+      ],
+      "market": "KR"
+    },
+    {
       "title": "South Korea's SK On signs energy storage battery deal with US firm NeoVolta Power - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdV81NkdQRngzcGlaNDR4bzBlQVJJWEVTRlFjLU55MWx5VW1SR3pTY1lIMGV3RlFUbEZySHIzVU5XeEl5ZklEZGFwRTZmWGhlR2p2WW55WXMwOGZJZG5vbVE5Z0luT0lNcEVKWktDdnA0d25leWxyTVpBZ0JELWpraW5hYXI4ZXNNLWRVRXBjMGVvUERONmpiV3N3a2JQenp3WWlBamFhMno2QU1RQUJUVWN0NF81TWJJT2lHOWhiRldxMW8w?oc=5",
       "source": "reuters.com",
@@ -3154,22 +3158,6 @@
         "Samsung SDI"
       ],
       "market": "KR"
-    },
-    {
-      "title": "Lithium Battery Manufacturing Equipment Market Size and Statistics – 2035 - Market Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNzhrLXJ5TlBQZnUzLU95LVZJNTNxRFRFSGxkdnQ3T29WNjVZYjdkNnkxV2dnT0NyaFN2MHJEMy14TGkwM2FmS0wxRURHWXZXV0k4ZjRPSG45ZkR4a3BTeC1VdUwyWUZkRXhROG5fMHNzZWI3WmYxcUtUMG81VjJqWXVDQWozZHduMHcwSHFR?oc=5",
-      "source": "Market Business Insights",
-      "published": "Sat, 29 Aug 2026 07:58:21 GMT",
-      "category": "quality",
-      "categories": [
-        "material",
-        "quality"
-      ],
-      "tags": [
-        "Lithium",
-        "Market"
-      ],
-      "market": "EN"
     },
     {
       "title": "배터리소재 '캐즘' 터널 지나나?…포스코홀딩스·L&F·에코프로머티 등 5개사 영업익 껑충 - 소비자가 만드는 신문",
@@ -3726,18 +3714,6 @@
         "BYD"
       ],
       "market": "KR"
-    },
-    {
-      "title": "China’s Entry-Level BMW iX3 Uses A Different Battery Chemistry - bmwblog",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaUx1MHZ1NEs1VktBdGdnZnZJX1dxaTUwVUo5aHRjbXlsS3FuVnl3N2dlbXBHVkVoZVNYWThFWS1iRWhsNVlwcjVkTHRKZjlDbG1fbk41MmJlTXV5R3Jxc1RYZXJlZkU0VmE4UmttcnBIeWt4Q2hOblR1d1MzRXZvaTJvQXhDOVNmUUs4?oc=5",
-      "source": "bmwblog",
-      "published": "Sat, 22 Aug 2026 07:00:00 GMT",
-      "category": "material",
-      "categories": [
-        "material"
-      ],
-      "tags": [],
-      "market": "EN"
     },
     {
       "title": "Battery fires at recycling centres are costing UK £1bn a year, figures show - The Guardian",
@@ -4461,23 +4437,6 @@
       "market": "EN"
     },
     {
-      "title": "엘앤에프플러스, 국내 첫 LFP양극재 양산라인 시제품 출하 - 전기신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZcEs1aGxWcnMxWElyOHVhNFZNZDdQaFFNR29qZy1QQllSaE4xMm9CZ2RKckhUNkFoS2Y3aGhiQW1fQTVzOUZNSmF0b3BmWU9XQmVUaUpPSFp4ZHl2OU5wOGRnTGQtQl9hb3RSM9IBcEFVX3lxTE54QjlxTVdiUC1hczFmWjE3Yl91VTBaT24zOHBpaU5sRHV5T3M5T3V6Y3NQUHdZazF6NXA0ZEpOeGltaVhBU3V3YklHSGEweC1LMlZvQm9rT0lwTERGTnRkTXZjZEFNeTRlal9kQ0pMTmk?oc=5",
-      "source": "전기신문",
-      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "category": "customer",
-      "categories": [
-        "customer",
-        "material"
-      ],
-      "tags": [
-        "L&F Plus",
-        "L&F",
-        "LFP"
-      ],
-      "market": "KR"
-    },
-    {
       "title": "LFP vs NMC batteries: Complete fleet owner's guide 2025 - EV Infrastructure News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaENQY2xheEthcGdhZ0NMWUpUZVRuQUltTFo3T0FhVlltbTFmT1V6NFJkdkxhbDJkeFN0QUpyVklvb1Z1MXAzaTZBMWI2ZFE5cGlSY3k1SDhuMWxvZENFUjlkZmpQWlVLNTZUVHpXWjlhNHZMRHdqekd0RUlBSTM0cktIRUJ6cG83c1NxbTUxekJ3TWM?oc=5",
       "source": "EV Infrastructure News",
@@ -5109,6 +5068,53 @@
         "L&F",
         "LFP",
         "Supply / Order"
+      ],
+      "market": "KR"
+    },
+    {
+      "title": "엘앤에프, 미국 방산 관련 배터리 공급망 ‘코어셸’과 LFP 양극재 중장기 공급계약 체결 - 뉴스와이어",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YNHNOSzlORV90eXlYUTdBa1lhSmhBZ3FOc2JvalUzck9HYkg4eGI4T0JWVW5wd0ZOVl9XUWlNeEVDd3BBb1gtVi1ZeHBNMTAyTnNkT1QtUDI3dV9VSy1F?oc=5",
+      "source": "뉴스와이어",
+      "published": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "L&F",
+        "LFP",
+        "Supply / Order"
+      ],
+      "market": "KR"
+    },
+    {
+      "title": "LG화학 배터리 재활용 사업화 가속..파일럿 공장 가동 돌입 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrOEd0eDE1UVJZWjFybWV6cGtRRjFGNGZOYUJ2aXdVbFZGQmdsS0Zuc3VEMmpZM2NqLWJIOV9xUS12ME00Q3E3WFJmWjB4dlN2T3c5QXkyRkVGejlvMG9ERnBuSnVzS0pYcGttdtIBckFVX3lxTFBmUkowOHZoaTNPUVJlMmpsT19idDFTVGt4R0RfVDJOXzVKZzBYWWpTOFVmRDgwdTNHVmlXXzV6dmxMZzF2ZEhSZUJXQlYxUzlmUE9TXzdDWUFBQnlxUGhBZV8wQ3NEVUR0WkYtbHBGcThrUQ?oc=5",
+      "source": "머니투데이",
+      "published": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG"
+      ],
+      "market": "KR"
+    },
+    {
+      "title": "[시경Today-배터리·정유화학] KG에코솔루션, 바이오연료 공급망 확대... 엘앤에프 \"불성실 공시 의혹 사실과 달라\" - 시장경제신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90aEZaWVM0X1lsdkJqbTdKN1M5OEF1VkIwdVhwQmtJMTV0aHI1MzVIUWJEOF81eDM3dzdnN1lsdk9DTVc0Z3hyd0oyc00xaDVyUm5IVTZBMlJWZFFiWmJWZ0t3eHU3VV9rYkhQNFFaTXo?oc=5",
+      "source": "시장경제신문",
+      "published": "Tue, 28 Jul 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "L&F",
+        "Supply / Order",
+        "Market"
       ],
       "market": "KR"
     }
