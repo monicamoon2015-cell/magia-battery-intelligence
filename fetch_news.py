@@ -3,55 +3,86 @@ from datetime import datetime, timezone
 from urllib.parse import quote_plus
 from pathlib import Path
 from email.utils import parsedate_to_datetime
+from difflib import SequenceMatcher
 
 QUERIES = [
-    ("customer", '엘앤에프'), ("customer", '"엘앤에프플러스"'),
-    ("customer", '"L&F"'), ("customer", '"L&F Plus"'),
-    ("customer", '엘앤에프 LFP'), ("customer", '엘앤에프 양극재'),
-    ("customer", '엘앤에프 투자'), ("customer", '엘앤에프 CB'),
-    ("customer", '엘앤에프 전환사채'), ("customer", '엘앤에프 공급계약'),
-    ("customer", '엘앤에프 수주'), ("customer", '엘앤에프 증설'),
-    ("customer", '엘앤에프 품질'), ("customer", '엘앤에프플러스 LFP'),
+    # L&F / L&F Plus
+    ("customer", '엘앤에프'),
+    ("customer", '"엘앤에프플러스"'),
+    ("customer", '"L&F"'),
+    ("customer", '"L&F Plus"'),
+    ("customer", '엘앤에프 LFP'),
+    ("customer", '엘앤에프 양극재'),
+    ("customer", '엘앤에프 투자'),
+    ("customer", '엘앤에프 CB'),
+    ("customer", '엘앤에프 전환사채'),
+    ("customer", '엘앤에프 공급계약'),
+    ("customer", '엘앤에프 수주'),
+    ("customer", '엘앤에프 증설'),
+    ("customer", '엘앤에프 품질'),
+    ("customer", '엘앤에프플러스 LFP'),
     ("customer", '엘앤에프플러스 양극재'),
 
-    ("customer", 'CATL 배터리'), ("customer", 'BYD 배터리'),
-    ("customer", '"LG에너지솔루션" 배터리'), ("customer", '"LG화학" 배터리'),
-    ("customer", '"포스코퓨처엠" 배터리'), ("customer", '에코프로 배터리'),
-    ("customer", '삼성SDI 배터리'), ("customer", 'SK온 배터리'),
-    ("customer", 'CATL battery'), ("customer", 'BYD battery'),
-    ("customer", '"LG Energy Solution" battery'), ("customer", '"LG Chem" battery'),
-    ("customer", '"POSCO Future M" battery'), ("customer", 'EcoPro battery'),
+    # Major companies
+    ("customer", 'CATL 배터리'),
+    ("customer", 'BYD 배터리'),
+    ("customer", '"LG에너지솔루션" 배터리'),
+    ("customer", '"LG화학" 배터리'),
+    ("customer", '"포스코퓨처엠" 배터리'),
+    ("customer", '에코프로 배터리'),
+    ("customer", '삼성SDI 배터리'),
+    ("customer", 'SK온 배터리'),
+    ("customer", 'CATL battery'),
+    ("customer", 'BYD battery'),
+    ("customer", '"LG Energy Solution" battery'),
+    ("customer", '"LG Chem" battery'),
+    ("customer", '"POSCO Future M" battery'),
+    ("customer", 'EcoPro battery'),
 
-    ("material", 'LFP 배터리'), ("material", 'NCM 양극재'),
-    ("material", '리튬 배터리'), ("material", '니켈 배터리'),
-    ("material", '핵심광물 배터리'), ("material", '양극재 배터리'),
-    ("material", '전구체 배터리'), ("material", 'LFP battery'),
-    ("material", 'NCM cathode battery'), ("material", 'lithium battery'),
+    # Materials / market
+    ("material", 'LFP 배터리'),
+    ("material", 'NCM 양극재'),
+    ("material", '리튬 배터리'),
+    ("material", '니켈 배터리'),
+    ("material", '핵심광물 배터리'),
+    ("material", '양극재 배터리'),
+    ("material", '전구체 배터리'),
+    ("material", 'LFP battery'),
+    ("material", 'NCM cathode battery'),
+    ("material", 'lithium battery'),
     ("material", '"critical minerals" battery'),
 
-    ("quality", '자성이물 배터리'), ("quality", '금속이물 배터리'),
-    ("quality", '배터리 품질검사'), ("quality", '배터리 이물검사'),
-    ("quality", '양극재 오염 품질'), ("quality", '배터리 SEM EDS'),
+    # Quality
+    ("quality", '자성이물 배터리'),
+    ("quality", '금속이물 배터리'),
+    ("quality", '배터리 품질검사'),
+    ("quality", '배터리 이물검사'),
+    ("quality", '양극재 오염 품질'),
+    ("quality", '배터리 SEM EDS'),
     ("quality", '"magnetic impurity" battery'),
     ("quality", '"metallic impurity" battery'),
     ("quality", '"quality control" battery manufacturing'),
     ("quality", 'contamination battery cathode'),
 
-    ("sne", '"SNE리서치" 배터리'), ("sne", '"SNE Research" battery'),
+    # SNE
+    ("sne", '"SNE리서치" 배터리'),
+    ("sne", '"SNE Research" battery'),
 ]
 
 INDUSTRY_KEYWORDS = [
     "배터리","이차전지","양극재","음극재","전구체","lfp","ncm","nca","lmfp",
     "리튬","니켈","코발트","망간","흑연","광물","핵심광물",
-    "투자","증설","공장","생산","생산능력","capa","캐파","수주","공급계약","공급",
-    "계약","납품","고객사","매출","영업이익","실적","적자","흑자","전환사채","cb",
-    "유상증자","자금조달","품질","검사","이물","자성이물","금속이물","오염","불량",
-    "기술","개발","특허","공정","자동화","sem","eds","icp","시장","점유율","출하량",
-    "판매량","수요","공급망","원재료","가격","정책","규제","관세","ira","crma",
-    "battery","cathode","anode","precursor","lithium","nickel","cobalt","investment",
-    "plant","factory","production","capacity","supply","contract","order","revenue",
-    "profit","earnings","quality","inspection","contamination","technology","patent",
-    "market","share","shipment","demand","supply chain"
+    "투자","증설","공장","생산","생산능력","capa","캐파",
+    "수주","공급계약","공급","계약","납품","고객사",
+    "매출","영업이익","실적","적자","흑자","전환사채","cb","유상증자","자금조달",
+    "품질","검사","이물","자성이물","금속이물","오염","불량",
+    "기술","개발","특허","공정","자동화","sem","eds","icp",
+    "시장","점유율","출하량","판매량","수요","공급망","원재료","가격",
+    "정책","규제","관세","ira","crma","수출","수입",
+    "battery","cathode","anode","precursor","lithium","nickel","cobalt",
+    "investment","plant","factory","production","capacity","supply","contract",
+    "order","revenue","profit","earnings","quality","inspection","contamination",
+    "technology","patent","market","share","shipment","demand","supply chain"
 ]
 
 EXCLUDE_KEYWORDS = [
@@ -62,7 +93,6 @@ EXCLUDE_KEYWORDS = [
     "community service","scholarship","social contribution"
 ]
 
-# Priority scoring
 CORE_COMPANIES = {
     "엘앤에프플러스": 5, "l&f plus": 5,
     "엘앤에프": 5, "l&f": 5,
@@ -72,19 +102,22 @@ CORE_COMPANIES = {
     "에코프로": 3, "ecopro": 3,
     "byd": 3,
     "삼성sdi": 3, "samsung sdi": 3,
-    "sk온": 3, "sk on": 3,
+    "sk온": 3, "sk on": 3
 }
 
 HIGH_VALUE_TOPICS = {
-    "자성이물": 5, "금속이물": 5, "magnetic impurity": 5, "metallic impurity": 5,
+    "자성이물": 5, "금속이물": 5,
+    "magnetic impurity": 5, "metallic impurity": 5,
     "품질": 4, "quality": 4, "오염": 4, "contamination": 4,
     "lfp": 4, "ncm": 3,
-    "공급계약": 4, "수주": 4, "증설": 4, "투자": 3, "전환사채": 3, "cb": 3,
+    "공급계약": 4, "수주": 4, "증설": 4,
+    "투자": 3, "전환사채": 3, "cb": 3,
     "공장": 3, "생산": 3, "capacity": 3, "capa": 3,
     "공급망": 3, "supply chain": 3,
     "실적": 2, "영업이익": 2, "revenue": 2, "earnings": 2,
-    "리튬": 2, "lithium": 2, "핵심광물": 2, "critical minerals": 2,
-    "정책": 2, "규제": 2, "관세": 2, "ira": 2, "crma": 2,
+    "리튬": 2, "lithium": 2,
+    "핵심광물": 2, "critical minerals": 2,
+    "정책": 2, "규제": 2, "관세": 2, "ira": 2, "crma": 2
 }
 
 def google_news_rss(q, lang="ko"):
@@ -101,6 +134,18 @@ def source_from_entry(e):
         return src.get("title","")
     return ""
 
+def published_dt(s):
+    try:
+        return parsedate_to_datetime(s).astimezone(timezone.utc)
+    except Exception:
+        return None
+
+def age_days(s):
+    dt = published_dt(s)
+    if not dt:
+        return 9999
+    return (datetime.now(timezone.utc) - dt).total_seconds() / 86400
+
 def is_industry_relevant(text):
     t = text.lower()
     if any(k.lower() in t for k in EXCLUDE_KEYWORDS):
@@ -111,47 +156,35 @@ def priority_score(text, published):
     t = text.lower()
     score = 0
 
-    for k, v in CORE_COMPANIES.items():
+    for k,v in CORE_COMPANIES.items():
         if k in t:
             score += v
 
-    for k, v in HIGH_VALUE_TOPICS.items():
+    for k,v in HIGH_VALUE_TOPICS.items():
         if k in t:
             score += v
 
-    # 신선도 가점
-    try:
-        dt = parsedate_to_datetime(published)
-        age_days = (datetime.now(timezone.utc) - dt.astimezone(timezone.utc)).total_seconds() / 86400
-        if age_days <= 1:
-            score += 4
-        elif age_days <= 3:
-            score += 3
-        elif age_days <= 7:
-            score += 2
-        elif age_days <= 14:
-            score += 1
-    except Exception:
-        pass
+    days = age_days(published)
+    if days <= 1:
+        score += 4
+    elif days <= 3:
+        score += 3
+    elif days <= 7:
+        score += 2
+    elif days <= 14:
+        score += 1
 
     return score
 
-def article_age_days(published):
-    try:
-        dt = parsedate_to_datetime(published)
-        return (datetime.now(timezone.utc) - dt.astimezone(timezone.utc)).total_seconds() / 86400
-    except Exception:
-        return 9999
-
 def priority_label(score, published):
-    age_days = article_age_days(published)
+    days = age_days(published)
 
-    # A는 반드시 최근 7일 이내
-    if age_days <= 7 and score >= 12:
+    # HARD RULE: A is only possible within 7 days.
+    if days <= 7 and score >= 12:
         return "A"
 
-    # B는 최근 30일 이내
-    if age_days <= 30 and score >= 7:
+    # B is only possible within 30 days.
+    if days <= 30 and score >= 7:
         return "B"
 
     return "C"
@@ -159,13 +192,20 @@ def priority_label(score, published):
 def tag(text):
     t=text.lower()
     checks=[
-        ("CATL",["catl"]),("BYD",["byd"]),("POSCO",["posco","포스코"]),
+        ("CATL",["catl"]),
+        ("BYD",["byd"]),
+        ("POSCO",["posco","포스코"]),
         ("LG",["lg energy","lg chem","lg에너지솔루션","lg화학"]),
-        ("L&F Plus",["l&f plus","엘앤에프플러스"]),("L&F",["l&f","엘앤에프"]),
-        ("EcoPro",["ecopro","에코프로"]),("Samsung SDI",["samsung sdi","삼성sdi"]),
-        ("SK On",["sk on","sk온"]),("SNE Research",["sne research","sne리서치"]),
-        ("LFP",["lfp","lithium iron phosphate","인산철"]),("NCM",["ncm"]),
-        ("Lithium",["lithium","리튬"]),("Critical Minerals",["critical mineral","핵심광물","광물"]),
+        ("L&F Plus",["l&f plus","엘앤에프플러스"]),
+        ("L&F",["l&f","엘앤에프"]),
+        ("EcoPro",["ecopro","에코프로"]),
+        ("Samsung SDI",["samsung sdi","삼성sdi"]),
+        ("SK On",["sk on","sk온"]),
+        ("SNE Research",["sne research","sne리서치"]),
+        ("LFP",["lfp","lithium iron phosphate","인산철"]),
+        ("NCM",["ncm"]),
+        ("Lithium",["lithium","리튬"]),
+        ("Critical Minerals",["critical mineral","critical minerals","핵심광물","광물"]),
         ("Quality",["quality","품질","contamination","오염","이물"]),
         ("Magnetic Impurity",["magnetic impurity","metallic impurity","자성이물","금속이물"]),
         ("Investment",["투자","investment","cb","전환사채","유상증자","증설"]),
@@ -179,39 +219,84 @@ def tag(text):
             out.append(name)
     return out[:8]
 
-articles=[]
-seen=set()
+# ---------- stronger duplicate detection ----------
+
+STOPWORDS = {
+    "단독","종합","속보","인터뷰","기획","분석","전망","관련","대해","통해",
+    "the","a","an","of","to","for","and","in","on","with","from"
+}
+
+def normalized_title(title):
+    t = title.lower()
+
+    # Remove outlet suffix commonly added after " - "
+    t = re.sub(r"\s+-\s+[^-]{1,40}$", "", t)
+
+    # Remove brackets / decorative labels
+    t = re.sub(r"\[[^\]]*\]|\([^\)]*\)|【[^】]*】", " ", t)
+
+    # Normalize punctuation
+    t = re.sub(r"[^0-9a-z가-힣&]+", " ", t)
+    t = re.sub(r"\s+", " ", t).strip()
+    return t
+
+def title_tokens(title):
+    toks = normalized_title(title).split()
+    return {x for x in toks if len(x) >= 2 and x not in STOPWORDS}
+
+def similar_story(a, b):
+    na, nb = normalized_title(a), normalized_title(b)
+
+    if not na or not nb:
+        return False
+
+    # Very similar headline
+    if SequenceMatcher(None, na, nb).ratio() >= 0.78:
+        return True
+
+    ta, tb = title_tokens(a), title_tokens(b)
+    if not ta or not tb:
+        return False
+
+    jaccard = len(ta & tb) / len(ta | tb)
+
+    # Same article wording with slightly changed headline
+    if jaccard >= 0.62:
+        return True
+
+    return False
+
+# ---------- collect ----------
+
+raw_articles = []
 
 for category,q in QUERIES:
     is_korean = bool(re.search(r"[가-힣]", q))
     feeds = [("KR", google_news_rss(q, "ko"))] if is_korean else [
-        ("KR", google_news_rss(q, "ko")), ("EN", google_news_rss(q, "en"))
+        ("KR", google_news_rss(q, "ko")),
+        ("EN", google_news_rss(q, "en"))
     ]
 
-    for market, url in feeds:
+    for market,url in feeds:
         feed = feedparser.parse(url)
         limit = 25 if ("엘앤에프" in q or "L&F" in q) else 15
 
         for e in feed.entries[:limit]:
-            title = clean_title(getattr(e, "title", ""))
-            link = getattr(e, "link", "")
+            title = clean_title(getattr(e,"title",""))
+            link = getattr(e,"link","")
+            source = source_from_entry(e)
+            published = getattr(e,"published","")
+
             if not title or not link:
                 continue
 
-            source = source_from_entry(e)
+            # HARD CUTOFF: older than 30 days never enters data.json.
+            if age_days(published) > 30:
+                continue
+
             combined = title + " " + source
+
             if not is_industry_relevant(combined):
-                continue
-
-            key = re.sub(r"\s+"," ",title.lower()).strip()
-            if key in seen:
-                continue
-            seen.add(key)
-
-            published = getattr(e, "published", "")
-
-            # 30일 초과 기사는 아예 제외
-            if article_age_days(published) > 30:
                 continue
 
             tags = tag(combined)
@@ -228,7 +313,7 @@ for category,q in QUERIES:
 
             pscore = priority_score(combined, published)
 
-            articles.append({
+            raw_articles.append({
                 "title": title,
                 "url": link,
                 "source": source,
@@ -241,24 +326,48 @@ for category,q in QUERIES:
                 "priority": priority_label(pscore, published)
             })
 
-def safe_date(a):
-    try:
-        return parsedate_to_datetime(a.get("published","")).timestamp()
-    except Exception:
-        return 0
-
-# A/B/C 우선, 같은 등급 내 최신순
-rank = {"A": 3, "B": 2, "C": 1}
-articles.sort(
-    key=lambda a: (rank.get(a.get("priority","C"),1), a.get("priority_score",0), safe_date(a)),
+# Sort newest first BEFORE duplicate removal.
+raw_articles.sort(
+    key=lambda a: published_dt(a["published"]) or datetime.min.replace(tzinfo=timezone.utc),
     reverse=True
 )
 
-# 너무 많은 기사 방지: A 30 + B 70 + C 50까지만
-a_rows = [x for x in articles if x["priority"]=="A"][:30]
-b_rows = [x for x in articles if x["priority"]=="B"][:70]
-c_rows = [x for x in articles if x["priority"]=="C"][:50]
-articles = a_rows + b_rows + c_rows
+# Remove duplicate / near-duplicate stories.
+articles = []
+
+for candidate in raw_articles:
+    duplicate = False
+
+    # Only compare against recent kept items; enough for our volume.
+    for kept in articles:
+        d1 = published_dt(candidate["published"])
+        d2 = published_dt(kept["published"])
+
+        # Similar headlines within 3 days are treated as the same story.
+        if d1 and d2 and abs((d1-d2).total_seconds()) <= 3*86400:
+            if similar_story(candidate["title"], kept["title"]):
+                duplicate = True
+                break
+
+    if not duplicate:
+        articles.append(candidate)
+
+# Final sort: priority first, then score, then newest.
+rank = {"A":3, "B":2, "C":1}
+articles.sort(
+    key=lambda a: (
+        rank.get(a["priority"],1),
+        a["priority_score"],
+        published_dt(a["published"]) or datetime.min.replace(tzinfo=timezone.utc)
+    ),
+    reverse=True
+)
+
+# Keep the dashboard compact.
+A = [x for x in articles if x["priority"]=="A"][:20]
+B = [x for x in articles if x["priority"]=="B"][:50]
+C = [x for x in articles if x["priority"]=="C"][:30]
+articles = A + B + C
 
 payload = {
     "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
@@ -269,4 +378,5 @@ Path("data.json").write_text(
     json.dumps(payload, ensure_ascii=False, indent=2),
     encoding="utf-8"
 )
-print("saved", len(articles), "prioritized articles")
+
+print("saved", len(articles), "articles after recency + dedup filtering")
