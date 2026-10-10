@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10 12:30 UTC",
+  "updated_at": "2026-10-10 21:43 UTC",
   "articles": [
     {
       "title": "Samsung SDI Taps POSCO Future M for LFP, EcoPro BM for Solid-State Materials - 한국금융신문",
@@ -26,6 +26,26 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tTW5sbUFDVUF4ZXN4OU0zUEp3VWVDZ3VzMms2RXlxYWp4M1JuYzdiOHo5WXBjb3U0a29sdkE1Z2lfaDRCSFBDd3o1Ujd3elFQV1RvNUVmdkdHUVNvdUQyQk13QnQwd1Q3U0E?oc=5",
       "source": "철강금속신문",
       "published": "Wed, 07 Oct 2026 00:14:47 GMT",
+      "category": "material",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "POSCO",
+        "Samsung SDI",
+        "LFP",
+        "Supply / Order"
+      ],
+      "market": "KR",
+      "priority_score": 17,
+      "priority": "A"
+    },
+    {
+      "title": "포스코퓨처엠, 삼성SDI와 LFP 6조원 규모 공급계약 체결...기존 합의보다 2배 이상 늘렸다 - 전기신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Lb25tMEpnQWEwRml6ajAxVVU2UGNGek9TMU1pLXlLel9qWEFzT3ZiTnNveVZ5SG41UGg4UUxxaWZBZFJZclAxQ255bTdGZmlaS29UX0xvZWFwRVJrTlBOUjliUDBMVWZhVjJyMNIBcEFVX3lxTE1JZGpQX095QmZLclJDT0FzUkpvWmJnLUxtZ3lCanYydkhnUDF5TjV4c05ISFkzQUZCaWh2QjF2M0p6bzRnSEpzZ3pLNk8zcW9LRzRLNHBlbW1MMHNGNVlONGpJTXBKcklqOVlaZkxJVFk?oc=5",
+      "source": "전기신문",
+      "published": "Tue, 06 Oct 2026 15:50:11 GMT",
       "category": "material",
       "categories": [
         "customer",
@@ -179,25 +199,6 @@
       ],
       "market": "KR",
       "priority_score": 15,
-      "priority": "A"
-    },
-    {
-      "title": "삼성SDI, 포스코퓨처엠과 6조원 LFP 양극재 계약…보급형 전환 신호탄 - 리드경제",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DMU4yUE80azFHQXZlVlk0OXkyREs1U3lHTTlLZWJQZHAyQi1xTXg2WmNjR3JsRWktSlV4Y3JkNGJ4RGtMcHhfUHpjTW93OVNqaEFVRHlzS3ZEOE1YOHNLLU5VUUFtU3lyQ1pHYXNyY3k?oc=5",
-      "source": "리드경제",
-      "published": "Fri, 09 Oct 2026 00:04:00 GMT",
-      "category": "material",
-      "categories": [
-        "customer",
-        "material"
-      ],
-      "tags": [
-        "POSCO",
-        "Samsung SDI",
-        "LFP"
-      ],
-      "market": "KR",
-      "priority_score": 14,
       "priority": "A"
     },
     {
@@ -492,9 +493,9 @@
       "priority": "B"
     },
     {
-      "title": "SK온, 엘앤에프와 1600억 규모 LFP 양극재 공급계약 - CNews",
+      "title": "SK온, 엘앤에프와 1600억 규모 LFP 양극재 공급계약 - thecommoditiesnews.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01cnN2V1FoRDl1VE16WUlkV1JQRHdRSkJnNkUxVUR1dlg2RG42UDY3NGE4d1A4b0N6YmhNUlU2bHJ2Szh0M1JuelYzMjAtZVd0SkxuekhveWpWVms1bjc5aFktQUVjMkQ3dXFIV3czMkdSdGFpZkRR?oc=5",
-      "source": "CNews",
+      "source": "thecommoditiesnews.com",
       "published": "Mon, 21 Sep 2026 05:52:45 GMT",
       "category": "customer",
       "categories": [
@@ -568,26 +569,6 @@
       ],
       "market": "KR",
       "priority_score": 16,
-      "priority": "B"
-    },
-    {
-      "title": "SK온, 포스코퓨처엠과 1.1조 LFP 계약…'탈중국' 배터리 소재 공급망 윤곽 - 리드경제",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzM3M5OUtSaFZPd0xZNDBMSWpFOHdsNVdIY2VhaUg2NHdfSFBBX1J0TDZCYkRyLWtvR0FDcmN1MV95WGdkOXFkamh4QlpDM2ZvNUxJQUdfS1p0T0lyWDBjUzM4bXhjTDQzeXl3d0dzMA?oc=5",
-      "source": "리드경제",
-      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "category": "material",
-      "categories": [
-        "customer",
-        "material"
-      ],
-      "tags": [
-        "POSCO",
-        "SK On",
-        "LFP",
-        "Supply / Order"
-      ],
-      "market": "KR",
-      "priority_score": 15,
       "priority": "B"
     },
     {
@@ -839,25 +820,6 @@
         "LFP"
       ],
       "market": "EN",
-      "priority_score": 12,
-      "priority": "B"
-    },
-    {
-      "title": "中 장악 LFP 파고든 엘앤에프…공급망 경쟁 본격화 - 서울경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlS0hJNXdLcS01bXJVU0laTzhwMEwxOWlJWVJXLXdzTnhwdVVsNEVMNzF6WEk2aUxQZ1ZfMmpRTGVOWmNEUEk4NGVlRWJNejlYYWZSbm8ySEtQcXBhVjBaZGFKa0o?oc=5",
-      "source": "서울경제TV",
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "category": "customer",
-      "categories": [
-        "customer",
-        "material"
-      ],
-      "tags": [
-        "L&F",
-        "LFP",
-        "Supply / Order"
-      ],
-      "market": "KR",
       "priority_score": 12,
       "priority": "B"
     },
@@ -1180,6 +1142,44 @@
       "priority": "B"
     },
     {
+      "title": "SK온, 포스코퓨처엠서 1.1조 규모 LFP 양극재 구매 - 디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UZFZ1RmtPM3dXQnU4X0w2eGdQMEpjbUQ1YUZxRUhwbjBmYUNncER0cEx1UUtpTERadDVaOUd1OVdTUGhwUi1CVnVDdXNsWmsybDdJNUIzUENoQmYwc211VlRlUzBCUQ?oc=5",
+      "source": "디일렉",
+      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "POSCO",
+        "SK On",
+        "LFP"
+      ],
+      "market": "KR",
+      "priority_score": 11,
+      "priority": "B"
+    },
+    {
+      "title": "POSCO Future M to Supply ₩1.0742 Trillion in LFP Cathode Materials to SK On, Completing Alliance with All Three South Korean Battery Makers - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Rcks3NzVsejNwU3V1OFNkS3Jtc0tXN2FqdHkzNlhsNERFMUcwYmZlRHVyT085bXQ3aFhjLXlCSlVTSnlLTjFmaFBieWpmaXVMZGpaMnM1b1J3WXhFT0I3R0duZVoydlNrMnRpT0dLd0ZpbEFEc2c?oc=5",
+      "source": "BigGo Finance",
+      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "POSCO",
+        "SK On",
+        "LFP"
+      ],
+      "market": "EN",
+      "priority_score": 11,
+      "priority": "B"
+    },
+    {
       "title": "포스코퓨처엠, SK온에 LFP 양극재 1조1000억원 규모 공급한다 - 전기신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yU252ZzYwNWNlMUZwNnQzYnVUOGp2WlVjcHRWcmk5eWQtSW5vV3c5WWlKVlFCRTRXR2luU01XLTI4Rnh6VDFGS015LThtRmRrNmEyWUdVSTBKUWJoM0UybHVJcDBVSHJaWUxEaNIBcEFVX3lxTE1rLW9waFhNbzFGbmhDS0YwbGtDRjJUa2Fkc3d3d2xSbEhCcGlxSXk1aFBvaEU2U2lBcUQzWGx1dExmd2JiOWttbWdtRGZvSmVsRkF5VUI0UHJOMm11dGxQWC1yS2g5Y1dWYnV2Rks0ME4?oc=5",
       "source": "전기신문",
@@ -1308,22 +1308,6 @@
       "priority": "B"
     },
     {
-      "title": "First Phosphate advances Quebec mine-to-battery strategy for North American LFP supply chain - Proactive financial news",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY3lBN092c2laeWhBSEpYcmh5Nmc1ZGI4aVIxZ1dVMXNVU2dzb1NsTVZoVklQNE43Y2ZlaTRIMmZ6bmJyRkdDeTlkTzFSTUgxRFJuSEl2ZEptMEcxRTBhenRuWFJVbng0MWdvVUE3NjRqOVh6RWRyT3Z6eTBpUEU1YXB6THk5a1dGUGZ5cTNhcGwzSDJqU3dTend0TUctVmVaell5MjFqRXV3LVNTMUM1WHAxZ1hGdmltYTdGQ3QySDNDMzZlZEVudE12TFM4ZTIxaFFuYjZoalFyZmdhX0ZwSVNUUVRVZER1RDhF?oc=5",
-      "source": "Proactive financial news",
-      "published": "Wed, 07 Oct 2026 16:45:25 GMT",
-      "category": "material",
-      "categories": [
-        "material"
-      ],
-      "tags": [
-        "LFP"
-      ],
-      "market": "EN",
-      "priority_score": 10,
-      "priority": "B"
-    },
-    {
       "title": "1∼8월 非중국 시장서 전기차 배터리 사용량 24%↑…CATL·BYD 44.7% - 헤럴드경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VZ3J2dHZNdDlUcEZLTzkyVVc1MFlKa2FxRklfUzlaUElnWnV6VUpQYkpzdnhFRnlMdGdqckFxZGcteWpqdHZPZkRUallGaU5vN3hOR0hn?oc=5",
       "source": "헤럴드경제",
@@ -1342,10 +1326,27 @@
       "priority": "B"
     },
     {
+      "title": "LFP 수주 9조원 육박 … K소재사, 다음 승부처는 '전구체 탈중국' - 뉴데일리",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oLXkxZjJ6NXFRVGFTN2U4SzI2MnpCZ2dHNlRadzJtajFuYTREbnExUkt2OGpPTDFwTkhBb1NEQ2ZzSHA2U1E4OVU2RkFpand1RHM3YjR0anlVMDBRVGRDSjdjeFdSaE8xa0ctc2lRaEJpUGI5Z0NoUFpTY9IBgAFBVV95cUxPZW5YYVltLV9PN3FNd0Vub2t0aGV4bG5ZTXBFWVJmOGhTVUVMcERrRW5iWXhweDNuN0Q0SE42cVF4X0ctTm9rdjNGSWhlOHFaNFY3cEZjM01abjhqYVRYRzZHU1ZnQ3YybllqYlFMZzFQUDIwZ0NwcWFHaHZKOVIweA?oc=5",
+      "source": "뉴데일리",
+      "published": "Wed, 07 Oct 2026 02:03:59 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP",
+        "Supply / Order"
+      ],
+      "market": "KR",
+      "priority_score": 10,
+      "priority": "B"
+    },
+    {
       "title": "Pasadena Fire Chief Urges Safe Lithium-Ion Battery Charging as State Battery Testing Rules Take Hold - Pasadena Now",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORzdlSWxUTEFVUmM0cmQxRkY0WGtmYnhZQ2xuZVNjemxVaDdZZVF0VHRCSmtGWW4yejI1cXktYzZ0N2RFS0ZDSXY1QmhSd0t1RUpEZ1o1WU9KY2MwSDdrbS1JT1E1WV9GTHZWcTY5VzZ4aFdIUlhNc3B3M3RGdkY2a1M4NmlqWFZOMm96SzFhY3BVcHFBVFZQTThhazJ1d1RrSEd5eUdBRmFHQmVsRng5U24wTlBHN3FHWkpWeXVRc19mcVRHNWxLLQ?oc=5",
       "source": "Pasadena Now",
-      "published": "Sat, 10 Oct 2026 12:13:39 GMT",
+      "published": "Sat, 10 Oct 2026 12:13:20 GMT",
       "category": "material",
       "categories": [
         "material"
@@ -1406,54 +1407,6 @@
       "priority": "C"
     },
     {
-      "title": "日 타이게이급 잠수함 7번함 '쇼게이' 진수… 리튬 잠수함 확충, 중국견제 강화 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaHZsLXdNNXZWbEZLXy11RDdQS3JlY0VINjZVeVZLM0VKRm1Wd3FYb19ZQUt4N1JZdTdmd3BhWlgzVXVlSXpQajNHSVFYLWNLYnhrQjJqS0lYYi1iZGlkbko4OUhMcTZBWkhnRUZtMFB4eFVoSi0zUkp4bHMyZDZfLVFZVVhoOFk?oc=5",
-      "source": "글로벌이코노믹",
-      "published": "Fri, 09 Oct 2026 21:30:00 GMT",
-      "category": "material",
-      "categories": [
-        "material"
-      ],
-      "tags": [
-        "Lithium"
-      ],
-      "market": "KR",
-      "priority_score": 6,
-      "priority": "C"
-    },
-    {
-      "title": "오일쇼크가 낳은 리튬이온배터리⋯반세기 만에 '21세기 대표 기술'로 - 이투데이",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZNzdXdVhOcjRabkxZUTNiVko2ekdtOFowYjB6cC1pQzRzdTRxYm9RbG92dUo4bU9JTV94MmNMVmJhdXJ6NDJfU0Y4Y0dfd2NFSzRzTTNTQjIySDU1bUY1VlhnUU1Da2ZMU1hWSFVzSWpTYlN5?oc=5",
-      "source": "이투데이",
-      "published": "Fri, 09 Oct 2026 21:00:00 GMT",
-      "category": "material",
-      "categories": [
-        "material"
-      ],
-      "tags": [
-        "Lithium"
-      ],
-      "market": "KR",
-      "priority_score": 6,
-      "priority": "C"
-    },
-    {
-      "title": "Tulsa Fire urges awareness of the risks of lithium batteries for Fire Prevention Week - 2 News Oklahoma KJRH Tulsa",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObE56bkN1aEZaQlNDQS1PeWVUZzVEdGZzNF81V3hlTkdadnVhNzNQY0NGWjgzcnE4cUxrcnFWaGZYb0FKRVRVVnVBdDZIbXFNTmJnTmtrT1ZkUndoNlpuVWN6QmdSTzdHQkpmLVJtYjhjTFVEMFJvWllzSi1oX2FLRGt2N0VWX2l0OTNuRVZEMW04UFRtNTVBV2xncGszWV91YVRWMlNpRDRlSVhBNHdyTEJqQ2ZFeHFhWE13WVlfZw?oc=5",
-      "source": "2 News Oklahoma KJRH Tulsa",
-      "published": "Fri, 09 Oct 2026 19:17:00 GMT",
-      "category": "material",
-      "categories": [
-        "material"
-      ],
-      "tags": [
-        "Lithium"
-      ],
-      "market": "EN",
-      "priority_score": 6,
-      "priority": "C"
-    },
-    {
       "title": "카지노 1ㅎ하 창업자를 위한 투자 재테크 필수 포인트 - Calgary Roughnecks",
       "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQU245dE93VFctWkowcEpnQ29UdjFzMVFrSC1NeG5fY3U4TVBDSU84dDU1UHAwb0gzdHNES0lPR1RQS1J5T2RfYmdKdHZ4Zm9jX1NvTkJ1eDJuZ1k3N2tJQ1hLSjY2bmh3MU9pLTBzR0ZsWEtNa1F5YUhFdV91LW8wU3IySWVmVkVhc0JLcWVKeTIyeUpEMnRRaEVpOHl6RGpfYjl3aTJ2ekVwblg1MGVCOEFqUm93bmNuU3VMbHlnOEtpejFYZXp5YUhKdUtzUVV4bC0wb1NNWE12MXNaUkZyZHpjU1FJclBuRmNxLXgtS2pJOGFGUE1qSnNtSWN6aWhLdzF5bHZpQy1zTkpLcFFYZ3NvZU4xdFlTX0taM244RTZ0TEhpTlpLZDc5OW1iQU5zMDlQZzVSVDk?oc=5",
       "source": "Calgary Roughnecks",
@@ -1479,6 +1432,22 @@
         "customer"
       ],
       "tags": [],
+      "market": "KR",
+      "priority_score": 6,
+      "priority": "C"
+    },
+    {
+      "title": "2027년 '꿈의 배터리' 뜬다…에코프로비엠 결단 : 기업·산업 - 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fQ1NfQUduN0docGJmWUpkUDZsczVkemFiQUl3TnMtR1NfTkUtUWJVV2ZkNXFkOWtRUkd1dUFjdkNRQTc0bXdwNnk3WQ?oc=5",
+      "source": "재경일보",
+      "published": "Thu, 08 Oct 2026 08:56:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "EcoPro"
+      ],
       "market": "KR",
       "priority_score": 6,
       "priority": "C"
@@ -1527,6 +1496,40 @@
         "BYD"
       ],
       "market": "KR",
+      "priority_score": 6,
+      "priority": "C"
+    },
+    {
+      "title": "폐 LFP 배터리 원료 시장 2035년 전망: 전기차 배터리 수명 종료 물량이 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbldpWXJJSkZhV3MxVHBiUzJ6anVqTUdNQVpZYnNzN0ExOTRaOVJqazQ1clhUc3N4MlN4d2NlaEtYMHFMQnl2XzhOZTF1Qm4wWWZvM1hxQUVlQ2JaUWFJQ2J2RFNtV25pY0lBbDE3SWNRYnR3WW45OFV0TDVJUWxJWUZ6ZEJ5bHJCYm1WSkZBV0pYenNNX2NWV3d3bWl5aDRsUFNxLVFYUUMxQ3ZMc0szM1dUU3U3TnBHeDFoTmpZb3F5NXF5R2tBaGJYM2tLVS1oRjFpTi1FYUhZU2RuSUw4dWRVRnZDZkdR?oc=5",
+      "source": "IndexBox",
+      "published": "Wed, 07 Oct 2026 18:16:04 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP",
+        "Market"
+      ],
+      "market": "KR",
+      "priority_score": 6,
+      "priority": "C"
+    },
+    {
+      "title": "Spent LFP Battery Feedstock Market To 2035: EV Battery Retirement Wave Drives Expansion - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT0RwcGVsTFpVckkwUG1FeEVtd3plUUpBNVE0ZFV6QzhBY0hnaTYzLURVTE1QanYxdEdCZXVZRWJCWnREUDFVMW1hMUZkdU5nTFhveVNJY1RxOTRzN0ZRYzZvZjhsSzdIVmdKTF9Zb0Q1bnR6MDUxZEVrbVpsaHUyYmEzWFpFZWpKNk13Ql9lb1FZTTJ5T1o3bVhISlgxcTEycUxndmw1THpJNWZ4Y1VReGZxcUhRUDNlZzhSRHhLclRvOW1oWWthWVJpUGRVWUNwQWE0bXNXcWRpSDhmMUpLeTVldzk?oc=5",
+      "source": "IndexBox",
+      "published": "Wed, 07 Oct 2026 18:16:04 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP",
+        "Market"
+      ],
+      "market": "EN",
       "priority_score": 6,
       "priority": "C"
     },
@@ -1596,18 +1599,19 @@
       "priority": "C"
     },
     {
-      "title": "LG Energy Solution to Supply 46100 Batteries to Mercedes-Benz - Fuel Cells Works",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNblJEWC1mUm9OdDU4cUwyTkdDM2RYa3hLX28tQTRObUZJWXIxeWNJQXhickpMU3NhQjhhSjgzcXBuY3VMeVJtaEhfNjBTQ1dwcllVYnphMG52WG9UQmhMaG1fX0FLSFo4Nk1rbjFmSUw0eDFiOHVCREpRcUoxYmtWTDJkeTVTM2lOWUxnNTg5aThLWkVRVHBvZWlubmpVWmw2bEJiT2xYMmtsT3lwUmhoR0NaaGZKYmRk?oc=5",
-      "source": "Fuel Cells Works",
-      "published": "Sun, 04 Oct 2026 07:00:00 GMT",
-      "category": "customer",
+      "title": "\"中 CATL 혼자 39%인데\"…韓 배터리 3사 합쳐도 12% - 마켓인",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xd2kwaUZBMWVLdG1lRVJqOXIwVkk3eFNUbEVHQl9YTFkzQkxjNnp4MEdPcm1XQ2ZNN011RXFXekNMUjBzWi1JbzZwWHR5LWFDZ3UwTUN3aThCS3M4aDlmckI0M0ZaYm9BQW1XMXZrenpDX3M?oc=5",
+      "source": "마켓인",
+      "published": "Fri, 02 Oct 2026 07:06:18 GMT",
+      "category": "sne",
       "categories": [
-        "customer"
+        "customer",
+        "sne"
       ],
       "tags": [
-        "LG"
+        "CATL"
       ],
-      "market": "EN",
+      "market": "KR",
       "priority_score": 6,
       "priority": "C"
     },
@@ -1628,10 +1632,42 @@
       "priority": "C"
     },
     {
+      "title": "日 타이게이급 잠수함 7번함 '쇼게이' 진수… 리튬 잠수함 확충, 중국견제 강화 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaHZsLXdNNXZWbEZLXy11RDdQS3JlY0VINjZVeVZLM0VKRm1Wd3FYb19ZQUt4N1JZdTdmd3BhWlgzVXVlSXpQajNHSVFYLWNLYnhrQjJqS0lYYi1iZGlkbko4OUhMcTZBWkhnRUZtMFB4eFVoSi0zUkp4bHMyZDZfLVFZVVhoOFk?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "Fri, 09 Oct 2026 21:30:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ],
+      "market": "KR",
+      "priority_score": 5,
+      "priority": "C"
+    },
+    {
       "title": "‘Battery breakthrough’: Researchers use new material to make lithium-ion batteries safer - NewsChannel 10",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTGZtVFUwbWphU2xOZ1RJX3RhaF9SZ1c1bVM3djl0VU4zNU41d0tzS2lnNlhVZ3dmYUhLc3BVVlhKZHdLVEdvR2ZWVXMtb3dHc2J2WDNYWmJIOW8wR0E0YTdraEpqWmFCOUhMR0ZGTHNJOGZZOE1hVDM2TzljbkZIVmNTb2xSbnhobmE5bXFwdEE1cXo4Qmt1X2YzbDFDMHczSk9qRnh5aHV3X1Mxay1ZczlDOEllZFpUUU1KQ05ES0JwUQ?oc=5",
       "source": "NewsChannel 10",
       "published": "Fri, 09 Oct 2026 12:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ],
+      "market": "EN",
+      "priority_score": 5,
+      "priority": "C"
+    },
+    {
+      "title": "Fire officials warn of lithium-ion battery fire risks - KOTA Territory News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSHpERzJybi1qNG41a0xuY2lXS2xtVkpZaEpDOEZzdGNsYUwzeGt5ZHY3ZXRrd1NhNlUwaFY2YWZVVmhjcTZDUjVrX2kzNGdxa25CRkQ5OE5OX3pKSGdmMy1ORWNDMXYyTmdORVl4d1BhRUN3RW5Zd0FXcGpjT1NvRk5fSG9md2wxaEdIT0d30gGiAUFVX3lxTFBoYVUwdVZpN1VjbnduYlptZ3dMY01QT0JQN0hpMnFqcExhQnZqUWMteFNNeS1FdnhOU1NxeDEwQnB0dkNUWHJjLVRiYUdTWlhIVW5QYlBuMmRWY01abnJBdVlKSVpHTG1mV3J6eHlKclcxNFRJYUJHbU5KTUlRU2VMWHNZbEE2Tm5wcEZCWkFaaXdoNi1mQW1qV3Q3TkV3cWNNUQ?oc=5",
+      "source": "KOTA Territory News",
+      "published": "Thu, 08 Oct 2026 21:16:00 GMT",
       "category": "material",
       "categories": [
         "material"
@@ -1654,6 +1690,22 @@
       ],
       "tags": [],
       "market": "KR",
+      "priority_score": 5,
+      "priority": "C"
+    },
+    {
+      "title": "Fire Prevention Month: Colorado Springs firefighters warn of lithium-ion battery dangers after house fire - KKTV",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTERzME5IZGIydXk2R1VPUXc3WkJSZy1zdzJnSGNLNnpXaTZkRDFyNUMyR3NxSS1LMTVPRVRraDl3YUhtV3F6MF95ZkJ1RGg5aHptYXZvWmFjM2pBX1VTc1hVY1UxbEpRejRXSTNNMkRTc19rZm1ZSW1qTnd0MHJ4cTJBMkI1UWRzYjByZ2RVeTMzQ0lzTjQyYzIwZ2dzczN1ejZXLUtnQlVTQmNsMEFGZGY0czZiYlJOemt2YVV0YTdVWjZKOThQdFdBYzNQVUnSAeMBQVVfeXFMTkllak5CbHhpa0lTNmgtZEpWclhrQzQwYUoyTUFHb0VsdzJBbU5RMVV6ZnROWmY4ZUo0VzBFQ0JBak1qSWFrUnZFN3B5MXJoUWdKQmNtbzRZblIwbzRJc2xjQ1p6NFZkdG9rR0tHd3Y0MFd1a2ZXUkpQM0l3SDJtTW9RT0ozYUpMY2tZWTExdVhCVmJ4dmFmNU5uQkRaZ0RUaHJMRU1wS01DLWFsRjF5MWx5c2l2QUgxMWRRbUxzOEdBbFBiNmdlX0hrcXJoTVJkVlJhbG9fRmNvX285VWV2VktyQnc?oc=5",
+      "source": "KKTV",
+      "published": "Thu, 08 Oct 2026 17:40:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ],
+      "market": "EN",
       "priority_score": 5,
       "priority": "C"
     },
@@ -1688,16 +1740,18 @@
       "priority": "C"
     },
     {
-      "title": "전기차·ESS가 쌍끌이…LG엔솔, 3분기 실적 신기록 - 서울경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NLXB1U19LMll4QzVEYXVNWFVvZXhEREoxOWFqQllNUDl1b1VBRGpzOWJYUTJOa3pDd1FqYWpMLXRqWE9SN3llNEc2OTdydnZyTVHSAVNBVV95cUxOZFpCZjNTbFVBSEtlUFhkaHFVcWRqQmxzdFpjZ0ZsSUl5MTBIanl6WHRtTlJ2U3plLWQ0WmU3NHRET2RfU2RzZ1FUZEFYTDVZMEYybw?oc=5",
-      "source": "서울경제",
-      "published": "Thu, 08 Oct 2026 09:18:50 GMT",
-      "category": "customer",
+      "title": "Lithium - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fRWVKcDNUeGdSeE82cU1fUFVjLUZtSUdSYVRLT3hQa054Z3BqZ3NNRFNCcW9XcnloUlZMTEd2UDhZY21hX3M5cFFEOGkwMXFZT1FpNWlXeGgyZw?oc=5",
+      "source": "Department of Energy (.gov)",
+      "published": "Thu, 08 Oct 2026 13:13:59 GMT",
+      "category": "material",
       "categories": [
-        "customer"
+        "material"
       ],
-      "tags": [],
-      "market": "KR",
+      "tags": [
+        "Lithium"
+      ],
+      "market": "EN",
       "priority_score": 5,
       "priority": "C"
     },
@@ -1718,30 +1772,17 @@
       "priority": "C"
     },
     {
-      "title": "LG엔솔, 3분기 영업이익 7560억원 기록..전 분기 대비 567% 증가한 이유는? - 데일리카",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMR09JXzBfSzA3M2xkeW9PZ0hhR2h0SjBtcERHb1d1M2w1SkJ1ZEhUTjByWjFhbnlaU040dm9KZ2VsT0s3dk9KaDU1Z2l0d2R1MVNPSG0ySi1YQ3RvWmZCQmhSUWFsdlVuMjZWbE9GUXlycDR6YVE?oc=5",
-      "source": "데일리카",
-      "published": "Thu, 08 Oct 2026 03:51:50 GMT",
-      "category": "customer",
-      "categories": [
-        "customer"
-      ],
-      "tags": [],
-      "market": "KR",
-      "priority_score": 5,
-      "priority": "C"
-    },
-    {
-      "title": "Oregon fire officials warn of growing lithium-ion battery fire risk - KGW",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTERCbjBleTRfdmVrYURndUxMR2MxTlpYUVBoZHBLcEVXYTNPTVBtb29wTzdJMXlQLXhtdEMzZFEybTFyYVZySTRvOThWdjZZNjVqV3UwTmFGN0M5OGU5QzhaY3Q1anZta0xoY3B5cXJnV2t3UWsxZTZ4V3AxcldpbHc0b1ZTeGlWbzR5VkE2dUNLUnRweXAtM1U4S2laclRRTG5xSENBMHlBRWNNUVU2Y1NDLWJGVEFtWkpDUWhFWEtsbS1ZRU5yTzhFQUVRUEZfcUJiZVVYcXFBZEpBbU9yLTJaRWZKWFFMczN3?oc=5",
-      "source": "KGW",
-      "published": "Thu, 08 Oct 2026 00:49:00 GMT",
+      "title": "American Red Cross shares tips for avoiding lithium-ion battery fires as part of Fire Prevention Week - Standard-Examiner",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU0hHNzcydjktdG9zbGRGRFlWVDREbDY4Yl9fLWhFRDg5cDMxd3hFcmhhVlA4VVlJX0hpN0FUUTI4ME9TREN0NWl4cG5MT3B3TVhTQnpzWUdTc21pdUpmek1YN01KNHN2RXBOM20tMzFwOFBMYmxnQWtRbkFvU0J2VTUwbkQ1VTEtZlNSTXhvNGNTbEtRTmNEcHJidjZKX1M3aldwVERxaVRZUUpnUEFnSGtJZU5lUWZSei1PSHZtVGx2SU91ZU5oRUxFd08xWmMwOFhqeHhxYlNiRkxF?oc=5",
+      "source": "Standard-Examiner",
+      "published": "Thu, 08 Oct 2026 05:11:38 GMT",
       "category": "material",
       "categories": [
         "material"
       ],
       "tags": [
-        "Lithium"
+        "Lithium",
+        "Market"
       ],
       "market": "EN",
       "priority_score": 5,
@@ -1776,39 +1817,6 @@
         "BYD"
       ],
       "market": "EN",
-      "priority_score": 5,
-      "priority": "C"
-    },
-    {
-      "title": "테슬라, 3분기 판매 시장 예상 웃돌아… BYD와 배터리 전기차 격차는 더욱 확대 - 다나와 자동차",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPN0plZ3ptT3prTDdYYnhDZ3Y5RnhZOHhYeUZTbk5tZWdvSVpWTFZhdzdKOTROalV2dHhPVmtsbGg1VENaSVdjd2tpTEgyajRvM1VBN0R4dFdFN1ZUYXlyS2tMeVZLWnpYNWV6T2JPdy1ac3NwNUoxMkt3LTB3RGU5cWZyRkF3WmZRMFdBV0R4ZW5WZkktTzFaTnh5QVFBUThDMk9wdUpkOWtCa0QzYlU5Mmh6ekNkakszRFZuNlVTVVJ5emRuQVdrWEFRb0x4bTRQRUlHMWNUWkxYMHljYkRQNUdzV1ZVbW54UXEwYUZnVXZFVjBwYVozNmc2bWszZnRjVHFuYXhqWXRKNUQzb2FvVi1B?oc=5",
-      "source": "다나와 자동차",
-      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "category": "customer",
-      "categories": [
-        "customer"
-      ],
-      "tags": [
-        "BYD",
-        "Market"
-      ],
-      "market": "KR",
-      "priority_score": 5,
-      "priority": "C"
-    },
-    {
-      "title": "[10.07] 스즈키, BYD 배터리로 경차 EV 가격 승부 - 네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1RpX2Q3YmFhYmFURk81UzZlalRZcTRiSmhRbWtibnl0N2ZCanBZLVFWNU1ScVZSZmlMR2JJbFJRY0xHNmsxd2ZTVkNlRDlrNlc3SUJ5X0FCaXF3UlR3a0k0dUx2RHN4Mnc5UUUwWmViLU9SNnNocGMxd18tcWY0d3F2RnZMMV85YmNVemNR?oc=5",
-      "source": "네이버 프리미엄콘텐츠",
-      "published": "Tue, 06 Oct 2026 23:26:00 GMT",
-      "category": "customer",
-      "categories": [
-        "customer"
-      ],
-      "tags": [
-        "BYD"
-      ],
-      "market": "KR",
       "priority_score": 5,
       "priority": "C"
     }
