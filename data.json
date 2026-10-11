@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 05:45 UTC",
+  "updated_at": "2026-10-11 12:48 UTC",
   "articles": [
     {
       "title": "포스코퓨처엠, 삼성SDI와 6조원 규모 LFP 양극재 장기 공급계약 - 철강금속신문",
@@ -123,6 +123,22 @@
       "priority": "A"
     },
     {
+      "title": "SERES expands CATL in-plant capacity layout and ramps up overseas charging infrastructure - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PbV9UbmRWaUhMVktkN256TUFHU202YjhRU0JYTWVxMWNIcDEzZDNaUS1OSy1YZHMxSzVVVkRoQnMzdHU3Y1ZCeExWVTVOSDlSdmdNaERxMFBIdmpZYU1CVGhUN1h5T0dsOWtzZ3dHNjhGX2N3Z2c?oc=5",
+      "source": "BigGo Finance",
+      "published": "Sun, 11 Oct 2026 04:55:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "CATL"
+      ],
+      "market": "EN",
+      "priority_score": 15,
+      "priority": "A"
+    },
+    {
       "title": "CATL signs long-term strategic deal with Seres to expand Aito battery capacity - CnEVPost",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb1RwMDItSU9sdUhuWXMyNi1aMXMzaVNiZWM0elRuelRDR0RIbVhUZ19LaUd6SGx6QmowZG10dmtuNzlBcXpKaUlxNEh1SHVPckNETjI0cWZndjdGWGdlVVY5WVh6cndkQ1hRbEQyM0lBVC1kVkxPM1VxU2N0UVFqT0lyaw?oc=5",
       "source": "CnEVPost",
@@ -174,43 +190,6 @@
       ],
       "market": "KR",
       "priority_score": 14,
-      "priority": "A"
-    },
-    {
-      "title": "CATL surpasses LG Energy Solution to claim top spot in global battery patents - CarNewsChina.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOW9qQklDcUxnVWhpRXlCakZPQzhaSTdVY2dWZHdDRHZrdlFOcEItZWs4cjQ4TEFtZjZCbk5KRUh0X3BVMm1PZFUxZXBIVmFlLUo1Q0kydmwxNmpnT25JWUVsajB3MnNVTzNQYmk4VFJCckQtaV9HMmRveG9Oc05oQUNOU3Q3bDFlR2VPS19VSXpYSU1kdFRWUXc4TVFHUHVkMndiZzNMdVpTWWlIUzVnOVJLX0M?oc=5",
-      "source": "CarNewsChina.com",
-      "published": "Sat, 10 Oct 2026 08:18:00 GMT",
-      "category": "customer",
-      "categories": [
-        "customer"
-      ],
-      "tags": [
-        "CATL",
-        "LG"
-      ],
-      "market": "EN",
-      "priority_score": 13,
-      "priority": "A"
-    },
-    {
-      "title": "LG에너지솔루션·삼성SDI 주가 강세… ESS용 LFP 배터리 공급 확대 호재 - 핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qaDc3TTIzMHlGaTV6c3RITlUtREtSSk4yaHNPbTVhdTYwYldyVTVaVnRRSWRlQkc2STBzR0xTNW12eUp0NzdkaHpBWVVvRGlxU2VEQ0ltT0wyOFl2UjktMFpUNTVyb3dwSC1DMVFDc1dtV1XSAXdBVV95cUxPZS00eTdjbXlnN3B2eVBUUHJ3QXlaTzh1N1lGajIzdlhIc09ESlJaQVpESzc1LWNBd3liVWhhdlM3QUdiaGVDbXFSTTZfT2lXWkNHZmRDc2dVQUloRTVJRTdqenp5dUZqNU1KSTdoT092eC1oaUtacw?oc=5",
-      "source": "핀포인트뉴스",
-      "published": "Thu, 08 Oct 2026 01:39:38 GMT",
-      "category": "material",
-      "categories": [
-        "customer",
-        "material"
-      ],
-      "tags": [
-        "LG",
-        "Samsung SDI",
-        "LFP",
-        "Supply / Order"
-      ],
-      "market": "KR",
-      "priority_score": 13,
       "priority": "A"
     },
     {
@@ -370,11 +349,11 @@
       "priority": "A"
     },
     {
-      "title": "포스코퓨처엠, 삼성SDI와 LFP 6兆 계약 '잭팟'…공급물량 2배 - 블로터",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56eEZRVklnSzEzLU9KRG9hTldpN242VmpMWkxpSVV4WXFJM0paR21EdzFXVmJhWjYzZGc5SEUxbmVaUmxPZVpPUUh2MlFOWVJTUUdzUl9KWFEzQzMxY3QtM0RHc0lFQlFO0gFsQVVfeXFMTXRmUTZkQV9ocFJSbDhlSVFJdGw5MjlHTVdKUUszS0dsVW9VOFVRQVYtbHRMOXhiZ1ZpOTMyUW5YdGRHbUpKeWxzSzRYa2ZBUlBwS2pBZTdldVYzOE9yTFdVRWFoaWFkVFlST3ZM?oc=5",
-      "source": "블로터",
-      "published": "Tue, 06 Oct 2026 08:58:31 GMT",
-      "category": "material",
+      "title": "Posco Future M signs additional W6tr LFP deal with Samsung SDI, pushing total supply contracts to W21tr through 2032 - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0Ym5jMHB2TXVmNURYNGVvVjJlTUczanZpb25DREI5SUx0Vl9tMFUwdjI2SnJfejFXdDNNcmRzbU5LajUzZDJ4QzRWaTdyX1dyS2UxRHdLdw?oc=5",
+      "source": "헤럴드경제",
+      "published": "Tue, 06 Oct 2026 08:39:56 GMT",
+      "category": "customer",
       "categories": [
         "customer",
         "material"
@@ -385,9 +364,48 @@
         "LFP",
         "Supply / Order"
       ],
-      "market": "KR",
+      "market": "EN",
       "priority_score": 13,
       "priority": "A"
+    },
+    {
+      "title": "POSCO Future M, Samsung SDI Expand LFP Cooperation - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkxWMURDbF8wOF9mRWY4VnlQa1lSYk9UV1lEODdLR3R5ZkstQUdRV0lPMlcwQmxXcDVLYmJ5a3dGSkZUSzJDN1ZYUElWN0l4cFRiQy1BRVc3cTdNdm84djk1QTVyWEZmVjN2MXRFdVphUV9fQlFBekFKR3h2MFI5bVNPU2dDci1B?oc=5",
+      "source": "조선일보",
+      "published": "Tue, 06 Oct 2026 08:37:10 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "POSCO",
+        "Samsung SDI",
+        "LFP"
+      ],
+      "market": "EN",
+      "priority_score": 13,
+      "priority": "A"
+    },
+    {
+      "title": "SK On Builds Non-Chinese LFP Supply Chain With POSCO Future M, L&F - 한국금융신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6ZE9vck41LURKZGd4bWpPeEJXVldMcTNxOGpBT2xvMkZBX0g4V0huQ2ZraFRWcm95LXNiUFRwbTJGN1N4ekNXLXdCb25Hd1doRUNfY3RkRTIxNWRCaEY0Qk1tZWhjR2F5RW9PVzhNTEJ5VjUwRDVmNDlFNVY?oc=5",
+      "source": "한국금융신문",
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "POSCO",
+        "L&F",
+        "SK On",
+        "LFP"
+      ],
+      "market": "KR",
+      "priority_score": 19,
+      "priority": "B"
     },
     {
       "title": "엘앤에프, SK온에 LFP 1600억 규모 공급…삼성SDI 이어 또 수주 - 지디넷코리아",
@@ -471,9 +489,9 @@
       "priority": "B"
     },
     {
-      "title": "SK온, 엘앤에프와 1600억 규모 LFP 양극재 공급계약 - thecommoditiesnews.com",
+      "title": "SK온, 엘앤에프와 1600억 규모 LFP 양극재 공급계약 - CNews",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01cnN2V1FoRDl1VE16WUlkV1JQRHdRSkJnNkUxVUR1dlg2RG42UDY3NGE4d1A4b0N6YmhNUlU2bHJ2Szh0M1JuelYzMjAtZVd0SkxuekhveWpWVms1bjc5aFktQUVjMkQ3dXFIV3czMkdSdGFpZkRR?oc=5",
-      "source": "thecommoditiesnews.com",
+      "source": "CNews",
       "published": "Mon, 21 Sep 2026 05:52:45 GMT",
       "category": "customer",
       "categories": [
@@ -492,7 +510,7 @@
     },
     {
       "title": "엘앤에프, LFP 수주 1.8조…비중국 공급망 선점 부각[애널리스트의 시각] - Daum",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tdl90VEJNQUtYbnZpUXBvTEptY1ROeW9JQ0VDWTMyQjFUX3ViMUg0bGVWZ3ZydHlMSnBGYjBzT0pEMWJXQlFTSWR0TVhGM052YnRIXw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZZFFrekFSM2F0SHQtajBYc2xCZmU5d05hTllVdGlMRjIyQV82SWFYUVdENWJsNWVJd0xnaXdESnpQV0FhcVBCT2EwUQ?oc=5",
       "source": "Daum",
       "published": "Fri, 18 Sep 2026 07:00:00 GMT",
       "category": "customer",
@@ -550,10 +568,10 @@
       "priority": "B"
     },
     {
-      "title": "포스코퓨처엠, LFP 양극재 잇단 수주…SK온과 1.1조 계약 - 한경매거진&북",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kN3U5S1pYZGdvbVctMDViQWJHXzJ3RU9INjhyZ1RvQWhTWVpLamJfZzNINC1hUWhER0FjMHgwejlrUHBHd3QxTU5IYjE3cnA4U3Z2bFg2NG5WRG5CRHhSQjdwNGVTYWxzRG15Mw?oc=5",
-      "source": "한경매거진&북",
-      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "title": "SK온, 포스코퓨처엠과 1.1조 LFP 계약…'탈중국' 배터리 소재 공급망 윤곽 - 리드경제",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzM3M5OUtSaFZPd0xZNDBMSWpFOHdsNVdIY2VhaUg2NHdfSFBBX1J0TDZCYkRyLWtvR0FDcmN1MV95WGdkOXFkamh4QlpDM2ZvNUxJQUdfS1p0T0lyWDBjUzM4bXhjTDQzeXl3d0dzMA?oc=5",
+      "source": "리드경제",
+      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
       "category": "material",
       "categories": [
         "customer",
@@ -570,9 +588,9 @@
       "priority": "B"
     },
     {
-      "title": "포스코퓨처엠, SK온과 LFP 양극재 1.1조원 공급계약 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sQWhzcnd5WjFYc0owSjd4NEdQd0ZuaXRiREdCX0tUVlI5d2FFbGxibXdTVEJYWHZKUWk0VDc1Q203OUphdWRTSy16UUstOFFqeXdXcm5GX1lVWUnSAWBBVV95cUxPc2tiRXBscE9ManFMTWhuU2pSZy14QXlKczdDZHM3dzYxMHktNW50QmkzRFFJZkx0eWN4X2ZKZE81Y0JHYWRETUZrMnhaQWY0aElQcm5HbWsxNjBpS0daUEs?oc=5",
-      "source": "연합뉴스",
+      "title": "포스코퓨처엠, LFP 양극재 잇단 수주…SK온과 1.1조 계약 - 한경매거진&북",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kN3U5S1pYZGdvbVctMDViQWJHXzJ3RU9INjhyZ1RvQWhTWVpLamJfZzNINC1hUWhER0FjMHgwejlrUHBHd3QxTU5IYjE3cnA4U3Z2bFg2NG5WRG5CRHhSQjdwNGVTYWxzRG15Mw?oc=5",
+      "source": "한경매거진&북",
       "published": "Tue, 22 Sep 2026 07:00:00 GMT",
       "category": "material",
       "categories": [
@@ -625,6 +643,26 @@
         "LFP",
         "Supply / Order",
         "Market"
+      ],
+      "market": "KR",
+      "priority_score": 15,
+      "priority": "B"
+    },
+    {
+      "title": "SK온, 엘앤에프서 1600억 LFP 양극재 조달…ESS ‘탈중국’ 공급망 강화 - Daum",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1RzhLSm5oc1hiRE5sWjZ3UlhvMkpXT25KWWpZMDhWSVZIVkVSMFRMRHhMSDlPSGZQTUMxZEVkVXhqcnVhRFZudkQ5S2lKbVNTdERzVQ?oc=5",
+      "source": "Daum",
+      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "L&F",
+        "SK On",
+        "LFP",
+        "Supply / Order"
       ],
       "market": "KR",
       "priority_score": 15,
@@ -746,26 +784,6 @@
       "priority": "B"
     },
     {
-      "title": "엘앤에프, 2030년까지 전체 출하량 4.5배 확대…NCM·LFP 다변화 - Daum",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hdy1RTllmMVdwSjVBS09qbTAxa1B2ODFhQ2lPU2x1NzN1ZjdFQktXakhEdTZfTEJVWG80cTJCa21GSEFDU1R1dFpsclR1aVNQcFJ2Qg?oc=5",
-      "source": "Daum",
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "category": "customer",
-      "categories": [
-        "customer",
-        "material"
-      ],
-      "tags": [
-        "L&F",
-        "LFP",
-        "NCM",
-        "Market"
-      ],
-      "market": "KR",
-      "priority_score": 12,
-      "priority": "B"
-    },
-    {
       "title": "엘앤에프, LFP 양극재 3분기 말 양산…내년 상반기 CAPA 2배 가동 - 지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5scDN1VkFNRnc3dWdmd0J1MFRLUEJFMmh4NlBBQWJhenREdnJxX3ZaMldOcnpSM2VUc1Bkd2p5aHNwSERqc09oejNVNFJQWHV1MXVaT2h3?oc=5",
       "source": "지디넷코리아",
@@ -842,6 +860,25 @@
       "priority": "B"
     },
     {
+      "title": "SK On, L&F Form LFP Supply Alliance Against China - Businesskorea",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JQ1hUSGJsZFNBMFBPWUdZbTZqZTBzYjNsRGFhYWR3QWFZckR6dnhVU1ZFRVBlQmlRWkVHZ1BuazRFYUNEZmhVTDg0ZWU2M3cyZE1oaGIxQ3hqVzJFWGIxWDhLU3ZyUldicS1DbzNWb212RGRV?oc=5",
+      "source": "Businesskorea",
+      "published": "Fri, 18 Sep 2026 03:09:17 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "L&F",
+        "SK On",
+        "LFP"
+      ],
+      "market": "EN",
+      "priority_score": 12,
+      "priority": "B"
+    },
+    {
       "title": "[리포트 브리핑]엘앤에프, '2026 Investor Day: 비중국 LFP First Mover' 목표가 350,000원 - DS투자증권 - 뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoQmwyZHNraklYVjVEbkxRS2V3SzJiTHFGX2xsRUgyNlRnS2I5b0xOWUpqTUplbTJub0hoV055cm96ODJtdFlNaVp0OWEzU1lfcW41NzJ3aDVxdWpT?oc=5",
       "source": "뉴스핌",
@@ -865,26 +902,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QMU1oOGhoc21BM25OV2lRNUFRalo0X0ZEd2ZaY2hVRUxXdXRIMFRBZ0J1Q0dycktuVDViVVNJNXhzUnJkOTdXQ01VdGt0Ri1lRXVNMHQxNTE3UTZOSXk1NEQzMFZLNUNfQ29OSzhR?oc=5",
       "source": "아시아투데이",
       "published": "Fri, 18 Sep 2026 00:14:37 GMT",
-      "category": "customer",
-      "categories": [
-        "customer",
-        "material"
-      ],
-      "tags": [
-        "L&F",
-        "SK On",
-        "LFP",
-        "Supply / Order"
-      ],
-      "market": "KR",
-      "priority_score": 12,
-      "priority": "B"
-    },
-    {
-      "title": "SK온, 엘앤에프와 1천600억 LFP 양극재 공급 계약 - KB Think",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RLVBUa2YtVVA0cWhoSW1xNXhaenM0SlFXVFpRejRrdFlmczB0Rk5UaFk1YnFWTEh2VmIwd29Pd1JucmVEajhQZ2lTb2VSZkNHbjhZeTJwZDFrQlRhWVpoaVl5MVlaVGl5OHF1LTNtaXZ2UQ?oc=5",
-      "source": "KB Think",
-      "published": "Thu, 17 Sep 2026 23:34:24 GMT",
       "category": "customer",
       "categories": [
         "customer",
@@ -1017,6 +1034,25 @@
       "priority": "B"
     },
     {
+      "title": "LFP로 재편되는 ESS 시장···SK온, 3차 입찰서 반전 노린다 - 뉴스웨이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fYVNMaUlVSFpaTDFocDdJNnlaLWZCYUF1RnlPd21YY1NrZVRBcFR6MXA1eU9ubEZtVVFXdDg2RjdOTW1JUTc3UnhPY0RNbnFXRGtGLS01WXJUYVRzTmtJZlVZV3hUdDBITFE?oc=5",
+      "source": "뉴스웨이",
+      "published": "Sun, 11 Oct 2026 07:37:25 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "SK On",
+        "LFP",
+        "Market"
+      ],
+      "market": "KR",
+      "priority_score": 11,
+      "priority": "B"
+    },
+    {
       "title": "엘앤에프 투자분석 2026. 10. 09 - 주달",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZWk1NNm9sQzNhbnlUcDgyOVlhYnI1d2U2dWxLZlpyZ0x3cUEwVUs0MEFqYlFHdE9fYXRabzZSUzY0ZGw5aGl3R3RVaWVIVE1hM2pTSWhudmRTbXd5aTJ2eks1YVFubG16UFJnTUU3SWVuZFk?oc=5",
       "source": "주달",
@@ -1051,10 +1087,10 @@
       "priority": "B"
     },
     {
-      "title": "LG Energy Solution tops 9 trillion won in revenue for first time in earnings surprise - Korea JoongAng Daily",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcFZNdXlmTUx1Wk55a3QzdDVmZHRCYW03X0tDM1czQk9ENWpmLVl3anoyNnY4R0NVeWJSajExSU1MVEZCY2NXb2FRUGRKdUxDLWxxdEhUQ3dHbnF2LTJld1pqbWdkX2VxYjlDT29Sajl4aFozR0RTNDg4VEV0WUk0dEIxVXdRaXBOelJaUmx4ZVpOd3NDTXpCNmVtaXNsS2xFOTdhZG51dU94MGQ1cUdINjZFUzFTMDRxVW5XX2hsNXFJZ1p6TUg5YzRlNWp1NTNyMnlYWA?oc=5",
-      "source": "Korea JoongAng Daily",
-      "published": "Thu, 08 Oct 2026 09:01:30 GMT",
+      "title": "LG에너지솔루션, ESS 생산능력 확대 힘입어 3분기 영업이익 567% 증가 - 전기신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvNkE4NUwzNkVQTHpHUlVscjB0NnpBM2s0azhNMEdBczV1NXptUGVMZG5SblNzdVFORWdkX1ZxTk8wTV8tdkc1R3FESE9DQWwzNXY5azF0NFk2QWg3dFRxaE5IYzZfd0tSNVdkcdIBcEFVX3lxTE1MbnZoUC01SGpmM2hidzVIZEhpbTVFZ2VqeHJ0M09CODd4ZXBxUjRkUjJtakhsODk3WmYtMGtfckgwejM3enRoLXNRQjFSbzJPaHJkdGdVMkRzQ0NRSzZGVFQ1T1U4VlNfY21UNG5yaTg?oc=5",
+      "source": "전기신문",
+      "published": "Thu, 08 Oct 2026 05:55:30 GMT",
       "category": "customer",
       "categories": [
         "customer"
@@ -1062,7 +1098,7 @@
       "tags": [
         "LG"
       ],
-      "market": "EN",
+      "market": "KR",
       "priority_score": 11,
       "priority": "B"
     },
@@ -1141,25 +1177,6 @@
       "priority": "B"
     },
     {
-      "title": "SK On signs W1.1tr LFP materials deal with Posco Future M - The Korea Herald",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42ZDlIdEpqVFV1cXdJSmpJcjN0Tnl3LVc3MTd1ZWZQVUNZLTNFOUJzcDYtaGk5dV9QRDJlSkpFZXQyYld4YllGWlpmZVVzZVN1dWJvTm9ROA?oc=5",
-      "source": "The Korea Herald",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "category": "customer",
-      "categories": [
-        "customer",
-        "material"
-      ],
-      "tags": [
-        "POSCO",
-        "SK On",
-        "LFP"
-      ],
-      "market": "EN",
-      "priority_score": 11,
-      "priority": "B"
-    },
-    {
       "title": "SK On Signs $780 Million LFP Cathode Supply Deal With POSCO Future M for U.S. ESS Push - 알파경제",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvSGRyWUhLVG91d0NHdm9TZ1RTN1EzajdIWUhadVB2RU9SM0hmVU9OcjczeEpZNVk5Y0pJa0ZOLVdXSzhHeWdRX3ZEOC13MnpURHFWWGhwaTBodlBsSUpmdzhUMGNOUTBtN1l1dnlR?oc=5",
       "source": "알파경제",
@@ -1194,6 +1211,25 @@
         "LFP"
       ],
       "market": "KR",
+      "priority_score": 11,
+      "priority": "B"
+    },
+    {
+      "title": "SK On, POSCO Future M Forge LFP Supply Alliance - Businesskorea",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBTlk5cjBSVlVWUlN6eUlHbVBMaWV0WlZXX2JDLW5kWjV4X3hXNi1MWG5UTWY3aWpQUXJyZ29fZjJpWFQzMWpvZlVjVXFiX0U2dmpfTmxRYlRvXzZkdVFtR0NpY3dxbXcydWl1d1lTTm5jV0NG?oc=5",
+      "source": "Businesskorea",
+      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "POSCO",
+        "SK On",
+        "LFP"
+      ],
+      "market": "EN",
       "priority_score": 11,
       "priority": "B"
     },
@@ -1311,39 +1347,50 @@
       "priority": "B"
     },
     {
-      "title": "LFP부터 전고체까지…K배터리, ‘소재 공급망’ 다시 짠다 - 스트레이트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fV09KeTlHbVNnd2RHUGNtRy04TElvT2RCOV9qbWNrbWZ0QWIya2hnejlqcVl5TTJ4dTd5NWlDaEhPa1ZsMEFMeFpmTkY4ajUwUmxIY0hETU5aM05VNGhFWHdIVklaOUtpNUxNLXB2b01NdXNOaU1N0gF3QVVfeXFMTV9XT0p5OUdtU2d3ZEdQY21HLThMSW9PZEI5X2ptY2ttZnRBYjJraGd6OWpxWXlNMnh1N3k1aUNoSE9rVmwwQUx4WmZORjhqNTBSbEhjSERNTlozTlU0aEVYd0hWSVo5S2k1TE0tcHZvTU11c05pTU0?oc=5",
-      "source": "스트레이트뉴스",
-      "published": "Thu, 08 Oct 2026 23:02:38 GMT",
-      "category": "material",
+      "title": "K-배터리 3사, 동반 흑자 한 분기 만에 균열...고객사 보상금에 실적 희비 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50YUdQRHdCMllYRXRXWVNvdEhRaGlaVWpFaU9ReWQzMnBiMjA1dC1rQng4QUxlZmd0UnQ0aEZ1ZUVnbmRDb01VdzhNRlMyUUVaS0t4anRnbExvd9IBWEFVX3lxTFBEODg0WWxfeTlyeDRzMEtlVVNhbVZXSFdoNVNPUk1ucjVBZmVlWEVrYUh1X0xvN0g5R0k2a1dVdjJ2WEFvUTUzU1FybXl4dVBQR3V3ZmhBVDQ?oc=5",
+      "source": "아주경제",
+      "published": "Sun, 11 Oct 2026 09:00:00 GMT",
+      "category": "customer",
       "categories": [
-        "material"
+        "customer"
       ],
-      "tags": [
-        "LFP",
-        "Supply / Order"
-      ],
+      "tags": [],
       "market": "KR",
-      "priority_score": 10,
-      "priority": "B"
+      "priority_score": 6,
+      "priority": "C"
     },
     {
-      "title": "News Content Hub - Corvus-BYD Energy developed LFP battery gets green light - Riviera Maritime Media",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQME14YmlPUG41OXFQbkxBWW9mZGc2NmFhWjhNelZLNFFGeV9qeGRZeE1mdm5FQzgtMXdpMEpiQ3dMbWljWlQ2cTREbG83dlVOeUh3OHFDZEtZYVY4Q3N3aF9ZRkY3TWQ3ZzVMTWpOdnZqa1NUSzhUdFpqNHM3dVE3ZDdXdVU0UVZTZDF0OFNJQjZwZG40NTdHcWpsc05tRWh5ZU1IVXVaMFI?oc=5",
-      "source": "Riviera Maritime Media",
-      "published": "Thu, 08 Oct 2026 11:02:29 GMT",
+      "title": "109시간 만에 꺼진 인천 쿠팡 화재, '리튬배터리 발화' 추정... 정확한 원인은 미궁 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yQkVTWkQxdno4QldfVnZPd0t6amxjUVFFYmVmTkN1bXNIXzNaTnFBanA2bnowWmhTUlgyekZIWXE3dXVqM29WLW1zRU50QjhxbDQ5RVdGMTFsZllPdHZ6SEhRT3dWZnNoSEk1MXczX2JReFnSAXNBVV95cUxPMkJFU1pEMXZ6OEJXX1Z2T3dLempsY1FRRWJlZk5DdW1zSF8zWk5xQWpwNm56MFpoU1JYMnpGSFlxN3V1ajNvVi1tc0VOdEI4cWw0OUVXRjExbGZZT3R2ekhIUU93VmZzaEhJNTF3M19iUXhZ?oc=5",
+      "source": "한국일보",
+      "published": "Sun, 11 Oct 2026 07:50:00 GMT",
       "category": "material",
       "categories": [
-        "customer",
         "material"
       ],
       "tags": [
-        "BYD",
-        "LFP"
+        "Lithium"
       ],
-      "market": "EN",
-      "priority_score": 10,
-      "priority": "B"
+      "market": "KR",
+      "priority_score": 6,
+      "priority": "C"
+    },
+    {
+      "title": "'109시간 만에 진화' 인천 쿠팡 화재 원인 '리튬배터리' 추정 - OBS경인TV",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82dng4UjRPa1RoeUVubkRMUHBGUEJEYnZ0T2UxeHVGWWlrd3RmX0JXbmZOQW9wMzNsWWhkeGhqVXEwZjczTkRVSlM3RjdiZ3BXV19wOWNhakozZDNHMFRZWFV1YWI2XzU4WWhnckZB?oc=5",
+      "source": "OBS경인TV",
+      "published": "Sun, 11 Oct 2026 06:45:08 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ],
+      "market": "KR",
+      "priority_score": 6,
+      "priority": "C"
     },
     {
       "title": "Warning Issued to People with Lithium-Ion Powered Vehicles - MyNewsLA.com",
@@ -1358,6 +1405,22 @@
         "Lithium"
       ],
       "market": "EN",
+      "priority_score": 6,
+      "priority": "C"
+    },
+    {
+      "title": "인천 쿠팡 물류센터 화재 원인 확인 어려워 리튬배터리 발화 가능 추정…국과수 1차 감정 결과 - 기호일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yeEpFbDJrODVndFJPX0ZvVGpHMGVIM1Q3YlpEbEpadFNnQmg4V3phc1ZKQ0ZsN1JsYXlqLUFBa2VOOGVXbkJ4bUh4MmNSbURLV1MtMUdjQVd0Y193ckRQZ0VZYW1Da29leXdrZ05oRQ?oc=5",
+      "source": "기호일보",
+      "published": "Sun, 11 Oct 2026 05:36:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ],
+      "market": "KR",
       "priority_score": 6,
       "priority": "C"
     },
@@ -1378,10 +1441,10 @@
       "priority": "C"
     },
     {
-      "title": "'109시간 만에 진화' 인천 쿠팡 화재 원인 '리튬배터리' 추정 - OBS경인TV",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZWTVlQ245T0l3a1c4a3VLNV9KNUlBWmRWSzBFSGZ1OXNEQjgwa0V0Sl9ZcEVmRl95Q3BwWlRMSHBPLUpqdjd0NmhOdnZSLTlYX24tanpGRnRNSXpUZnNVUVVhN0xFWUJUN1NyS2dR?oc=5",
-      "source": "OBS경인TV",
-      "published": "Sun, 11 Oct 2026 04:19:23 GMT",
+      "title": "109시간 불탄 인천 쿠팡 물류센터…'리튬배터티 발화' 추정 - MTN 머니투데이방송",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YYmMtS2lQQWtEQ0dvbFJCbnNsU1ExcHhOTGlrOGtWV1J2VHBPQi1mNnhqVUdoYVpLS2lzbVpWcG51Y3NoM0VsU1Jya3hXZUpWNFJyWjlVQjllTTVhazdmVDZWaUM?oc=5",
+      "source": "MTN 머니투데이방송",
+      "published": "Sun, 11 Oct 2026 05:27:42 GMT",
       "category": "material",
       "categories": [
         "material"
@@ -1410,22 +1473,6 @@
       "priority": "C"
     },
     {
-      "title": "리튬 배터리 의혹, 인천 쿠팡 물류센터 화재의 진실은? - 공감신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IWHJKRmphdEpCV3FYeXV2V0xMWC1hTmNSZW85c1hjWlBsbE5tV2ttWk9kVXd0TWdUVWJPX1JaQk9yRlNuMTUwV2QxWXYyQjZYTEItekZlbUlJbTRzZHY0OGNkLTUxT0Fj?oc=5",
-      "source": "공감신문",
-      "published": "Sat, 10 Oct 2026 23:29:51 GMT",
-      "category": "material",
-      "categories": [
-        "material"
-      ],
-      "tags": [
-        "Lithium"
-      ],
-      "market": "KR",
-      "priority_score": 6,
-      "priority": "C"
-    },
-    {
       "title": "BYD 고급 전기 세단, 코치 문과 고체 배터리 기술을 갖춘 카메라에 잡힌다. - VOI.ID",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBiczFrYzkxakkzRnZ6QWJpWGVxSWJtTFVaQm5laEJWUW9oenJUdlhEMDAtOU05OXJTN0NTLUVHeTFaajBf0gFCQVVfeXFMTUg5aFJTY0FEbnFGTXZ6MFZHV2ptbm9LRjM4eVZIOUdMVmlIdlVyeHd6dlFBVFctVUFGTkVJWkdRRC1B?oc=5",
       "source": "VOI.ID",
@@ -1438,6 +1485,22 @@
         "BYD"
       ],
       "market": "KR",
+      "priority_score": 6,
+      "priority": "C"
+    },
+    {
+      "title": "Solid-State Battery Industrialization Accelerates: Chery Launches Equipment Tenders, BYD Targets 2027 Vehicle Installation - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BTGRKcjlGcnctQzdISWRscklpYUdSVi1tYzcxem5iWG1Dek5ob3ZHYTlSdXdyZEVMV2dhd1FDWVVCWGVlZzlhWU01d1pkbndMeFE2al9zcllaYnZhOFFqOElKaElfN0FzamNyOHd6MWlnWWxNc2c?oc=5",
+      "source": "BigGo Finance",
+      "published": "Fri, 09 Oct 2026 10:05:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "BYD"
+      ],
+      "market": "EN",
       "priority_score": 6,
       "priority": "C"
     },
@@ -1458,93 +1521,82 @@
       "priority": "C"
     },
     {
-      "title": "원료부터 소재까지···공급망 재편 나선 K배터리 - 시사저널e",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HR0VzSU5ZbDY2MlRxSDEzS3kxajdwbkpJT3BzSWxHTmhwaXRZSzdRQ2NqOXJTY0hMVFNabEk0SGR3bjg2a0JKZ1d0NkVEOV9waExmZlpoSDlITFZiczFmenF4eHlheGMwS2k4enNfYW1CS043dmfSAXZBVV95cUxNR0dFc0lOWWw2NjJUcUgxM0t5MWo3cG5KSU9wc0lsR05ocGl0WUs3UUNjajlyU2NITFRTWmxJNEhkd244NmtCSmdXdDZFRDlfcGhMZmZaaEg5SExWYnMxZnpxeHh5YXhjMEtpOHpzX2FtQktON3Zn?oc=5",
-      "source": "시사저널e",
-      "published": "Fri, 09 Oct 2026 00:41:35 GMT",
+      "title": "Nano One Provides Update on Validated Feedstock Suppliers for LFP Cathode Production - Investing News Network",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2hDUU1FMzNDQkVwX2ZFejI1cXFSV2tIc3p5OFpnZzU1OV8xTllrSHVNeURlcVdGejlZNC1Da0YtTHpUTHJZR0lkSnUxcXplM1ZhelJIVVlMTWhHVlh2Mkozbkh0NDVXVUt1M1lBWkdFQjF4eUpDbUR1RFFjc19PTXRVVXA2U0F5emMwTzRDT3YxbFVnd2FhWlFlWnZsMktlZzlyZ1dQeVRBUjRWTGhkNQ?oc=5",
+      "source": "Investing News Network",
+      "published": "Thu, 08 Oct 2026 10:33:11 GMT",
       "category": "material",
       "categories": [
         "material"
       ],
       "tags": [
-        "Supply / Order"
+        "LFP"
       ],
-      "market": "KR",
+      "market": "EN",
       "priority_score": 6,
       "priority": "C"
     },
     {
-      "title": "LG엔솔, 3분기 보조금 빼고도 흑자…북미 배터리 공장 재가동 - 한겨레",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5waFZMQTRrb3Jma0ROWGRjS0JYanlLWkN2SUhnclVZZ1J1SDdYc0FWU09VZWtDcUdoYk14enROSmdVbUdpWTJJWnhWdkRtLTU0Z0V6YWF6bGJXa0p6ZUlkNi1iQ2dQR1RkS2c?oc=5",
-      "source": "한겨레",
-      "published": "Thu, 08 Oct 2026 11:31:00 GMT",
-      "category": "customer",
-      "categories": [
-        "customer"
-      ],
-      "tags": [],
-      "market": "KR",
-      "priority_score": 6,
-      "priority": "C"
-    },
-    {
-      "title": "2027년 '꿈의 배터리' 뜬다…에코프로비엠 결단 : 기업·산업 - 재경일보",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fQ1NfQUduN0docGJmWUpkUDZsczVkemFiQUl3TnMtR1NfTkUtUWJVV2ZkNXFkOWtRUkd1dUFjdkNRQTc0bXdwNnk3WQ?oc=5",
-      "source": "재경일보",
-      "published": "Thu, 08 Oct 2026 08:56:00 GMT",
+      "title": "LG Energy Solution Partners With indiGOtech to Explore 46-Series Cylindrical Battery Supply for US Commercial Electric Vans - Batteries News",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYTU2WnR0UTdDTnh3SWFYakE4LXd4OUhRT2MxdklQSzJUc2t0YVpDRUR6clhxX0RZU2dLcmdsbWMwZldGTTZsTDdTSlI0VWZNdTZlOUo5V291dEFpVWlfUkoyMWR0bGl4SkRpUmtJdlRGeWRsRTdxNTZBNWpBeGRFM2J1WWV5VDRPalEyZXQ3Q24tc0dWb2ZhcUxDR2szNUpQUDEtN3kwV0VRQ2hXdnFKQWdJMmdGY05NbnBUd200cGxhUExyUEtHSzRCRGRNVDd4dVQ0MmpQUzlxM013aV9uaml0TEk?oc=5",
+      "source": "Batteries News",
+      "published": "Thu, 08 Oct 2026 10:14:56 GMT",
       "category": "customer",
       "categories": [
         "customer"
       ],
       "tags": [
-        "EcoPro"
+        "LG"
       ],
-      "market": "KR",
+      "market": "EN",
       "priority_score": 6,
       "priority": "C"
     },
     {
-      "title": "“쏘렌토 하이브리드 가격인데 제로백 5초” BYD 씨라이언 6 AWD 4,190만원...전기로 93km - 유카포스트",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zek5IM2xkQ2lncG9aN3VEQWRXUWpuQ1VFS0pzNW1MQnREM1I4YU9JVWxZWXhNUzc5WVZIYUhIbGlKOFZHR1lpeU1NUjBGdWRGY1VOVTJCblBwLWZLMlFSNUFNMHRodk15VWxQcmxtVWrSAXRBVV95cUxNQmM4UEFPcG1uV2xzclFhMjdXRnkzNnhUQWNNOW1hSEF1U2VvV0VnR1JqN2JpNTB5dHROMVBISHY5Q20zclF4ZXFNcXk4ekY4a2k0cm5Idld0NkhoOHZzODA3akFrQTNDMTExTnhpZm1Nb0ZtVA?oc=5",
-      "source": "유카포스트",
-      "published": "Thu, 08 Oct 2026 08:23:57 GMT",
-      "category": "customer",
-      "categories": [
-        "customer"
-      ],
-      "tags": [
-        "BYD"
-      ],
-      "market": "KR",
-      "priority_score": 6,
-      "priority": "C"
-    },
-    {
-      "title": "적자에도 국내 생산 늘리는 배터리업계···‘선불 보조금’ 힘 될까 - 시사저널e",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91SnVlWDZhWURidlpLSE9ack13OVhTd3JoWnBPQmJMUDhqYVZGanRHQjBTRjVJV0pXV0dhYm5IYmRkWVExTnZsS0VrX3hIc0xqOGxPdXZjbjNTcV9BZHNDTUU5RjM1dHQ5X0FxZlJ0ZXhmUdIBdkFVX3lxTE00VXpVYks5MlYzSnJmeC1xelJBcTUydW0tUGlOQlRaZHZCUXliWVBSQzRycTYzZ1RCUTFHTnl5WUhYZXVmZEZYWnRSMGpyaDJINFNvS2ZVX2NjRWxmNHg1TExGUWtjZUZEYTdRZUVkbTZKQVYzYUE?oc=5",
-      "source": "시사저널e",
-      "published": "Thu, 08 Oct 2026 07:32:33 GMT",
-      "category": "customer",
-      "categories": [
-        "customer"
-      ],
-      "tags": [],
-      "market": "KR",
-      "priority_score": 6,
-      "priority": "C"
-    },
-    {
-      "title": "유럽은 저가 전기차로 이동…에코프로비엠의 하이니켈 승부 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IdzV4RzhfM2ltT2ZLc20wM3VpZXFVcHdldFI0bmtQWThMX1lraXY4RDl4RU9aM3otUHdaNFRLM1lvY1BENUpzOHdfR0x1TVlWR0x3ZDExaGNtMFVE?oc=5",
-      "source": "뉴스핌",
-      "published": "Thu, 08 Oct 2026 06:41:00 GMT",
+      "title": "中, LFP 이어 전고체까지 정조준…배터리 3사도 속도전 - MTN 머니투데이방송",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kUGhtSXg4bzlSZEpCNkswc3NCS3BwY1lib01yUFRkbjJuckwwSnItNUtLV3E3S1kydTNiNWNDRV9PUDBFZG4xQl8tYnRWc1g1UElQSm1xcGlwanZNYldv?oc=5",
+      "source": "MTN 머니투데이방송",
+      "published": "Thu, 08 Oct 2026 08:45:34 GMT",
       "category": "material",
       "categories": [
-        "customer",
         "material"
       ],
       "tags": [
-        "EcoPro"
+        "LFP"
+      ],
+      "market": "KR",
+      "priority_score": 6,
+      "priority": "C"
+    },
+    {
+      "title": "[B트렌드] K-배터리, 북미 공백 넘어 성장축 재배치… ESS·LFP·신흥시장 승부 - 인더스트리뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52TGU5bk9JSVEwUVQ4d05EYUlGLWRMcV9RYW94OHBMSXAyUGdaaFZuMEtQWmltNzVOcUpwRGNBZEFWNVJiY1JubFNBVVA5MHZsaEs1RFg2U2loZlhZR3gxcVg2YjJDMDEteDM0RkY3WFEtZw?oc=5",
+      "source": "인더스트리뉴스",
+      "published": "Thu, 08 Oct 2026 08:41:34 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "LFP",
+        "Market"
+      ],
+      "market": "KR",
+      "priority_score": 6,
+      "priority": "C"
+    },
+    {
+      "title": "LG에너지솔루션, 보조금 없이도 3391억 벌었다… 분기 매출 최대 - 시장경제신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnZVZwTUFPa3RueDh2NW5CLVFxUk9mc1U4bUhrdjYwRWl1UG85NVBXblltMGd4NkV2NWQycGVFdEN1cWQ2b0hJd0NGaEVrWDhkbGkzajduOXdtTkJKWHE5NmhVT2JKaWpRdHpHWlI4a0M?oc=5",
+      "source": "시장경제신문",
+      "published": "Thu, 08 Oct 2026 08:38:55 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "LG",
+        "Market"
       ],
       "market": "KR",
       "priority_score": 6,
@@ -1578,22 +1630,6 @@
       ],
       "tags": [
         "LG"
-      ],
-      "market": "KR",
-      "priority_score": 6,
-      "priority": "C"
-    },
-    {
-      "title": "LG엔솔, 보조금 빼도 3391억 흑자…ESS 증설 효과 본격화 - 블로터",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hV2dNSnZuYXFyeV9JR2V3NDZPWmpxcUthWUVHUk5pd05YV2Jyc29OZHpHa1g4MmFkZS1QcURKR2htc3oydE5tTi1RNGtWRXgtbUZFSUpOX24wMXBpa0hqN0pUa2taYXRO0gFsQVVfeXFMUHF0MHBnajRNVUJZREVHNjl3TjlrN002VXR5TVlEVG5XUkhRTzk1UDV5RFdnUEJtRG14THJ5eUY5RC1NQy1henU2TERaYmVBMVBta0twT0NCbmpZbXFqRURjOUk5eUpSaDZUSEp6?oc=5",
-      "source": "블로터",
-      "published": "Thu, 08 Oct 2026 01:11:59 GMT",
-      "category": "customer",
-      "categories": [
-        "customer"
-      ],
-      "tags": [
-        "Investment"
       ],
       "market": "KR",
       "priority_score": 6,
@@ -1682,23 +1718,6 @@
       "priority": "C"
     },
     {
-      "title": "\"삼원계 외길 끝\"…LFP·양·음극재로 다시 뛰는 K-배터리 소재 3사 - Daum",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Pb3dJTWs5LU5IYk54NkExa3BMOXIyM0Z0UmZYQlJQclR4NDRMelNpTktKUmU0NVNSTzEzby1KdUNkVHpncEE?oc=5",
-      "source": "Daum",
-      "published": "Sun, 04 Oct 2026 07:06:27 GMT",
-      "category": "customer",
-      "categories": [
-        "customer",
-        "material"
-      ],
-      "tags": [
-        "LFP"
-      ],
-      "market": "KR",
-      "priority_score": 6,
-      "priority": "C"
-    },
-    {
       "title": "\"中 CATL 혼자 39%인데\"…韓 배터리 3사 합쳐도 12% - 마켓인",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xd2kwaUZBMWVLdG1lRVJqOXIwVkk3eFNUbEVHQl9YTFkzQkxjNnp4MEdPcm1XQ2ZNN011RXFXekNMUjBzWi1JbzZwWHR5LWFDZ3UwTUN3aThCS3M4aDlmckI0M0ZaYm9BQW1XMXZrenpDX3M?oc=5",
       "source": "마켓인",
@@ -1749,22 +1768,6 @@
       "priority": "C"
     },
     {
-      "title": "Aramco, 사우디아라비아에서 리튬 배터리 프로젝트 개발 - IDNFinancials",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNbWtST0c4cnhwUHhnVWgta0RjYlAzaGJuZVpxYUNkSGhoUEJtYnlfSmVNWTF6eHRVMEFvbFY5WEs3bjVUQzZobUI4QmJpRTJndWcwYTIzMU9TWlFHQi1oeld1R0htQUVNVGY2STJaYnJJVW5xaTZUR2Y4ZE5ITm1ValowakNwMEtNdUpMajRTWnhOMGVoNHQ5VWNRQndxSmlQdkZpbTZORkVzaWtQaE5qSkZVZV9rWnAtdVM3VGx4VzFfcHJ0SjRFWVVyakZpQkN5Z1I5MVcxMFRWeUluWXFMUWhMVnZiTzB2N1VfdTB1TUxKQUo3S3lianlRdnQ5aUpIbi1tQnFaWlFiOFlMMVVmRnZxdmpLSkpPaXdFRXdNYlJpQ3dSakdZZDBsUXllM2UxVDhVZXpsLTQ0dWJsQVJZbkpwMS15V1ZpR2F3RXhRYlEyb0E2NXc?oc=5",
-      "source": "IDNFinancials",
-      "published": "Sat, 10 Oct 2026 00:00:00 GMT",
-      "category": "material",
-      "categories": [
-        "material"
-      ],
-      "tags": [
-        "Lithium"
-      ],
-      "market": "KR",
-      "priority_score": 5,
-      "priority": "C"
-    },
-    {
       "title": "US, Toyota researchers develop water-based binder to ease lithium-ion battery recycling - Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOamkzZ2tkbTlfQVNUZXBxQkFaeVY0VGVWZWVQWDFIallLX3hXR3dRTWVSbDBmY0ZKWi16SW04SmNYNHRwdTM0NXEtdC0wM3ZTQlVES1ZIRDkxRzUzckt4NTg2REVOU2JyaTlHeVR4VXp2QU5EVmJMdzRpX25ZUGFrQk1CazlIMWFXRFVqakVaZUVBbmZmNnV4Yw?oc=5",
       "source": "Interesting Engineering",
@@ -1781,26 +1784,10 @@
       "priority": "C"
     },
     {
-      "title": "오일쇼크가 낳은 리튬이온배터리⋯반세기 만에 '21세기 대표 기술'로 - 이투데이",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FelA1NnZpbnY3TU5LV1R5Tmp2dURBMkNKRUFWd1pXQU1FN1RLODVKYjV3NHN4T3A2UTFuMVlwQWl4M0tBbkJxTDFZdDFTeHdjZlkwaA?oc=5",
-      "source": "이투데이",
-      "published": "Fri, 09 Oct 2026 21:00:00 GMT",
-      "category": "material",
-      "categories": [
-        "material"
-      ],
-      "tags": [
-        "Lithium"
-      ],
-      "market": "KR",
-      "priority_score": 5,
-      "priority": "C"
-    },
-    {
-      "title": "‘Battery breakthrough’: Researchers use new material to make lithium-ion batteries safer - NewsChannel 10",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTGZtVFUwbWphU2xOZ1RJX3RhaF9SZ1c1bVM3djl0VU4zNU41d0tzS2lnNlhVZ3dmYUhLc3BVVlhKZHdLVEdvR2ZWVXMtb3dHc2J2WDNYWmJIOW8wR0E0YTdraEpqWmFCOUhMR0ZGTHNJOGZZOE1hVDM2TzljbkZIVmNTb2xSbnhobmE5bXFwdEE1cXo4Qmt1X2YzbDFDMHczSk9qRnh5aHV3X1Mxay1ZczlDOEllZFpUUU1KQ05ES0JwUQ?oc=5",
-      "source": "NewsChannel 10",
-      "published": "Fri, 09 Oct 2026 12:00:00 GMT",
+      "title": "Lithium-Ion Battery Safety Reminders for Fire Prevention Week - City of Upper Arlington (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52b3l2U1dYcUFiaUNfeDFZSFpQdUFONFhhUGdURFRVcVdKRFRneGZMZkJPZ0hfZlN1WE0tZEJmaFNvaDdDZ2UxM0Q3Yk50cXZxcXlQVVNRcEFRV09VbjV2ZFMtT3NhVHZr?oc=5",
+      "source": "City of Upper Arlington (.gov)",
+      "published": "Fri, 09 Oct 2026 07:47:35 GMT",
       "category": "material",
       "categories": [
         "material"
@@ -1813,10 +1800,24 @@
       "priority": "C"
     },
     {
-      "title": "Lithium-Ion Battery Safety Reminders for Fire Prevention Week - City of Upper Arlington (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52b3l2U1dYcUFiaUNfeDFZSFpQdUFONFhhUGdURFRVcVdKRFRneGZMZkJPZ0hfZlN1WE0tZEJmaFNvaDdDZ2UxM0Q3Yk50cXZxcXlQVVNRcEFRV09VbjV2ZFMtT3NhVHZr?oc=5",
-      "source": "City of Upper Arlington (.gov)",
-      "published": "Fri, 09 Oct 2026 07:47:35 GMT",
+      "title": "“전기차 안 팔려 죽을맛이었는데”…K배터리 기업, 호실적 낸 비결은 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QaERLQTdjU1lBQkpzQXNua1VsRHI5RU9RWFNSZmVLM3ZkSGhlZTgyNXBVZVZtbXd2MWwzdGlTcHQwZ01XODBfWmRURXk2VTVneHo5SnJ3?oc=5",
+      "source": "매일경제",
+      "published": "Thu, 08 Oct 2026 20:59:17 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [],
+      "market": "KR",
+      "priority_score": 5,
+      "priority": "C"
+    },
+    {
+      "title": "US opens first lithium plant in 50 years, targets 3,000 tons annually - Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sSzhOTENIMGZjdmFtU1NTeU03REp2RjZQOHo4Zi1ZVTMyTkRxVnBEZTlkakUtNmpXZ010X19pN3AtOWNXdk1YS2V1ZFBZLVpUVlk5NUR2OHdhSHlRN2M0LVcydTVicjZYVkZMc2swQTBMRVJuVFRjZkx3?oc=5",
+      "source": "Interesting Engineering",
+      "published": "Thu, 08 Oct 2026 17:51:00 GMT",
       "category": "material",
       "categories": [
         "material"
