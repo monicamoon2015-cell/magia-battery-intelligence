@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23 17:06 UTC",
+  "updated_at": "2026-10-23 21:23 UTC",
   "articles": [
     {
       "title": "엘앤에프플러스 대구 생산거점, K-LFP 新이정표 제시 [현장+] - 블로터",
@@ -98,10 +98,10 @@
       "priority": "A"
     },
     {
-      "title": "[中 거인의 공급망] ②나노 LFP 양극재 강자 '덕방납미' 없으면 'CATL'도 없다 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92OWtoU2pIcVlMWFpfV0wySVBjd3RsSTRqTEJTTnJlQ20taUZDVEp6aGdJbFAzRnNVMG9jSElKT2NSTmFMZ1Q1SXhZOW5oY0QtZ3hFY29iTVlCMG5X?oc=5",
+      "title": "[中 거인의 공급망] ①나노 LFP 양극재 강자 '덕방납미' 없으면 'CATL'도 없다 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aQVA1di1uUnBtMEo3em1oRjZQSEVtTnNWNGFwMjM0QUFUdG9BTHk0TXNkTHJ3MzlGUDJ1X2haSG9NVDF5MkhtMmRIdEFUSXdNUzNlOG5CenpwTGZD?oc=5",
       "source": "뉴스핌",
-      "published": "Fri, 23 Oct 2026 07:23:38 GMT",
+      "published": "Fri, 23 Oct 2026 07:03:32 GMT",
       "category": "material",
       "categories": [
         "customer",
@@ -114,23 +114,6 @@
       ],
       "market": "KR",
       "priority_score": 16,
-      "priority": "A"
-    },
-    {
-      "title": "China-made LFP cathode material substitution begins… Domestic production capacity to increase by up to 330,000 tons - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLeE9LdXRzOVJNTXhnVnA5d29xRnhjSjhsd3UzWllWRGxiUi1nN2stcHhJUzVDbFJlWlJQMUF0RXJHQ0RqZllabWRwWC1GSGZGb1dhQ1BxREVkN2x3ZjI1cFBBNzZnY2hrQjUxbGkyMDU?oc=5",
-      "source": "머니투데이",
-      "published": "Fri, 23 Oct 2026 00:20:00 GMT",
-      "category": "customer",
-      "categories": [
-        "customer",
-        "material"
-      ],
-      "tags": [
-        "LFP"
-      ],
-      "market": "EN",
-      "priority_score": 14,
       "priority": "A"
     },
     {
@@ -147,6 +130,24 @@
         "Samsung SDI",
         "LFP",
         "Supply / Order"
+      ],
+      "market": "KR",
+      "priority_score": 14,
+      "priority": "A"
+    },
+    {
+      "title": "포스코퓨처엠, 분명해진 LFP 성장…속도내는 생산 확대 - 데이터뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBac1BYTHdTUUgxQ3BVZ1AxVUhaVlZ0NlEwR2VxcVFIWkduazBMbk5Ydlh1MXFZcExXSkRVMlYtLUNON3piTmVFRFpVRW1meVNPLWoyQ2pOMzR3bGJabTYzSHhGekQ?oc=5",
+      "source": "데이터뉴스",
+      "published": "Tue, 20 Oct 2026 23:50:23 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "POSCO",
+        "LFP"
       ],
       "market": "KR",
       "priority_score": 14,
@@ -209,26 +210,6 @@
       "priority": "A"
     },
     {
-      "title": "삼성SDI와 6兆 계약 맺은 포스코퓨처엠… '中 장악' LFP 시장 공략 속도 - 파이낸셜포스트",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XSHB5UldQREp0NENJbVN0TWhfNW9KLWdJemJobUxVdlpYN01tcktEUGZTTVc3bmwyTTJIOV9WOS1xREx3aVViemt1YVkzdGd5RE8tT1NZaG5YekNqdkZwVEN5bXZIb2l1cUtiYTlhdk5WNUN4?oc=5",
-      "source": "파이낸셜포스트",
-      "published": "Sun, 18 Oct 2026 08:30:00 GMT",
-      "category": "customer",
-      "categories": [
-        "customer",
-        "material"
-      ],
-      "tags": [
-        "POSCO",
-        "Samsung SDI",
-        "LFP",
-        "Market"
-      ],
-      "market": "KR",
-      "priority_score": 13,
-      "priority": "A"
-    },
-    {
       "title": "[中 거인의 공급망] ①양극재∙전구체 공급 '완룬신에너지' 없으면 'CATL'도 없다 - 뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CT3g2eVNWalUwYzBzSUtkcEZhenlWMWlVSzVpcWM0YzhtcGVXZXdlRDJvTC1jOWZseFRKN3hqZ2NOTWk2MEhUVU5ZZnQtaVFuX0N6WVNYMnZ1X21j?oc=5",
       "source": "뉴스핌",
@@ -266,7 +247,7 @@
     },
     {
       "title": "엘앤에프, 초격차 투트랙 승부수 ‘하이니켈·LFP 양극재’ [현장+] - Daum",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5fTklXbW4ya0lMRXVnLV9kaDdqYkgtaTdBekJ0WFZUYXBXekRoVXFIb2VTRVd0UkdrYS1ISnlldE5NUlpmRnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uNC13SENDNmVrd0xENU1qRkROMHFXc1NBdnNibldWNURuZmRZRWw0Y1JNZXl3dVBIbURnaV9OV2xZbjNEMU0tb2Ywcw?oc=5",
       "source": "Daum",
       "published": "Wed, 21 Oct 2026 07:24:09 GMT",
       "category": "customer",
@@ -559,9 +540,9 @@
       "priority": "B"
     },
     {
-      "title": "L&F clarifies LFP deal: what it means for L&F stock - ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZm5vV3VxM3VCLVR1NFVuclpUdDRCUVJTWUdhMy1CWTlmbWNkdDdJd0p2UzhRU0RLZkpQcVZxTWJ0QlFRajBGSUEydHhtdDVuMk1JSk1lYXZ0Nko2d3lZVWc1c2NKRnpQdldPRWN6NGhRbnpPaXlZejE0VjgtY1M1bWdjb3A4Tkw4Qy15dU5hLU85TjljR3REeFA5bXZLdExEbk0yTXpPUVg3b1YxYTU4NWlnMW1leTNr?oc=5",
-      "source": "ad-hoc-news.de",
+      "title": "L&F clarifies LFP deal: what it means for L&F stock - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVjhsWFdUYWdBSW53azdmeDFUd1NJdE1kcVJ3UWV1ZzR4XzVFam0waEhPQ1VTNTZNUjR5RC1kOHBoWGU3LU1BLVlYVi01YkNFdEFRdG9sNXBFU2ZBaldXOUhYeWxWVEhQUTNpSnBTd0NlSS01Qm80eG9wN1Z6TjAtMjNrcFZqcEZZSWZ0QkVfd3hJeTZtUGUzcUdJSTBNanB5TXZmVTdsQmlWX2RBVjdnLVFJNnVad1g3?oc=5",
+      "source": "AD HOC NEWS",
       "published": "Mon, 19 Oct 2026 23:35:05 GMT",
       "category": "customer",
       "categories": [
@@ -573,6 +554,25 @@
         "LFP"
       ],
       "market": "EN",
+      "priority_score": 11,
+      "priority": "B"
+    },
+    {
+      "title": "SK온, 차세대 배터리 연구 성과 공유…LFP·리튬메탈 기술 고도화 - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ndE1mRFJlM0xVRnhmTlVXdXdvclM1a2N3VmpjMHA5XzhIRWNKRkhFQ0pURWs3Mm9waWZYVUJ3NEx0blJqX1E5MHVoREVJejRWb2o1WWxGaVFvQ1BsSVgyRWNhUlAtakdq?oc=5",
+      "source": "테크월드",
+      "published": "Mon, 19 Oct 2026 00:44:18 GMT",
+      "category": "material",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "SK On",
+        "LFP",
+        "Lithium"
+      ],
+      "market": "KR",
       "priority_score": 11,
       "priority": "B"
     },
@@ -591,6 +591,45 @@
         "SK On",
         "LFP",
         "Supply / Order"
+      ],
+      "market": "EN",
+      "priority_score": 11,
+      "priority": "B"
+    },
+    {
+      "title": "포스코퓨처엠, 삼성SDI와 LFP 배터리용 양극재 장기 공급 계약 체결…6년간 총 6조원 규모 - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfZm5GSVhYX3R2N040MlEzZUg2dW4xelpNTFM5ZzBKcm8wMER4bms2NFNQNVJEZUVjaGpPMDAxTUlXLXRZZnFWSGFFNTN0eW5jOVFBTkRHdXdYd9IBX0FVX3lxTE1BVy1Ra2N4STJFRjl6V1k1SzNPRDJJQ3FHX0phcFBqVFF2a01INnBxWmxGa0lmWVNpQmZEWmFQQTZzM3F2YjE5UmtoUFdNVFRMY1pyblNKWWxIRGkxNUxB?oc=5",
+      "source": "경향신문",
+      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "POSCO",
+        "Samsung SDI",
+        "LFP",
+        "Supply / Order"
+      ],
+      "market": "KR",
+      "priority_score": 11,
+      "priority": "B"
+    },
+    {
+      "title": "POSCO Future M, Samsung SDI Expand LFP Cooperation - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkxWMURDbF8wOF9mRWY4VnlQa1lSYk9UV1lEODdLR3R5ZkstQUdRV0lPMlcwQmxXcDVLYmJ5a3dGSkZUSzJDN1ZYUElWN0l4cFRiQy1BRVc3cTdNdm84djk1QTVyWEZmVjN2MXRFdVphUV9fQlFBekFKR3h2MFI5bVNPU2dDci1B?oc=5",
+      "source": "조선일보",
+      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer",
+        "material"
+      ],
+      "tags": [
+        "POSCO",
+        "Samsung SDI",
+        "LFP"
       ],
       "market": "EN",
       "priority_score": 11,
@@ -633,22 +672,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qc0JFZDFlZS1USERtSVFuNWdQRGVLLVF0N2ZuVFAzN19rWTJ5ZVlhYk5Zck5JMGdhOGZITk5nbXNlMGNoU0N6ZUw1TUcwU1BWbHhoMDRBMnptR1gwQ09rYUZ3NHRGdFppamU5Yg?oc=5",
       "source": "ER 이코노믹리뷰",
       "published": "Thu, 22 Oct 2026 05:16:40 GMT",
-      "category": "customer",
-      "categories": [
-        "customer"
-      ],
-      "tags": [
-        "POSCO"
-      ],
-      "market": "KR",
-      "priority_score": 10,
-      "priority": "B"
-    },
-    {
-      "title": "포스코퓨처엠, 팔란티어 AI 도입…‘제조 생산성 30% 향상 목표’ - 아시아투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13ZDkzNk54MzJYZXp1MWExdzV0aEJWRVRBSThmYS1JV0tVX3g3ZkZFd1RzclVrbVlCUzFndzltVEVTekVoMTg5ZnVIT0FxY3VWZFd1SkoxRnBjOGRIT2thaGo1ZmVaci1OSEJ5Nm1n?oc=5",
-      "source": "아시아투데이",
-      "published": "Thu, 22 Oct 2026 00:43:59 GMT",
       "category": "customer",
       "categories": [
         "customer"
@@ -819,26 +842,6 @@
       "priority": "B"
     },
     {
-      "title": "L&F Says LFP Supply Contract Not Yet Finalized - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWtfQjhrc3ZLSzNHTGNrdDlOVU5SWnlzbG9tR3FIZFRjdk5yelVSaUZkVWtvT3ZUbV81WFRXVkplM05ISW4zSnhBT2I4dTh3SmRRRml0RzV5YjdKOGZTUGRhM2JETGNVVF9LU3YwS3gwNGw4ZGdoSmIyRFZPQzI4VFBGTmJjVXJZM212cEZsR0w2dnZCOEwwX1BpVnBSVTFv?oc=5",
-      "source": "marketscreener.com",
-      "published": "Wed, 14 Oct 2026 03:19:22 GMT",
-      "category": "customer",
-      "categories": [
-        "customer",
-        "material"
-      ],
-      "tags": [
-        "L&F",
-        "LFP",
-        "Supply / Order",
-        "Market"
-      ],
-      "market": "EN",
-      "priority_score": 10,
-      "priority": "B"
-    },
-    {
       "title": "[단독]LG엔솔, 엘앤에프와 조단위 첫 LFP 양극재 계약 체결 - 머니투데이 - 머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5Z2hLNHZmeFRVS3huOFhyd1ZCSmh6LW5fb0x3amRKNm9kVW41eDJRR09WbFZFeGtUSXRoenhTMC0tbE9xZ2gxYUkybTg2ancyMkVyZUpyTXQtckJjYTV2Q3ZRMlN5VjVFdXRsMdIBckFVX3lxTE1mUU1ZV2xUZkx2a0R4eFd6MExrcE5RNDhHU1FRaUdWM1VKcjlLYkpPbVJHc2J4RzdSRFVpVHFxR0x5TWdWakdDcndGeVVNZ1M0WE00dzRNLWxCZ0xXTzVodW92ZXhuNmYxallLSkhnZGxhdw?oc=5",
       "source": "머니투데이",
@@ -873,9 +876,9 @@
       "priority": "B"
     },
     {
-      "title": "CATL, BAIC Target 1 Million Cars With New Battery Swap Network - Bloomberg.com",
+      "title": "CATL, BAIC Target 1 Million Cars With New Battery Swap Network - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTFhoZ3lqOWNmVk45ZkNEZVRnN3pjMGlzMnZYdmhkLVRlNGVXb29HTHBTSjRLajdVckxPVDEtZkNsR1hXRmFLMFhqMHRuV1hLNjg4WnZTdlNiNTQxcG1VcTNSbUIycko1TDE3SzZMZVFQZlA0RFdEYm9IMGxweU1MRkY0NTh0ZEFxZUM4UHNaNUt6cTByTk1kTlBmZ1NOdUFfeVVEeTFCVjdlMDZkYkFPbWlB?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published": "Fri, 23 Oct 2026 05:32:00 GMT",
       "category": "customer",
       "categories": [
@@ -939,9 +942,9 @@
       "priority": "B"
     },
     {
-      "title": "하나증권, 엘앤에프 목표가↓…\"3분기 적자 전환했을 듯\" - 매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfSW1IMW9RdHFvU1BRWnU1RlpPYXExVlNscGpSbHpwWXJzd2VMYjBDY0Ezc1kzMmxWck9MMjdfaFExWnFhc2J6RmM1YXZmd2J2eWc?oc=5",
-      "source": "매일경제 마켓",
+      "title": "하나증권, 엘앤에프 목표가↓…\"3분기 적자 전환했을 듯\" - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QajVrZHFEdXRiUmJWanRwM2hRMy1yUFdWcGdIYUxZNHhKT1FvdGluQ292Zk9rNjdKNFMyd3dEYzBfeDI1YnV3V1c3UkRMWmlFcVR5YnF6M3JwWllsVTFIUdIBYEFVX3lxTE5QajVrZHFEdXRiUmJWanRwM2hRMy1yUFdWcGdIYUxZNHhKT1FvdGluQ292Zk9rNjdKNFMyd3dEYzBfeDI1YnV3V1c3UkRMWmlFcVR5YnF6M3JwWllsVTFIUQ?oc=5",
+      "source": "연합뉴스",
       "published": "Thu, 22 Oct 2026 23:32:55 GMT",
       "category": "customer",
       "categories": [
@@ -1044,22 +1047,6 @@
       "priority": "B"
     },
     {
-      "title": "Battery Giant CATL’s Earnings Miss Estimates as Outlook Concerns Mount - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb1U3OXZMUmRSSDZPTy13cm9seDE0dy1kcFFjbFNkV3ctNkFWcnU0dll0Si1TckpxZ2NnbnliWmRUbVZPSVpzVVpUNXlLc2xWcmdkaW9FNFdERXFZeFRrcGM5WE91LUZkVjRtUWFhVXVQSkg2cVpXN1hVVzNYdXFzcjJ1Q1BLbHhhSk9hcnk4NEw4cFZrSFMtdHhNc3ZJdlYwTFBGakZHLWFibk16em5adzFJdGNZQQ?oc=5",
-      "source": "Bloomberg.com",
-      "published": "Tue, 20 Oct 2026 13:56:24 GMT",
-      "category": "customer",
-      "categories": [
-        "customer"
-      ],
-      "tags": [
-        "CATL"
-      ],
-      "market": "EN",
-      "priority_score": 9,
-      "priority": "B"
-    },
-    {
       "title": "SK온, LFP 배터리 제조원가 낮추는 공정 기술 개발 - 디일렉",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBENTN5VTV2QWZfa0o2dk1EZmpOUEpIYlM1eC1HaURzRXFBeERvYlRsODI3Q3ducUlhSUtiX3JjNHU0LXdLakRNcDMxeGNMUEt3Nmt0TmpIUERXWjZwbkFXZExlaWhndw?oc=5",
       "source": "디일렉",
@@ -1131,6 +1118,23 @@
       "priority": "B"
     },
     {
+      "title": "엘앤에프, 글로벌 기관서 '탄소발자국' 검증…공급망 역량 강화 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RVTEtdlB3c2s0NkREWkxKNU04S0hhWUxLNVFSRVNJNU05NTREUDJ2cHlBNXpoSXB1VzN1YWdLRnVZRTV2TWk2Wi1hWVB1M29zS09rdmVR?oc=5",
+      "source": "지디넷코리아",
+      "published": "Mon, 12 Oct 2026 07:00:00 GMT",
+      "category": "customer",
+      "categories": [
+        "customer"
+      ],
+      "tags": [
+        "L&F",
+        "Supply / Order"
+      ],
+      "market": "KR",
+      "priority_score": 9,
+      "priority": "B"
+    },
+    {
       "title": "POSCO Future M Targets In-House Supply of LFP Battery Materials - THE ELEC, Korea Electronics Industry Media",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kLTZ3MDh0TVhvcGkyS1RWckFxNXBXYWtLV3d3ZGxIM1JQSW5vbGtrbDZRRWVFTU5pWnhqZGszX1FIRlk0ZThKa0Y1WUpKX3IxTTl6SGVVRXNHWHp6SzcwS244aEtybTQ?oc=5",
       "source": "THE ELEC, Korea Electronics Industry Media",
@@ -1149,21 +1153,36 @@
       "priority": "B"
     },
     {
-      "title": "On the evening of October 19, LFP leader Hunan Yuneng disclosed an inv - Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNEI3VTY2eDZLTk1jUlVXNFRJbjJxMFZWY3M2eTBHdHVUT1g0UEpZbDJmNGlwcFpQWjhpOFpMek15bkF2X3FqMzdPQjlQZ0RrLVZueExGM2JyYThmLV9QN2MtbjlKNnI2YmgxTlo2MEpLczJjSm5MWktNZHRjZ0s3OU9kYmJZR0tqWFZ2YXp5RUxwbDNm?oc=5",
-      "source": "Shanghai Metals Market",
-      "published": "Fri, 23 Oct 2026 08:40:00 GMT",
+      "title": "Nixa Fire respond to lithium battery apartment fire - OzarksFirst.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00S2h1b2lOaDZqb0V3M1NaV0VEWGJ0dkJZT25MaXl5VDc3VUM4bnRpSE1pOWhyTF9PNzlYMDM0SjNHTGxBMGFYWWJHNm9Ed0Z4Yk13S1hLc3V5czhVb0FWTWlPQ2M2ZXMxT3pR0gFwQVVfeXFMUDFZVjhqblNuc2lCVk42UEUwUERJQjZxYUtsODNFV2lQZmRoMHZfVWhNWmZzNGQ4bC1XRTRrS3FEdXRlSnN4ejdiT2pGZllna1o1Z1R1TlJ0cm44d2F5d3JTWkhjaFBERVNWcHZDOXNnUA?oc=5",
+      "source": "OzarksFirst.com",
+      "published": "Fri, 23 Oct 2026 19:14:55 GMT",
       "category": "material",
       "categories": [
         "material"
       ],
       "tags": [
-        "LFP",
-        "Market"
+        "Lithium"
       ],
       "market": "EN",
-      "priority_score": 8,
-      "priority": "B"
+      "priority_score": 6,
+      "priority": "C"
+    },
+    {
+      "title": "NPS Warns About Lithium Battery Fires After Incidents At Yosemite And Other Parks - myMotherLode.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMlRPQWRJc2FUamgxNnhpaEduWWpMOTk5REVkM2F5WXVxUGFkSE40emhHV3BnZURSY3JZelRUOU9rUlhUam9LeGRtWW1WZmdyVG1QeF9rZklwOF9aejF0RVRBWkpGTGFoYi1RMXp3S1VFSUdjVHh6TkhTVWJwb1drUkhVTDNtRWpZeGtnNkU5UVJMNXlZTE1xbUJGVXR6c2V4eXpmN2ZYamVWMkh0TWtYYkFpYXRxS2pNTWllbjlIa05KeXM1SUZNc18wd9IB0AFBVV95cUxOUkp0X0xCUDJQcWd5TTJuQmtmZmd5NVFDTl9BNHVJYUNtaEEwQzJzOXROV2tNNHMtV0tUa1pReERxdkt2bW1TMGxmR3VGdGJJRHJsaWZYYmtHeTYtVVBZU0hSUUlzbW1ZR0RKM3FISFZMeVdGVHByZWFhUm5TSUxHUnNDTmw5V1Q0TGlzWV9xS09FNkZ2dEl6SlI1aXlTekpuN0xJYmp3cE5oX2dLUDZkN2FYdUhGVFBsY0xyYVF0SnI4akxrM01EVG1NZmVQeDcz?oc=5",
+      "source": "myMotherLode.com",
+      "published": "Fri, 23 Oct 2026 17:19:48 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ],
+      "market": "EN",
+      "priority_score": 6,
+      "priority": "C"
     },
     {
       "title": "BigBattery Unveils Lower-Cost Lithium Battery - RV PRO",
@@ -1262,6 +1281,22 @@
       "priority": "C"
     },
     {
+      "title": "Anker Power Bank Fire Lawsuit Alleges Defective Lithium-Ion Battery Exploded in Man's Pocket - AboutLawsuits.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPakZYckdMMDJ3QUt1Umg3RGxJbVppbWxBU2NGWWVmOFJwaGVkeDVvanpwSlVfVVVtajZhejU2dUM4X0tILV9SMVlHYlh4dkEzT3YyU1lzeDU0SmNFcGU4eU9IS1hHQV85ZncxbGdHYjlFMzc3dDdBQ3o3bHZ4V2V1YWw0WXhaRDVPbk1KV1RzcnlIUExGckhVSHFTeFVrRV94?oc=5",
+      "source": "AboutLawsuits.com",
+      "published": "Fri, 23 Oct 2026 12:00:00 GMT",
+      "category": "material",
+      "categories": [
+        "material"
+      ],
+      "tags": [
+        "Lithium"
+      ],
+      "market": "EN",
+      "priority_score": 6,
+      "priority": "C"
+    },
+    {
       "title": "[2026 KSFPE EXPO] “충전 중 배터리 화재 걱정 없다”… (주)메스코리아, 무전원 리튬이온 배터리 충전 보관함 - 소방방재신문",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB5YWdYMkM0Wk1KZVNKZ2cyaEFMS1gtc3ZZZmdHT1ROVHplVWo2UTVlWjh6U1U2VEI5Y3dqUENpV2FZM25B?oc=5",
       "source": "소방방재신문",
@@ -1336,23 +1371,6 @@
       ],
       "tags": [
         "Lithium"
-      ],
-      "market": "KR",
-      "priority_score": 6,
-      "priority": "C"
-    },
-    {
-      "title": "2035년 질산리튬 첨가제 시장 전망: 고니켈 배터리 수요가 연평균 8~12% 성장 견인 - 뉴스 및 통계 - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSWt1ZEtOSUJWMGR5cHpSUzFpVlplaHE5cUlqdHpoQ2xYMHNqQUtEMmJWajFDM0puTVRQbUxmOWdtUkQ1Rm5INEhjNjVLWEtUajJfczBwbWlwVVA3ek5ibGdiQzNrLTA2Q2hFZ3d2TER6V1puNlFMZ05lelVTVWtCMno4Q19OSUV5UzVnZ1ZSLTdkbnEwUG5YUk9mb19WR1owQ3g5X2FyMGlWWDhEbXVJWmFweGlKS2t0OXdCSS1R?oc=5",
-      "source": "IndexBox",
-      "published": "Thu, 22 Oct 2026 18:36:04 GMT",
-      "category": "material",
-      "categories": [
-        "material"
-      ],
-      "tags": [
-        "Lithium",
-        "Market"
       ],
       "market": "KR",
       "priority_score": 6,
@@ -1488,22 +1506,6 @@
       "priority": "C"
     },
     {
-      "title": "[전문가 기고] '사용후 배터리 순환경제 허브' 도약 위한 공급망 전략 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14ZGlvOHZFZzB0YUhFT2hoZTVpRlBsUDd0OUpKcnRXSG1tTWppSkN2Wkd5VWxqLVNkNkM0RHpFMUNiZzhrSlhDSzJqU3FGdw?oc=5",
-      "source": "전자신문",
-      "published": "Thu, 22 Oct 2026 07:00:00 GMT",
-      "category": "material",
-      "categories": [
-        "material"
-      ],
-      "tags": [
-        "Supply / Order"
-      ],
-      "market": "KR",
-      "priority_score": 6,
-      "priority": "C"
-    },
-    {
       "title": "이동채 에코프로 창립자 “삼원계 배터리 기회 크게 열릴것” - 전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EQlBZeUk0UkN2RjFGVm9URmJ4cjhSTTJqUDlBY3JvUjZCQ3NJYUNOMUR2STZuZl9yNTA1YkdjYy0yNkV6ZGVocXh4R2NOdw?oc=5",
       "source": "전자신문",
@@ -1625,22 +1627,6 @@
       "tags": [
         "Investment",
         "Market"
-      ],
-      "market": "KR",
-      "priority_score": 6,
-      "priority": "C"
-    },
-    {
-      "title": "배터리 적자 못 벗은 삼성SDI, 최주선이 꺼낸 무기 '사람'과 '양산' - 네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQVZJaTRkZFhfck9nOGlDb2lsS0RtVXc0U0g4bFBLakI3cTM5MnltMS1OT0VJSkpIcmtNYkJNczlOOEhvdlFkam5sbmNxS2s4UHhGdy1MLUtSOGdXc0ppVU9sZ3llX011QXcyMVItcjV4b2NVZk93bzhWZ1F3cXVVbA?oc=5",
-      "source": "네이버 프리미엄콘텐츠",
-      "published": "Tue, 20 Oct 2026 21:50:00 GMT",
-      "category": "customer",
-      "categories": [
-        "customer"
-      ],
-      "tags": [
-        "Samsung SDI"
       ],
       "market": "KR",
       "priority_score": 6,
